@@ -1,0 +1,116 @@
+{
+  "setupName": "sf_296_mon_quali_q04",
+  "session": "quali",
+  "car": "ferrari_296_gt3",
+  "track": "mon",
+  "source": "sf",
+  "originalFileName": "SF 296 MON Q03.json",
+  "parameters": {
+    "Tyres": {
+      "Left Front": {
+        "psi": "24.9",
+        "toe": "-0.30°",
+        "camber": "-4.0°",
+        "caster": "13.8°"
+      },
+      "Right Front": {
+        "psi": "25.8",
+        "toe": "-0.30°",
+        "camber": "-4.0°",
+        "caster": "13.8°"
+      },
+      "Left Rear": {
+        "psi": "25.0",
+        "toe": "0.00°",
+        "camber": "-3.5°"
+      },
+      "Right Rear": {
+        "psi": "25.7",
+        "toe": "0.00°",
+        "camber": "-3.5°"
+      }
+    },
+    "Electronics": {
+      "Electronic Elements": {
+        "TC": "20",
+        "ABS": "1",
+        "ECU Map": "1"
+      }
+    },
+    "Mechanical Grip": {
+      "Front": {
+        "antiroll bar": "4",
+        "brake power": "100%",
+        "brake bias": "55.0%",
+        "steer ratio": "15"
+      },
+      "Left Front": {
+        "wheel rate": "163,769",
+        "bumpstop rate": "600",
+        "bumpstop range": "5"
+      },
+      "Right Front": {
+        "wheel rate": "163,769",
+        "bumpstop rate": "600",
+        "bumpstop range": "5"
+      },
+      "Left Rear": {
+        "wheel rate": "122,091",
+        "bumpstop rate": "2,000",
+        "bumpstop range": "18"
+      },
+      "Right Rear": {
+        "wheel rate": "122,091",
+        "bumpstop rate": "2,000",
+        "bumpstop range": "18"
+      },
+      "Rear": {
+        "antiroll bar": "0",
+        "preload differential": "20 Nm"
+      }
+    },
+    "Dampers": {
+      "Left Front": {
+        "bump": "2",
+        "fast bump": "0",
+        "rebound": "2",
+        "fast rebound": "0"
+      },
+      "Right Front": {
+        "bump": "2",
+        "fast bump": "0",
+        "rebound": "2",
+        "fast rebound": "0"
+      },
+      "Left Rear": {
+        "bump": "0",
+        "fast bump": "6",
+        "rebound": "11",
+        "fast rebound": "6"
+      },
+      "Right Rear": {
+        "bump": "0",
+        "fast bump": "6",
+        "rebound": "11",
+        "fast rebound": "6"
+      }
+    },
+    "Aero": {
+      "Rear": {
+        "ride height": "50 mm",
+        "rear wing": "2",
+        "brake ducts": "2"
+      },
+      "Front": {
+        "ride height": "50 mm",
+        "splitter": "0",
+        "brake ducts": "1"
+      }
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Monza.docx",
+    "sourceMarker": "Ferrari 296 GT3 - Monza - SF",
+    "sourceHeaderLine": "SF 296 MON Q.jsonSF 296 MON R.jsonSF 296 MON Q01.jsonSF 296 MON Q02.jsonSF 296 MON RF01.jsonSF 296 MON RF02.jsonSF 296 MON RS01.jsonSF 296 MON RS02.jsonSF 296 MON Q03.jsonSF 296 MON RS03.json"
+  }
+}

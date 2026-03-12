@@ -1,0 +1,116 @@
+{
+  "setupName": "sf_296_cota_race_r02",
+  "session": "race",
+  "car": "ferrari_296_gt3",
+  "track": "cota",
+  "source": "sf",
+  "originalFileName": "SF 296 COTA RF02.json",
+  "raceStyle": "fast",
+  "parameters": {
+    "Tyres": {
+      "Left Front": {
+        "psi": "25.4",
+        "toe": "-0.16°",
+        "camber": "-4.0°",
+        "caster": "12.7°"
+      },
+      "Right Front": {
+        "psi": "25.6",
+        "toe": "-0.16°",
+        "camber": "-4.0°",
+        "caster": "12.7°"
+      },
+      "Left Rear": {
+        "psi": "24.9",
+        "toe": "0.00°",
+        "camber": "-3.5°"
+      },
+      "Right Rear": {
+        "psi": "25.0",
+        "toe": "0.00°",
+        "camber": "-3.5°"
+      }
+    },
+    "Electronics": {
+      "Electronic Elements": {
+        "TC": "20",
+        "ABS": "3",
+        "ECU Map": "1"
+      }
+    },
+    "Mechanical Grip": {
+      "Front": {
+        "antiroll bar": "4",
+        "brake power": "100%",
+        "brake bias": "58.4%",
+        "steer ratio": "16"
+      },
+      "Left Front": {
+        "wheel rate": "176,367",
+        "bumpstop rate": "800",
+        "bumpstop range": "3"
+      },
+      "Right Front": {
+        "wheel rate": "176,367",
+        "bumpstop rate": "800",
+        "bumpstop range": "3"
+      },
+      "Left Rear": {
+        "wheel rate": "136,455",
+        "bumpstop rate": "1,000",
+        "bumpstop range": "14"
+      },
+      "Right Rear": {
+        "wheel rate": "136,455",
+        "bumpstop rate": "1,000",
+        "bumpstop range": "14"
+      },
+      "Rear": {
+        "antiroll bar": "5",
+        "preload differential": "100 Nm"
+      }
+    },
+    "Dampers": {
+      "Left Front": {
+        "bump": "5",
+        "fast bump": "11",
+        "rebound": "9",
+        "fast rebound": "10"
+      },
+      "Right Front": {
+        "bump": "5",
+        "fast bump": "11",
+        "rebound": "9",
+        "fast rebound": "10"
+      },
+      "Left Rear": {
+        "bump": "2",
+        "fast bump": "11",
+        "rebound": "10",
+        "fast rebound": "9"
+      },
+      "Right Rear": {
+        "bump": "2",
+        "fast bump": "11",
+        "rebound": "10",
+        "fast rebound": "9"
+      }
+    },
+    "Aero": {
+      "Rear": {
+        "ride height": "72 mm",
+        "rear wing": "12",
+        "brake ducts": "3"
+      },
+      "Front": {
+        "ride height": "54 mm",
+        "splitter": "0",
+        "brake ducts": "3"
+      }
+    }
+  },
+  "provenance": {
+    "sourceDocument": "cota.docx",
+    "sourceIndexLine": "SF 296 COTA Q LFM.jsonSF 296 COTA R LFM.jsonSF 296 COTA Q01.jsonSF 296 COTA Q02.jsonSF 296 COTA RF01.jsonSF 296 COTA RF02.jsonSF 296 COTA RS01.jsonSF 296 COTA RS02.json"
+  }
+}

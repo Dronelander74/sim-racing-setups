@@ -1,0 +1,116 @@
+{
+  "setupName": "sf_296_par_quali_q03",
+  "session": "quali",
+  "car": "ferrari_296_gt3",
+  "track": "par",
+  "source": "sf",
+  "originalFileName": "CDA4 CDA M 296 PAR Q.json",
+  "parameters": {
+    "Tyres": {
+      "Left Front": {
+        "psi": "24.9",
+        "toe": "-0.40°",
+        "camber": "-4.0°",
+        "caster": "13.8°"
+      },
+      "Right Front": {
+        "psi": "25.9",
+        "toe": "-0.40°",
+        "camber": "-4.0°",
+        "caster": "13.8°"
+      },
+      "Left Rear": {
+        "psi": "24.9",
+        "toe": "0.10°",
+        "camber": "-3.5°"
+      },
+      "Right Rear": {
+        "psi": "25.6",
+        "toe": "0.10°",
+        "camber": "-3.5°"
+      }
+    },
+    "Electronics": {
+      "Electronic Elements": {
+        "TC": "20",
+        "ABS": "2",
+        "ECU Map": "1"
+      }
+    },
+    "Mechanical Grip": {
+      "Front": {
+        "antiroll bar": "5",
+        "brake power": "100%",
+        "brake bias": "56.0%",
+        "steer ratio": "15"
+      },
+      "Left Front": {
+        "wheel rate": "163,769",
+        "bumpstop rate": "300",
+        "bumpstop range": "5"
+      },
+      "Right Front": {
+        "wheel rate": "163,769",
+        "bumpstop rate": "300",
+        "bumpstop range": "5"
+      },
+      "Left Rear": {
+        "wheel rate": "122,091",
+        "bumpstop rate": "400",
+        "bumpstop range": "30"
+      },
+      "Right Rear": {
+        "wheel rate": "122,091",
+        "bumpstop rate": "400",
+        "bumpstop range": "30"
+      },
+      "Rear": {
+        "antiroll bar": "0",
+        "preload differential": "20 Nm"
+      }
+    },
+    "Dampers": {
+      "Left Front": {
+        "bump": "0",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      },
+      "Right Front": {
+        "bump": "0",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      },
+      "Left Rear": {
+        "bump": "0",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      },
+      "Right Rear": {
+        "bump": "0",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      }
+    },
+    "Aero": {
+      "Rear": {
+        "ride height": "52 mm",
+        "rear wing": "4",
+        "brake ducts": "3"
+      },
+      "Front": {
+        "ride height": "50 mm",
+        "splitter": "0",
+        "brake ducts": "2"
+      }
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Paul Ricard.docx",
+    "sourceMarker": "Ferrari 296 GT3 - Paul Ricard - CDA4",
+    "sourceHeaderLine": "CDA M 296 PAR Q.jsonCDA M 296 PAR R.jsonCDA4 296 PAR Q01.jsonCDA4 296 PAR Q02.jsonCDA4 296 PAR RF01.jsonCDA4 296 PAR RF02.jsonCDA4 296 PAR RS01.jsonCDA4 296 PAR RS02.json"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "setupName": "sf_296_pan_quali_q02",
+  "session": "quali",
+  "car": "ferrari_296_gt3",
+  "track": "pan",
+  "source": "sf",
+  "originalFileName": "SF 296 PAN Q01.json",
+  "parameters": {
+    "Tyres": {
+      "Left Front": {
+        "psi": "26.0",
+        "toe": "-0.04°",
+        "camber": "-3.5°",
+        "caster": "12.0°"
+      },
+      "Right Front": {
+        "psi": "25.5",
+        "toe": "-0.04°",
+        "camber": "-3.5°",
+        "caster": "12.0°"
+      },
+      "Left Rear": {
+        "psi": "25.4",
+        "toe": "0.00°",
+        "camber": "-3.1°"
+      },
+      "Right Rear": {
+        "psi": "24.9",
+        "toe": "0.00°",
+        "camber": "-3.1°"
+      }
+    },
+    "Electronics": {
+      "Electronic Elements": {
+        "TC": "20",
+        "ABS": "5",
+        "ECU Map": "1"
+      }
+    },
+    "Mechanical Grip": {
+      "Front": {
+        "antiroll bar": "0",
+        "brake power": "100%",
+        "brake bias": "57.8%",
+        "steer ratio": "14"
+      },
+      "Left Front": {
+        "wheel rate": "182,666",
+        "bumpstop rate": "1,000",
+        "bumpstop range": "10"
+      },
+      "Right Front": {
+        "wheel rate": "182,666",
+        "bumpstop rate": "1,000",
+        "bumpstop range": "10"
+      },
+      "Left Rear": {
+        "wheel rate": "179,546",
+        "bumpstop rate": "1,000",
+        "bumpstop range": "8"
+      },
+      "Right Rear": {
+        "wheel rate": "179,546",
+        "bumpstop rate": "1,000",
+        "bumpstop range": "8"
+      },
+      "Rear": {
+        "antiroll bar": "1",
+        "preload differential": "90 Nm"
+      }
+    },
+    "Dampers": {
+      "Left Front": {
+        "bump": "6",
+        "fast bump": "8",
+        "rebound": "9",
+        "fast rebound": "10"
+      },
+      "Right Front": {
+        "bump": "6",
+        "fast bump": "8",
+        "rebound": "9",
+        "fast rebound": "10"
+      },
+      "Left Rear": {
+        "bump": "8",
+        "fast bump": "4",
+        "rebound": "5",
+        "fast rebound": "10"
+      },
+      "Right Rear": {
+        "bump": "8",
+        "fast bump": "4",
+        "rebound": "5",
+        "fast rebound": "10"
+      }
+    },
+    "Aero": {
+      "Rear": {
+        "ride height": "50 mm",
+        "rear wing": "7",
+        "brake ducts": "3"
+      },
+      "Front": {
+        "ride height": "53 mm",
+        "splitter": "0",
+        "brake ducts": "3"
+      }
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Mount Panorama.docx",
+    "sourceMarker": "Ferrari 296 GT3 - Mount Panorama - SF",
+    "sourceHeaderLine": "SF 296 PAN Q.jsonSF 296 PAN R.jsonSF 296 PAN Q01.jsonSF 296 PAN Q02.jsonSF 296 PAN RF01.jsonSF 296 PAN RF02.jsonSF 296 PAN RS01.jsonSF 296 PAN RS02.json"
+  }
+}

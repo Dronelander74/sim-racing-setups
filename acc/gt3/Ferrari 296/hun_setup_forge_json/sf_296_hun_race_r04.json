@@ -1,0 +1,116 @@
+{
+  "setupName": "sf_296_hun_race_r04",
+  "session": "race",
+  "car": "ferrari_296_gt3",
+  "track": "hun",
+  "source": "sf",
+  "originalFileName": "SF 296 HUN RS02.json",
+  "parameters": {
+    "Tyres": {
+      "Left Front": {
+        "psi": "25.2",
+        "toe": "-0.11°",
+        "camber": "-3.8°",
+        "caster": "13.8°"
+      },
+      "Right Front": {
+        "psi": "25.9",
+        "toe": "-0.11°",
+        "camber": "-3.8°",
+        "caster": "13.8°"
+      },
+      "Left Rear": {
+        "psi": "24.5",
+        "toe": "0.00°",
+        "camber": "-3.3°"
+      },
+      "Right Rear": {
+        "psi": "25.3",
+        "toe": "0.00°",
+        "camber": "-3.3°"
+      }
+    },
+    "Electronics": {
+      "Electronic Elements": {
+        "TC": "20",
+        "ABS": "4",
+        "ECU Map": "1"
+      }
+    },
+    "Mechanical Grip": {
+      "Front": {
+        "antiroll bar": "1",
+        "brake power": "100%",
+        "brake bias": "54.8%",
+        "steer ratio": "14"
+      },
+      "Left Front": {
+        "wheel rate": "182,666",
+        "bumpstop rate": "800",
+        "bumpstop range": "4"
+      },
+      "Right Front": {
+        "wheel rate": "182,666",
+        "bumpstop rate": "800",
+        "bumpstop range": "4"
+      },
+      "Left Rear": {
+        "wheel rate": "143,637",
+        "bumpstop rate": "2,200",
+        "bumpstop range": "10"
+      },
+      "Right Rear": {
+        "wheel rate": "143,637",
+        "bumpstop rate": "2,200",
+        "bumpstop range": "10"
+      },
+      "Rear": {
+        "antiroll bar": "4",
+        "preload differential": "50 Nm"
+      }
+    },
+    "Dampers": {
+      "Left Front": {
+        "bump": "5",
+        "fast bump": "6",
+        "rebound": "7",
+        "fast rebound": "7"
+      },
+      "Right Front": {
+        "bump": "5",
+        "fast bump": "6",
+        "rebound": "7",
+        "fast rebound": "7"
+      },
+      "Left Rear": {
+        "bump": "4",
+        "fast bump": "6",
+        "rebound": "7",
+        "fast rebound": "9"
+      },
+      "Right Rear": {
+        "bump": "4",
+        "fast bump": "6",
+        "rebound": "7",
+        "fast rebound": "9"
+      }
+    },
+    "Aero": {
+      "Rear": {
+        "ride height": "59 mm",
+        "rear wing": "12",
+        "brake ducts": "5"
+      },
+      "Front": {
+        "ride height": "50 mm",
+        "splitter": "0",
+        "brake ducts": "4"
+      }
+    }
+  },
+  "provenance": {
+    "sourceDocument": "hungaroring.docx",
+    "sourceIndexLine": "SF 296 HUN Q LFM.jsonSF 296 HUN Q.jsonSF 296 HUN R LFM.jsonSF 296 HUN R.jsonSF 296 HUN Q01.jsonSF 296 HUN Q02.jsonSF 296 HUN RF01.jsonSF 296 HUN RF02.jsonSF 296 HUN RS01.jsonSF 296 HUN RS02.json"
+  },
+  "raceStyle": "safe"
+}

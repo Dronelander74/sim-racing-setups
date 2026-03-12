@@ -1,0 +1,114 @@
+{
+  "setupName": "sf_296_wkg_race_r05",
+  "session": "race",
+  "car": "ferrari_296_gt3",
+  "track": "watkins_glen",
+  "source": "sf",
+  "originalFileName": "SF 296 WKG RS01.json",
+  "parameters": {
+    "Ferrari": "296 GT3 - Watkins Glen - SF",
+    "SF": "296 WKG Q LFM.jsonSF 296 WKG Q.jsonSF 296 WKG R LFM.jsonSF 296 WKG R.jsonSF 296 WKG Q01.jsonSF 296 WKG Q02.jsonSF 296 WKG RF01.jsonSF 296 WKG RF02.jsonSF 296 WKG RS01.jsonSF 296 WKG RS02.json",
+    "Tyres": {
+      "Left Front": {
+        "psi": "24.4",
+        "toe": "-0.07\u00b0",
+        "camber": "-3.6\u00b0",
+        "caster": "12.0\u00b0"
+      },
+      "Right Front": {
+        "psi": "25.2",
+        "toe": "-0.07\u00b0",
+        "camber": "-3.6\u00b0",
+        "caster": "12.0\u00b0"
+      },
+      "Left Rear": {
+        "psi": "24.1",
+        "toe": "0.00\u00b0",
+        "camber": "-3.1\u00b0"
+      },
+      "Right Rear": {
+        "psi": "24.8",
+        "toe": "0.00\u00b0",
+        "camber": "-3.1\u00b0"
+      }
+    },
+    "Electronics": {
+      "Electronic Elements": {
+        "TC": "20",
+        "ABS": "5",
+        "ECU Map": "1"
+      }
+    },
+    "Mechanical Grip": {
+      "Front": {
+        "antiroll bar": "1",
+        "brake power": "100%",
+        "brake bias": "58.6%",
+        "steer ratio": "14"
+      },
+      "Left Front": {
+        "wheel rate": "170,068",
+        "bumpstop rate": "1,000",
+        "bumpstop range": "8"
+      },
+      "Right Front": {
+        "wheel rate": "170,068",
+        "bumpstop rate": "1,000",
+        "bumpstop range": "8"
+      },
+      "Left Rear": {
+        "wheel rate": "172,364",
+        "bumpstop rate": "1,000",
+        "bumpstop range": "8"
+      },
+      "Right Rear": {
+        "wheel rate": "172,364",
+        "bumpstop rate": "1,000",
+        "bumpstop range": "8"
+      },
+      "Rear": {
+        "antiroll bar": "5",
+        "preload differential": "60 Nm"
+      }
+    },
+    "Dampers": {
+      "Left Front": {
+        "bump": "4",
+        "fast bump": "8",
+        "rebound": "6",
+        "fast rebound": "10"
+      },
+      "Right Front": {
+        "bump": "4",
+        "fast bump": "8",
+        "rebound": "6",
+        "fast rebound": "10"
+      },
+      "Left Rear": {
+        "bump": "9",
+        "fast bump": "4",
+        "rebound": "5",
+        "fast rebound": "10"
+      },
+      "Right Rear": {
+        "bump": "9",
+        "fast bump": "4",
+        "rebound": "5",
+        "fast rebound": "10"
+      }
+    },
+    "Aero": {
+      "Rear": {
+        "ride height": "59 mm",
+        "rear wing": "12",
+        "brake ducts": "5"
+      },
+      "Front": {
+        "ride height": "50 mm",
+        "splitter": "0",
+        "brake ducts": "4"
+      }
+    }
+  },
+  "raceStyle": "safe"
+}

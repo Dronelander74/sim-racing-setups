@@ -1,0 +1,115 @@
+{
+  "setupName": "sf_296_brh_quali_q02",
+  "session": "quali",
+  "car": "ferrari_296_gt3",
+  "track": "brh",
+  "source": "sf",
+  "originalFileName": "SF 296 BRH Q02.json",
+  "parameters": {
+    "Tyres": {
+      "Left Front": {
+        "psi": "24.8",
+        "toe": "-0.15°",
+        "camber": "-4.0°",
+        "caster": "12.0°"
+      },
+      "Right Front": {
+        "psi": "26.2",
+        "toe": "-0.15°",
+        "camber": "-4.0°",
+        "caster": "12.0°"
+      },
+      "Left Rear": {
+        "psi": "24.3",
+        "toe": "0.00°",
+        "camber": "-3.5°"
+      },
+      "Right Rear": {
+        "psi": "25.5",
+        "toe": "0.00°",
+        "camber": "-3.5°"
+      }
+    },
+    "Electronics": {
+      "Electronic Elements": {
+        "TC": "20",
+        "ABS": "3",
+        "ECU Map": "1"
+      }
+    },
+    "Mechanical Grip": {
+      "Front": {
+        "antiroll bar": "2",
+        "brake power": "100%",
+        "brake bias": "57.0%",
+        "steer ratio": "15"
+      },
+      "Left Front": {
+        "wheel rate": "163,769",
+        "bumpstop rate": "400",
+        "bumpstop range": "10"
+      },
+      "Right Front": {
+        "wheel rate": "163,769",
+        "bumpstop rate": "400",
+        "bumpstop range": "10"
+      },
+      "Left Rear": {
+        "wheel rate": "143,637",
+        "bumpstop rate": "1,400",
+        "bumpstop range": "15"
+      },
+      "Right Rear": {
+        "wheel rate": "143,637",
+        "bumpstop rate": "1,400",
+        "bumpstop range": "15"
+      },
+      "Rear": {
+        "antiroll bar": "6",
+        "preload differential": "100 Nm"
+      }
+    },
+    "Dampers": {
+      "Left Front": {
+        "bump": "6",
+        "fast bump": "8",
+        "rebound": "10",
+        "fast rebound": "9"
+      },
+      "Right Front": {
+        "bump": "6",
+        "fast bump": "8",
+        "rebound": "10",
+        "fast rebound": "9"
+      },
+      "Left Rear": {
+        "bump": "8",
+        "fast bump": "8",
+        "rebound": "5",
+        "fast rebound": "11"
+      },
+      "Right Rear": {
+        "bump": "8",
+        "fast bump": "8",
+        "rebound": "5",
+        "fast rebound": "11"
+      }
+    },
+    "Aero": {
+      "Rear": {
+        "ride height": "64 mm",
+        "rear wing": "12",
+        "brake ducts": "4"
+      },
+      "Front": {
+        "ride height": "50 mm",
+        "splitter": "0",
+        "brake ducts": "4"
+      }
+    }
+  },
+  "provenance": {
+    "sourceDocument": "brands_hatch.docx",
+    "sourceIndexLine": "SF 296 BRH Q LFM.jsonSF 296 BRH R LFM.jsonSF 296 BRH Q01.jsonSF 296 BRH Q02.jsonSF 296 BRH RF01.jsonSF 296 BRH RF02.jsonSF 296 BRH RS01.jsonSF 296 BRH RS02.json"
+  }
+}

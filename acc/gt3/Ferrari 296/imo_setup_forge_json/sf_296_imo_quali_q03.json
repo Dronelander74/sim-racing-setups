@@ -1,0 +1,115 @@
+{
+  "setupName": "sf_296_imo_quali_q03",
+  "session": "quali",
+  "car": "ferrari_296_gt3",
+  "track": "imo",
+  "source": "sf",
+  "originalFileName": "SF 296 IMO Q LFM.json",
+  "parameters": {
+    "Tyres": {
+      "Left Front": {
+        "psi": "25.8",
+        "toe": "-0.40°",
+        "camber": "-4.0°",
+        "caster": "13.8°"
+      },
+      "Right Front": {
+        "psi": "25.2",
+        "toe": "-0.40°",
+        "camber": "-4.0°",
+        "caster": "13.8°"
+      },
+      "Left Rear": {
+        "psi": "25.6",
+        "toe": "-0.05°",
+        "camber": "-3.5°"
+      },
+      "Right Rear": {
+        "psi": "25.2",
+        "toe": "-0.05°",
+        "camber": "-3.5°"
+      }
+    },
+    "Electronics": {
+      "Electronic Elements": {
+        "TC": "20",
+        "ABS": "2",
+        "ECU Map": "1"
+      }
+    },
+    "Mechanical Grip": {
+      "Front": {
+        "antiroll bar": "0",
+        "brake power": "100%",
+        "brake bias": "57.0%",
+        "steer ratio": "15"
+      },
+      "Left Front": {
+        "wheel rate": "163,769",
+        "bumpstop rate": "300",
+        "bumpstop range": "7"
+      },
+      "Right Front": {
+        "wheel rate": "163,769",
+        "bumpstop rate": "300",
+        "bumpstop range": "7"
+      },
+      "Left Rear": {
+        "wheel rate": "122,091",
+        "bumpstop rate": "400",
+        "bumpstop range": "38"
+      },
+      "Right Rear": {
+        "wheel rate": "122,091",
+        "bumpstop rate": "400",
+        "bumpstop range": "38"
+      },
+      "Rear": {
+        "antiroll bar": "0",
+        "preload differential": "20 Nm"
+      }
+    },
+    "Dampers": {
+      "Left Front": {
+        "bump": "2",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      },
+      "Right Front": {
+        "bump": "2",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      },
+      "Left Rear": {
+        "bump": "0",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      },
+      "Right Rear": {
+        "bump": "0",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      }
+    },
+    "Aero": {
+      "Rear": {
+        "ride height": "64 mm",
+        "rear wing": "7",
+        "brake ducts": "4"
+      },
+      "Front": {
+        "ride height": "60 mm",
+        "splitter": "0",
+        "brake ducts": "2"
+      }
+    }
+  },
+  "provenance": {
+    "sourceDocument": "imola.docx",
+    "sourceIndexLine": "SF 296 IMO Q LFM.jsonSF 296 IMO R LFM.jsonSF 296 IMO Q01.jsonSF 296 IMO Q02.jsonSF 296 IMO RF01.jsonSF 296 IMO RF02.jsonSF 296 IMO RS01.jsonSF 296 IMO RS02.json"
+  }
+}

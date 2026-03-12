@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_296_sil_race_r03",
+  "session": "race",
+  "car": "ferrari_296_gt3",
+  "track": "sil",
+  "source": "sf",
+  "originalFileName": "SF 296 SIL RS01.json",
+  "parameters": {
+    "Tyres": {
+      "Left Front": {
+        "psi": "25.0",
+        "toe": "-0.12°",
+        "camber": "-4.0°",
+        "caster": "12.7°"
+      },
+      "Right Front": {
+        "psi": "26.0",
+        "toe": "-0.12°",
+        "camber": "-4.0°",
+        "caster": "12.7°"
+      },
+      "Left Rear": {
+        "psi": "24.5",
+        "toe": "0.03°",
+        "camber": "-3.5°"
+      },
+      "Right Rear": {
+        "psi": "25.3",
+        "toe": "0.03°",
+        "camber": "-3.5°"
+      }
+    },
+    "Electronics": {
+      "Electronic Elements": {
+        "TC": "20",
+        "ABS": "3",
+        "ECU Map": "1"
+      }
+    },
+    "Mechanical Grip": {
+      "Front": {
+        "antiroll bar": "5",
+        "brake power": "100%",
+        "brake bias": "58.2%",
+        "steer ratio": "16"
+      },
+      "Left Front": {
+        "wheel rate": "176,367",
+        "bumpstop rate": "800",
+        "bumpstop range": "8"
+      },
+      "Right Front": {
+        "wheel rate": "176,367",
+        "bumpstop rate": "800",
+        "bumpstop range": "8"
+      },
+      "Left Rear": {
+        "wheel rate": "129,273",
+        "bumpstop rate": "1,600",
+        "bumpstop range": "10"
+      },
+      "Right Rear": {
+        "wheel rate": "129,273",
+        "bumpstop rate": "1,600",
+        "bumpstop range": "10"
+      },
+      "Rear": {
+        "antiroll bar": "3",
+        "preload differential": "110 Nm"
+      }
+    },
+    "Dampers": {
+      "Left Front": {
+        "bump": "6",
+        "fast bump": "5",
+        "rebound": "10",
+        "fast rebound": "7"
+      },
+      "Right Front": {
+        "bump": "6",
+        "fast bump": "5",
+        "rebound": "10",
+        "fast rebound": "7"
+      },
+      "Left Rear": {
+        "bump": "2",
+        "fast bump": "6",
+        "rebound": "11",
+        "fast rebound": "8"
+      },
+      "Right Rear": {
+        "bump": "2",
+        "fast bump": "6",
+        "rebound": "11",
+        "fast rebound": "8"
+      }
+    },
+    "Aero": {
+      "Rear": {
+        "ride height": "68 mm",
+        "rear wing": "12",
+        "brake ducts": "3"
+      },
+      "Front": {
+        "ride height": "50 mm",
+        "splitter": "0",
+        "brake ducts": "3"
+      }
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Silverstone.docx",
+    "sourceMarker": "Ferrari 296 GT3 - Silverstone - SF",
+    "sourceHeaderLine": "SF 296 SIL Q LFM.jsonSF 296 SIL Q.jsonSF 296 SIL R LFM.jsonSF 296 SIL R.jsonSF 296 SIL Q01.jsonSF 296 SIL Q02.jsonSF 296 SIL RF01.jsonSF 296 SIL RF02.jsonSF 296 SIL RS01.jsonSF 296 SIL RS02.json"
+  },
+  "raceStyle": "safe"
+}

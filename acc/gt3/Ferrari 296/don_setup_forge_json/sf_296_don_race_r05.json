@@ -1,0 +1,115 @@
+{
+  "setupName": "sf_296_don_race_r05",
+  "session": "race",
+  "car": "ferrari_296_gt3",
+  "track": "don",
+  "source": "sf",
+  "originalFileName": "SF 296 DNP R LFM.json",
+  "parameters": {
+    "Tyres": {
+      "Left Front": {
+        "psi": "25.1",
+        "toe": "-0.30\u00b0",
+        "camber": "-4.0\u00b0",
+        "caster": "13.8\u00b0"
+      },
+      "Right Front": {
+        "psi": "25.8",
+        "toe": "-0.30\u00b0",
+        "camber": "-4.0\u00b0",
+        "caster": "13.8\u00b0"
+      },
+      "Left Rear": {
+        "psi": "25.0",
+        "toe": "0.04\u00b0",
+        "camber": "-3.5\u00b0"
+      },
+      "Right Rear": {
+        "psi": "25.6",
+        "toe": "0.04\u00b0",
+        "camber": "-3.5\u00b0"
+      }
+    },
+    "Electronics": {
+      "Electronic Elements": {
+        "TC": "20",
+        "ABS": "2",
+        "ECU Map": "1"
+      }
+    },
+    "Mechanical Grip": {
+      "Front": {
+        "antiroll bar": "4",
+        "brake power": "100%",
+        "brake bias": "56.6%",
+        "steer ratio": "15"
+      },
+      "Left Front": {
+        "wheel rate": "163,769",
+        "bumpstop rate": "300",
+        "bumpstop range": "12"
+      },
+      "Right Front": {
+        "wheel rate": "163,769",
+        "bumpstop rate": "300",
+        "bumpstop range": "12"
+      },
+      "Left Rear": {
+        "wheel rate": "122,091",
+        "bumpstop rate": "400",
+        "bumpstop range": "30"
+      },
+      "Right Rear": {
+        "wheel rate": "122,091",
+        "bumpstop rate": "400",
+        "bumpstop range": "30"
+      },
+      "Rear": {
+        "antiroll bar": "2",
+        "preload differential": "20 Nm"
+      }
+    },
+    "Dampers": {
+      "Left Front": {
+        "bump": "0",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      },
+      "Right Front": {
+        "bump": "0",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      },
+      "Left Rear": {
+        "bump": "0",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      },
+      "Right Rear": {
+        "bump": "0",
+        "fast bump": "0",
+        "rebound": "11",
+        "fast rebound": "11"
+      }
+    },
+    "Aero": {
+      "Rear": {
+        "ride height": "68 mm",
+        "rear wing": "12",
+        "brake ducts": "3"
+      },
+      "Front": {
+        "ride height": "50 mm",
+        "splitter": "0",
+        "brake ducts": "2"
+      }
+    }
+  },
+  "provenance": {
+    "sourceDocument": "donington park.docx",
+    "sourceIndexLine": "SF 296 DNP Q LFM.jsonSF 296 DNP R LFM.jsonSF 296 DNP Q01.jsonSF 296 DNP Q02.jsonSF 296 DNP RF01.jsonSF 296 DNP RF02.jsonSF 296 DNP RS01.jsonSF 296 DNP RS02.json"
+  }
+}
