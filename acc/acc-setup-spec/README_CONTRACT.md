@@ -143,10 +143,19 @@ In particular:
 
 
 
-### Wet Tyre Policy (Deterministic Guardrails)
 
-Wet tyres require deterministic guardrails outside the field-manifest (policy, not structure).  
-Use `acc/acc-setup-spec/handling-rules/WetPolicy.ts` as the authoritative rule-set for wet PSI targets and temperature evaluation.
+## Tyre Pressure Policy
+
+Tyre pressure target hot values are constrained by condition-specific ranges defined in:
+
+acc/policies/tyre-pressure-policy.json
+
+The UI, pressure calculator and setup generator MUST:
+- load this policy
+- enforce min/max ranges
+- use default_target_hot when switching conditions
+- reject or clamp values outside allowed ranges
+``
 
 
 ## 7. Versioning & Integrity
