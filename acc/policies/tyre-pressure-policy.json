@@ -1,0 +1,17 @@
+{
+  "dry": {
+    "target_hot_range": {
+      "min": 26.0,
+      "max": 27.0
+    },
+    "default_target_hot": 26.5
+  },
+  "wet": {
+    "target_hot_range": {
+      "min": 30.0,
+      "max": 31.0
+    },
+    "default_target_hot": 30.5
+  }
+}
+``
