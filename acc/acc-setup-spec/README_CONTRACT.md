@@ -123,6 +123,14 @@ Apply only allowed deltas
 Output a complete ACC‑valid setup
 
 
+### Documentation Usage (Clarification)
+
+
+Official ACC documentation (physics notes, setup guides, FAQs) is **contextual only** and must be used to understand **physical ranges and cause–effect relationships**, **never** as a source of numeric setup values.  
+All numeric values **must originate exclusively from real ACC setups** (official presets or verified community setups) and be traceable via a declared source.
+
+
+
 ## 7. Versioning & Integrity
 
 This repository is versioned in Git
