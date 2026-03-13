@@ -141,6 +141,14 @@ In particular:
 - The AI MUST operate within these external constraints when generating or adjusting values.
 
 
+
+
+### Wet Tyre Policy (Deterministic Guardrails)
+
+Wet tyres require deterministic guardrails outside the field-manifest (policy, not structure).  
+Use `acc/acc-setup-spec/handling-rules/WetPolicy.ts` as the authoritative rule-set for wet PSI targets and temperature evaluation.
+
+
 ## 7. Versioning & Integrity
 
 This repository is versioned in Git
