@@ -130,6 +130,16 @@ Official ACC documentation (physics notes, setup guides, FAQs) is **contextual o
 All numeric values **must originate exclusively from real ACC setups** (official presets or verified community setups) and be traceable via a declared source.
 
 
+### Domain-Specific Constraints (Non-Structural)
+
+The field-manifest defines structure, paths, and modifiability only.  
+Domain-specific constraints (e.g. wet vs dry tyre pressure targets, temperature-dependent heuristics) are **explicitly enforced outside the manifest** via deterministic policies or post-processing guards.
+
+In particular:
+- In Wet conditions, tyre pressure targets differ significantly from Dry conditions.
+- Such constraints MUST NOT be encoded in the field-manifest.
+- The AI MUST operate within these external constraints when generating or adjusting values.
+
 
 ## 7. Versioning & Integrity
 
