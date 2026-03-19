@@ -1,60 +1,107 @@
 {
-  "aero.front.brake_ducts": {},
-  "aero.front.ride_height": {},
-  "aero.front.splitter": {},
-  "aero.rear.brake_ducts": {},
-  "aero.rear.rear_wing": {},
-  "aero.rear.ride_height": {},
-  "dampers.left_front.bump": {},
-  "dampers.left_front.fast_bump": {},
-  "dampers.left_front.fast_rebound": {},
-  "dampers.left_front.rebound": {},
-  "dampers.left_rear.bump": {},
-  "dampers.left_rear.fast_bump": {},
-  "dampers.left_rear.fast_rebound": {},
-  "dampers.left_rear.rebound": {},
-  "dampers.right_front.bump": {},
-  "dampers.right_front.fast_bump": {},
-  "dampers.right_front.fast_rebound": {},
-  "dampers.right_front.rebound": {},
-  "dampers.right_rear.bump": {},
-  "dampers.right_rear.fast_bump": {},
-  "dampers.right_rear.fast_rebound": {},
-  "dampers.right_rear.rebound": {},
-  "electronics.abs": {},
-  "electronics.ecu_map": {},
-  "electronics.tc": {},
-  "electronics.tc2": {},
-  "mechanical_grip.front.antiroll_bar": {},
-  "mechanical_grip.front.brake_bias": {},
-  "mechanical_grip.front.brake_power": {},
-  "mechanical_grip.front.steer_ratio": {},
-  "mechanical_grip.left_front.bumpstop_range": {},
-  "mechanical_grip.left_front.bumpstop_rate": {},
-  "mechanical_grip.left_front.wheel_rate": {},
-  "mechanical_grip.left_rear.bumpstop_range": {},
-  "mechanical_grip.left_rear.bumpstop_rate": {},
-  "mechanical_grip.left_rear.wheel_rate": {},
-  "mechanical_grip.rear.antiroll_bar": {},
-  "mechanical_grip.rear.preload_differential": {},
-  "mechanical_grip.right_front.bumpstop_range": {},
-  "mechanical_grip.right_front.bumpstop_rate": {},
-  "mechanical_grip.right_front.wheel_rate": {},
-  "mechanical_grip.right_rear.bumpstop_range": {},
-  "mechanical_grip.right_rear.bumpstop_rate": {},
-  "mechanical_grip.right_rear.wheel_rate": {},
-  "tyres.left_front.camber": {},
-  "tyres.left_front.caster": {},
-  "tyres.left_front.psi": {},
-  "tyres.left_front.toe": {},
-  "tyres.left_rear.camber": {},
-  "tyres.left_rear.psi": {},
-  "tyres.left_rear.toe": {},
-  "tyres.right_front.camber": {},
-  "tyres.right_front.caster": {},
-  "tyres.right_front.psi": {},
-  "tyres.right_front.toe": {},
-  "tyres.right_rear.camber": {},
-  "tyres.right_rear.psi": {},
-  "tyres.right_rear.toe": {}
+  "car": "ferrari_296_gt3",
+  "schema": "acc",
+  "fields": {
+    "tyres": {
+      "left_front": [
+        "camber",
+        "caster",
+        "psi",
+        "toe"
+      ],
+      "right_front": [
+        "camber",
+        "caster",
+        "psi",
+        "toe"
+      ],
+      "left_rear": [
+        "camber",
+        "psi",
+        "toe"
+      ],
+      "right_rear": [
+        "camber",
+        "psi",
+        "toe"
+      ]
+    },
+    "electronics": {
+      "electronic_elements": [
+        "abs",
+        "ecu_map",
+        "tc"
+      ]
+    },
+    "mechanical_grip": {
+      "front": [
+        "antiroll_bar",
+        "brake_bias",
+        "brake_power",
+        "steer_ratio"
+      ],
+      "left_front": [
+        "bumpstop_range",
+        "bumpstop_rate",
+        "wheel_rate"
+      ],
+      "right_front": [
+        "bumpstop_range",
+        "bumpstop_rate",
+        "wheel_rate"
+      ],
+      "left_rear": [
+        "bumpstop_range",
+        "bumpstop_rate",
+        "wheel_rate"
+      ],
+      "right_rear": [
+        "bumpstop_range",
+        "bumpstop_rate",
+        "wheel_rate"
+      ],
+      "rear": [
+        "antiroll_bar",
+        "preload_differential"
+      ]
+    },
+    "dampers": {
+      "left_front": [
+        "bump",
+        "fast_bump",
+        "fast_rebound",
+        "rebound"
+      ],
+      "right_front": [
+        "bump",
+        "fast_bump",
+        "fast_rebound",
+        "rebound"
+      ],
+      "left_rear": [
+        "bump",
+        "fast_bump",
+        "fast_rebound",
+        "rebound"
+      ],
+      "right_rear": [
+        "bump",
+        "fast_bump",
+        "fast_rebound",
+        "rebound"
+      ]
+    },
+    "aero": {
+      "rear": [
+        "brake_ducts",
+        "rear_wing",
+        "ride_height"
+      ],
+      "front": [
+        "brake_ducts",
+        "ride_height",
+        "splitter"
+      ]
+    }
+  }
 }
