@@ -30,7 +30,8 @@
       "electronic_elements": [
         "abs",
         "ecu_map",
-        "tc"
+        "tc",
+	"tc2"
       ]
     },
     "mechanical_grip": {
