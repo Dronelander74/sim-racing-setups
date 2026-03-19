@@ -1,0 +1,107 @@
+{
+  "setupName": "sf_m4gt3_cota_quali_q01",
+  "session": "quali",
+  "raceStyle": null,
+  "car": "bmw_m4_gt3",
+  "track": "cota",
+  "tyres": {
+    "left_front": {
+      "psi": 25.1,
+      "toe": -0.03,
+      "camber": -3.9,
+      "caster": 12.6
+    },
+    "right_front": {
+      "psi": 25.3,
+      "toe": -0.03,
+      "camber": -3.9,
+      "caster": 12.6
+    },
+    "left_rear": {
+      "psi": 24.8,
+      "toe": 0.0,
+      "camber": -3.5
+    },
+    "right_rear": {
+      "psi": 25.1,
+      "toe": 0.0,
+      "camber": -3.5
+    }
+  },
+  "electronics": {
+    "tc": 2.0,
+    "abs": 3.0,
+    "ecu_map": 1.0,
+    "tc2": 0.0
+  },
+  "mechanical_grip": {
+    "front": {
+      "antiroll_bar": 5.0,
+      "brake_power": 100.0,
+      "brake_bias": 52.7,
+      "steer_ratio": 15.0
+    },
+    "rear": {
+      "antiroll_bar": 6.0,
+      "preload_differential": 60.0
+    },
+    "left_front": {
+      "wheel_rate": 120000.0,
+      "bumpstop_rate": 500.0,
+      "bumpstop_range": 15.0
+    },
+    "right_front": {
+      "wheel_rate": 120000.0,
+      "bumpstop_rate": 500.0,
+      "bumpstop_range": 15.0
+    },
+    "left_rear": {
+      "wheel_rate": 120000.0,
+      "bumpstop_rate": 1150.0,
+      "bumpstop_range": 16.0
+    },
+    "right_rear": {
+      "wheel_rate": 120000.0,
+      "bumpstop_rate": 1150.0,
+      "bumpstop_range": 16.0
+    }
+  },
+  "dampers": {
+    "left_front": {
+      "bump": 25.0,
+      "fast_bump": 15.0,
+      "rebound": 20.0,
+      "fast_rebound": 32.0
+    },
+    "right_front": {
+      "bump": 25.0,
+      "fast_bump": 15.0,
+      "rebound": 20.0,
+      "fast_rebound": 32.0
+    },
+    "left_rear": {
+      "bump": 7.0,
+      "fast_bump": 25.0,
+      "rebound": 15.0,
+      "fast_rebound": 32.0
+    },
+    "right_rear": {
+      "bump": 7.0,
+      "fast_bump": 25.0,
+      "rebound": 15.0,
+      "fast_rebound": 32.0
+    }
+  },
+  "aero": {
+    "front": {
+      "ride_height": 50.0,
+      "splitter": 0.0,
+      "brake_ducts": 3.0
+    },
+    "rear": {
+      "ride_height": 69.0,
+      "rear_wing": 8.0,
+      "brake_ducts": 3.0
+    }
+  }
+}

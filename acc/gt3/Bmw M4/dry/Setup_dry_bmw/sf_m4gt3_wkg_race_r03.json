@@ -1,0 +1,107 @@
+{
+  "setupName": "sf_m4gt3_wkg_race_r03",
+  "session": "race",
+  "raceStyle": "fast",
+  "car": "bmw_m4_gt3",
+  "track": "watkins_glen",
+  "tyres": {
+    "left_front": {
+      "psi": 24.6,
+      "toe": -0.05,
+      "camber": -3.7,
+      "caster": 13.9
+    },
+    "right_front": {
+      "psi": 25.5,
+      "toe": -0.05,
+      "camber": -3.7,
+      "caster": 13.9
+    },
+    "left_rear": {
+      "psi": 24.1,
+      "toe": 0.05,
+      "camber": -3.3
+    },
+    "right_rear": {
+      "psi": 24.8,
+      "toe": 0.05,
+      "camber": -3.3
+    }
+  },
+  "electronics": {
+    "tc": 4,
+    "abs": 4,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "front": {
+      "antiroll_bar": 3,
+      "brake_power": 100,
+      "brake_bias": 53.0,
+      "steer_ratio": 13
+    },
+    "rear": {
+      "antiroll_bar": 0,
+      "preload_differential": 70
+    },
+    "left_front": {
+      "wheel_rate": 135000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 18
+    },
+    "right_front": {
+      "wheel_rate": 135000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 18
+    },
+    "left_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 50
+    },
+    "right_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 50
+    }
+  },
+  "dampers": {
+    "left_front": {
+      "bump": 18,
+      "fast_bump": 40,
+      "rebound": 25,
+      "fast_rebound": 45
+    },
+    "right_front": {
+      "bump": 18,
+      "fast_bump": 40,
+      "rebound": 25,
+      "fast_rebound": 45
+    },
+    "left_rear": {
+      "bump": 13,
+      "fast_bump": 40,
+      "rebound": 30,
+      "fast_rebound": 45
+    },
+    "right_rear": {
+      "bump": 13,
+      "fast_bump": 40,
+      "rebound": 30,
+      "fast_rebound": 45
+    }
+  },
+  "aero": {
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 4
+    },
+    "rear": {
+      "ride_height": 58,
+      "rear_wing": 8,
+      "brake_ducts": 4
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "setupName": "sf_m4gt3_imo_wet_quali_02",
+  "session": "quali",
+  "raceStyle": null,
+  "car": "bmw_m4_gt3",
+  "track": "imola",
+  "conditions": {
+    "weather": "wet",
+    "intensity": "medium"
+  },
+  "tyres": {
+    "left_front": {
+      "psi": 27,
+      "toe": -0.17,
+      "camber": -3.8,
+      "caster": 12.6
+    },
+    "right_front": {
+      "psi": 26.8,
+      "toe": -0.17,
+      "camber": -3.8,
+      "caster": 12.6
+    },
+    "left_rear": {
+      "psi": 26.7,
+      "toe": 0.08,
+      "camber": -3.4
+    },
+    "right_rear": {
+      "psi": 26.4,
+      "toe": 0.08,
+      "camber": -3.4
+    }
+  },
+  "electronics": {
+    "tc": 5,
+    "abs": 1,
+    "ecu_map": 1,
+    "tc2": 2
+  },
+  "mechanical_grip": {
+    "front": {
+      "brake_power": 100,
+      "brake_bias": 48.5,
+      "steer_ratio": 15
+    },
+    "rear": {
+      "preload_differential": 40
+    },
+    "left_front": {
+      "wheel_rate": 105,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 12
+    },
+    "right_front": {
+      "wheel_rate": 105,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 12
+    },
+    "left_rear": {
+      "wheel_rate": 105,
+      "bumpstop_rate": 1.1,
+      "bumpstop_range": 26
+    },
+    "right_rear": {
+      "wheel_rate": 105,
+      "bumpstop_rate": 1.1,
+      "bumpstop_range": 26
+    }
+  },
+  "dampers": {
+    "left_front": {
+      "bump": 22,
+      "fast_bump": 34,
+      "rebound": 37,
+      "fast_rebound": 45
+    },
+    "right_front": {
+      "bump": 22,
+      "fast_bump": 34,
+      "rebound": 37,
+      "fast_rebound": 45
+    },
+    "left_rear": {
+      "bump": 9,
+      "fast_bump": 32,
+      "rebound": 19,
+      "fast_rebound": 42
+    },
+    "right_rear": {
+      "bump": 9,
+      "fast_bump": 32,
+      "rebound": 19,
+      "fast_rebound": 42
+    }
+  },
+  "aero": {
+    "front": {
+      "splitter": 0
+    },
+    "rear": {
+      "rear_wing": 8
+    }
+  }
+}

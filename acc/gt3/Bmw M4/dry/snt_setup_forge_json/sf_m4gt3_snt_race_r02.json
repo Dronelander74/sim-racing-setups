@@ -1,0 +1,107 @@
+{
+  "setupName": "sf_m4gt3_snt_race_r02",
+  "session": "race",
+  "raceStyle": "safe",
+  "car": "bmw_m4_gt3",
+  "track": "snetterton",
+  "tyres": {
+    "left_front": {
+      "psi": 24.9,
+      "toe": -0.15,
+      "camber": -3.7,
+      "caster": 13.9
+    },
+    "right_front": {
+      "psi": 26.1,
+      "toe": -0.15,
+      "camber": -3.7,
+      "caster": 13.9
+    },
+    "left_rear": {
+      "psi": 24.5,
+      "toe": 0.01,
+      "camber": -3.5
+    },
+    "right_rear": {
+      "psi": 25.3,
+      "toe": 0.01,
+      "camber": -3.5
+    }
+  },
+  "electronics": {
+    "tc": 3,
+    "abs": 4,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "front": {
+      "antiroll_bar": 1,
+      "brake_power": 100,
+      "brake_bias": 49.4,
+      "steer_ratio": 13
+    },
+    "rear": {
+      "antiroll_bar": 0,
+      "preload_differential": 50
+    },
+    "left_front": {
+      "wheel_rate": 120000,
+      "bumpstop_rate": 600,
+      "bumpstop_range": 24
+    },
+    "right_front": {
+      "wheel_rate": 120000,
+      "bumpstop_rate": 600,
+      "bumpstop_range": 24
+    },
+    "left_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 500,
+      "bumpstop_range": 50
+    },
+    "right_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 500,
+      "bumpstop_range": 50
+    }
+  },
+  "dampers": {
+    "left_front": {
+      "bump": 10,
+      "fast_bump": 35,
+      "rebound": 32,
+      "fast_rebound": 40
+    },
+    "right_front": {
+      "bump": 10,
+      "fast_bump": 35,
+      "rebound": 32,
+      "fast_rebound": 40
+    },
+    "left_rear": {
+      "bump": 15,
+      "fast_bump": 35,
+      "rebound": 24,
+      "fast_rebound": 40
+    },
+    "right_rear": {
+      "bump": 15,
+      "fast_bump": 35,
+      "rebound": 24,
+      "fast_rebound": 40
+    }
+  },
+  "aero": {
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 5
+    },
+    "rear": {
+      "ride_height": 60,
+      "rear_wing": 8,
+      "brake_ducts": 5
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "aero.front.brake_ducts": {
+    "modifiable": true
+  },
+  "aero.front.ride_height": {
+    "modifiable": true
+  },
+  "aero.front.splitter": {
+    "modifiable": false
+  },
+  "aero.rear.brake_ducts": {
+    "modifiable": true
+  },
+  "aero.rear.rear_wing": {
+    "modifiable": true
+  },
+  "aero.rear.ride_height": {
+    "modifiable": true
+  },
+  "dampers.left_front.bump": {
+    "modifiable": true
+  },
+  "dampers.left_front.fast_bump": {
+    "modifiable": true
+  },
+  "dampers.left_front.fast_rebound": {
+    "modifiable": true
+  },
+  "dampers.left_front.rebound": {
+    "modifiable": true
+  },
+  "dampers.left_rear.bump": {
+    "modifiable": true
+  },
+  "dampers.left_rear.fast_bump": {
+    "modifiable": true
+  },
+  "dampers.left_rear.fast_rebound": {
+    "modifiable": true
+  },
+  "dampers.left_rear.rebound": {
+    "modifiable": true
+  },
+  "dampers.right_front.bump": {
+    "modifiable": true
+  },
+  "dampers.right_front.fast_bump": {
+    "modifiable": true
+  },
+  "dampers.right_front.fast_rebound": {
+    "modifiable": true
+  },
+  "dampers.right_front.rebound": {
+    "modifiable": true
+  },
+  "dampers.right_rear.bump": {
+    "modifiable": true
+  },
+  "dampers.right_rear.fast_bump": {
+    "modifiable": true
+  },
+  "dampers.right_rear.fast_rebound": {
+    "modifiable": true
+  },
+  "dampers.right_rear.rebound": {
+    "modifiable": true
+  },
+  "electronics.abs": {
+    "modifiable": true
+  },
+  "electronics.ecu_map": {
+    "modifiable": false
+  },
+  "electronics.tc": {
+    "modifiable": true
+  },
+  "electronics.tc2": {
+    "modifiable": true
+  },
+  "mechanical_grip.front.antiroll_bar": {
+    "modifiable": true
+  },
+  "mechanical_grip.front.brake_bias": {
+    "modifiable": true
+  },
+  "mechanical_grip.front.brake_power": {
+    "modifiable": false
+  },
+  "mechanical_grip.front.steer_ratio": {
+    "modifiable": true
+  },
+  "mechanical_grip.left_front.bumpstop_range": {
+    "modifiable": true
+  },
+  "mechanical_grip.left_front.bumpstop_rate": {
+    "modifiable": true
+  },
+  "mechanical_grip.left_front.wheel_rate": {
+    "modifiable": true
+  },
+  "mechanical_grip.left_rear.bumpstop_range": {
+    "modifiable": true
+  },
+  "mechanical_grip.left_rear.bumpstop_rate": {
+    "modifiable": true
+  },
+  "mechanical_grip.left_rear.wheel_rate": {
+    "modifiable": true
+  },
+  "mechanical_grip.rear.antiroll_bar": {
+    "modifiable": true
+  },
+  "mechanical_grip.rear.preload_differential": {
+    "modifiable": true
+  },
+  "mechanical_grip.right_front.bumpstop_range": {
+    "modifiable": true
+  },
+  "mechanical_grip.right_front.bumpstop_rate": {
+    "modifiable": true
+  },
+  "mechanical_grip.right_front.wheel_rate": {
+    "modifiable": true
+  },
+  "mechanical_grip.right_rear.bumpstop_range": {
+    "modifiable": true
+  },
+  "mechanical_grip.right_rear.bumpstop_rate": {
+    "modifiable": true
+  },
+  "mechanical_grip.right_rear.wheel_rate": {
+    "modifiable": true
+  },
+  "tyres.left_front.camber": {
+    "modifiable": true
+  },
+  "tyres.left_front.caster": {
+    "modifiable": true
+  },
+  "tyres.left_front.psi": {
+    "modifiable": true
+  },
+  "tyres.left_front.toe": {
+    "modifiable": true
+  },
+  "tyres.left_rear.camber": {
+    "modifiable": true
+  },
+  "tyres.left_rear.psi": {
+    "modifiable": true
+  },
+  "tyres.left_rear.toe": {
+    "modifiable": true
+  },
+  "tyres.right_front.camber": {
+    "modifiable": true
+  },
+  "tyres.right_front.caster": {
+    "modifiable": true
+  },
+  "tyres.right_front.psi": {
+    "modifiable": true
+  },
+  "tyres.right_front.toe": {
+    "modifiable": true
+  },
+  "tyres.right_rear.camber": {
+    "modifiable": true
+  },
+  "tyres.right_rear.psi": {
+    "modifiable": true
+  },
+  "tyres.right_rear.toe": {
+    "modifiable": true
+  }
+}
