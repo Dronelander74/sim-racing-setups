@@ -1,0 +1,108 @@
+{
+  "setupName": "sf_mclaren720s_brh_race_rs02",
+  "session": "race",
+  "raceStyle": "safe",
+  "car": "mclaren_720s_gt3_evo",
+  "track": "brands_hatch",
+  "tyres": {
+    "left_front": {
+      "psi": 24.8,
+      "toe": -0.27,
+      "camber": -4.0,
+      "caster": 16.3
+    },
+    "right_front": {
+      "psi": 25.8,
+      "toe": -0.27,
+      "camber": -4.0,
+      "caster": 16.3
+    },
+    "left_rear": {
+      "psi": 24.4,
+      "toe": 0.06,
+      "camber": -3.5
+    },
+    "right_rear": {
+      "psi": 25.7,
+      "toe": 0.06,
+      "camber": -3.5
+    }
+  },
+  "electronics": {
+    "electronic_elements": {
+      "tc": 2,
+      "abs": 3,
+      "ecu_map": 1,
+      "tc2": 0
+    }
+  },
+  "mechanical_grip": {
+    "front": {
+      "antiroll_bar": 11,
+      "brake_power": 100,
+      "brake_bias": 51.4,
+      "steer_ratio": 12
+    },
+    "rear": {
+      "antiroll_bar": 12,
+      "preload_differential": 60
+    },
+    "left_front": {
+      "wheel_rate": 134000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 24
+    },
+    "right_front": {
+      "wheel_rate": 134000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 24
+    },
+    "left_rear": {
+      "wheel_rate": 83000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 11
+    },
+    "right_rear": {
+      "wheel_rate": 83000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 11
+    }
+  },
+  "dampers": {
+    "left_front": {
+      "bump": 12,
+      "fast_bump": 18,
+      "rebound": 30,
+      "fast_rebound": 35
+    },
+    "right_front": {
+      "bump": 12,
+      "fast_bump": 18,
+      "rebound": 30,
+      "fast_rebound": 35
+    },
+    "left_rear": {
+      "bump": 4,
+      "fast_bump": 18,
+      "rebound": 20,
+      "fast_rebound": 16
+    },
+    "right_rear": {
+      "bump": 4,
+      "fast_bump": 18,
+      "rebound": 20,
+      "fast_rebound": 16
+    }
+  },
+  "aero": {
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 3
+    },
+    "rear": {
+      "ride_height": 82,
+      "brake_ducts": 3
+    }
+  }
+}

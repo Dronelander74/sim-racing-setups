@@ -1,0 +1,113 @@
+{
+  "setupName": "sf_mclaren720s_otp_quali_q01",
+  "session": "quali",
+  "raceStyle": null,
+  "car": "mclaren_720s_gt3_evo",
+  "track": "oulton_park",
+  "conditions": {
+    "weather": "wet",
+    "intensity": "medium"
+  },
+  "tyres": {
+    "left_front": {
+      "psi": 26.5,
+      "toe": -0.3,
+      "camber": -4.0,
+      "caster": 16.3
+    },
+    "right_front": {
+      "psi": 26.8,
+      "toe": -0.3,
+      "camber": -4.0,
+      "caster": 16.3
+    },
+    "left_rear": {
+      "psi": 25.9,
+      "toe": 0.02,
+      "camber": -3.5
+    },
+    "right_rear": {
+      "psi": 26.1,
+      "toe": 0.02,
+      "camber": -3.5
+    }
+  },
+  "electronics": {
+    "electronic_elements": {
+      "tc": 1,
+      "abs": 1,
+      "ecu_map": 1,
+      "tc2": 0
+    }
+  },
+  "mechanical_grip": {
+    "front": {
+      "antiroll_bar": 11,
+      "brake_power": 100,
+      "brake_bias": 47.0,
+      "steer_ratio": 11
+    },
+    "rear": {
+      "antiroll_bar": 0,
+      "preload_differential": 20
+    },
+    "left_front": {
+      "wheel_rate": 118000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": null
+    },
+    "right_front": {
+      "wheel_rate": 118000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": null
+    },
+    "left_rear": {
+      "wheel_rate": 83000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": null
+    },
+    "right_rear": {
+      "wheel_rate": 83000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": null
+    }
+  },
+  "dampers": {
+    "left_front": {
+      "bump": 0,
+      "fast_bump": null,
+      "rebound": null,
+      "fast_rebound": null
+    },
+    "right_front": {
+      "bump": 0,
+      "fast_bump": null,
+      "rebound": null,
+      "fast_rebound": null
+    },
+    "left_rear": {
+      "bump": 0,
+      "fast_bump": null,
+      "rebound": null,
+      "fast_rebound": null
+    },
+    "right_rear": {
+      "bump": 0,
+      "fast_bump": null,
+      "rebound": null,
+      "fast_rebound": null
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 87,
+      "rear_wing": 8,
+      "brake_ducts": null
+    },
+    "front": {
+      "ride_height": 70,
+      "splitter": 0,
+      "brake_ducts": null
+    }
+  }
+}
