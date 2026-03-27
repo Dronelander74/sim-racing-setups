@@ -1,0 +1,109 @@
+﻿{
+    "setupName":  "sf_gtr_val_quali_q01",
+    "session":  "quali",
+    "raceStyle":  null,
+    "car":  "nissan_gtr_nismo_gt3",
+    "track":  "valencia",
+    "tyres":  {
+                  "left_front":  {
+                                     "psi":  26.1,
+                                     "toe":  -0.2,
+                                     "camber":  -4,
+                                     "caster":  16.9
+                                 },
+                  "right_front":  {
+                                      "psi":  25.1,
+                                      "toe":  -0.2,
+                                      "camber":  -4,
+                                      "caster":  16.9
+                                  },
+                  "left_rear":  {
+                                    "psi":  25.4,
+                                    "toe":  0,
+                                    "camber":  -3.5
+                                },
+                  "right_rear":  {
+                                     "psi":  24.7,
+                                     "toe":  0,
+                                     "camber":  -3.5
+                                 }
+              },
+    "electronics":  {
+                        "electronic_elements":  {
+                                                    "tc":  2,
+                                                    "abs":  3,
+                                                    "ecu_map":  1,
+                                                    "tc2":  0
+                                                }
+                    },
+    "mechanical_grip":  {
+                            "front":  {
+                                          "antiroll_bar":  4,
+                                          "brake_power":  100,
+                                          "brake_bias":  57.7,
+                                          "steer_ratio":  14
+                                      },
+                            "rear":  {
+                                         "antiroll_bar":  2,
+                                         "preload_differential":  60
+                                     },
+                            "left_front":  {
+                                               "wheel_rate":  166000,
+                                               "bumpstop_rate":  1000,
+                                               "bumpstop_range":  15
+                                           },
+                            "right_front":  {
+                                                "wheel_rate":  166000,
+                                                "bumpstop_rate":  1000,
+                                                "bumpstop_range":  15
+                                            },
+                            "left_rear":  {
+                                              "wheel_rate":  116000,
+                                              "bumpstop_rate":  700,
+                                              "bumpstop_range":  22
+                                          },
+                            "right_rear":  {
+                                               "wheel_rate":  116000,
+                                               "bumpstop_rate":  700,
+                                               "bumpstop_range":  22
+                                           }
+                        },
+    "dampers":  {
+                    "left_front":  {
+                                       "bump":  38,
+                                       "fast_bump":  38,
+                                       "rebound":  43,
+                                       "fast_rebound":  43
+                                   },
+                    "right_front":  {
+                                        "bump":  38,
+                                        "fast_bump":  38,
+                                        "rebound":  43,
+                                        "fast_rebound":  43
+                                    },
+                    "left_rear":  {
+                                      "bump":  40,
+                                      "fast_bump":  40,
+                                      "rebound":  44,
+                                      "fast_rebound":  44
+                                  },
+                    "right_rear":  {
+                                       "bump":  40,
+                                       "fast_bump":  40,
+                                       "rebound":  44,
+                                       "fast_rebound":  44
+                                   }
+                },
+    "aero":  {
+                 "front":  {
+                               "ride_height":  55,
+                               "splitter":  0,
+                               "brake_ducts":  3
+                           },
+                 "rear":  {
+                              "ride_height":  61,
+                              "rear_wing":  4,
+                              "brake_ducts":  3
+                          }
+             }
+}
