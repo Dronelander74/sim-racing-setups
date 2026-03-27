@@ -1,33 +1,33 @@
-{
-  "setupName": "sf_296_brh_race_r02",
+﻿{
+  "setupName": "sf_296_brh_race_r01",
   "session": "race",
   "car": "ferrari_296_gt3",
   "track": "brh",
   "source": "sf",
-  "originalFileName": "SF 296 BRH RF02.json",
+  "originalFileName": "SF 296 BRH RF01.json",
   "parameters": {
     "Tyres": {
       "Left Front": {
-        "psi": "24.6",
-        "toe": "-0.07°",
-        "camber": "-3.7°",
-        "caster": "12.0°"
+        "psi": "24.4",
+        "toe": "-0.05Â°",
+        "camber": "-3.7Â°",
+        "caster": "12.0Â°"
       },
       "Right Front": {
-        "psi": "26.1",
-        "toe": "-0.07°",
-        "camber": "-3.7°",
-        "caster": "12.0°"
+        "psi": "25.9",
+        "toe": "-0.05Â°",
+        "camber": "-3.7Â°",
+        "caster": "12.0Â°"
       },
       "Left Rear": {
-        "psi": "24.0",
-        "toe": "0.00°",
-        "camber": "-3.4°"
+        "psi": "24.1",
+        "toe": "0.00Â°",
+        "camber": "-3.4Â°"
       },
       "Right Rear": {
-        "psi": "25.4",
-        "toe": "0.00°",
-        "camber": "-3.4°"
+        "psi": "25.1",
+        "toe": "0.00Â°",
+        "camber": "-3.4Â°"
       }
     },
     "Electronics": {
@@ -41,27 +41,27 @@
       "Front": {
         "antiroll bar": "2",
         "brake power": "100%",
-        "brake bias": "58.0%",
+        "brake bias": "59.0%",
         "steer ratio": "15"
       },
       "Left Front": {
-        "wheel rate": "170,068",
+        "wheel rate": "170.068",
         "bumpstop rate": "400",
         "bumpstop range": "10"
       },
       "Right Front": {
-        "wheel rate": "170,068",
+        "wheel rate": "170.068",
         "bumpstop rate": "400",
         "bumpstop range": "10"
       },
       "Left Rear": {
-        "wheel rate": "143,637",
-        "bumpstop rate": "1,200",
+        "wheel rate": "143.637",
+        "bumpstop rate": "1.200",
         "bumpstop range": "12"
       },
       "Right Rear": {
-        "wheel rate": "143,637",
-        "bumpstop rate": "1,200",
+        "wheel rate": "143.637",
+        "bumpstop rate": "1.200",
         "bumpstop range": "12"
       },
       "Rear": {
@@ -71,35 +71,35 @@
     },
     "Dampers": {
       "Left Front": {
-        "bump": "7",
-        "fast bump": "8",
+        "bump": "9",
+        "fast bump": "5",
         "rebound": "8",
         "fast rebound": "9"
       },
       "Right Front": {
-        "bump": "7",
-        "fast bump": "8",
+        "bump": "9",
+        "fast bump": "5",
         "rebound": "8",
         "fast rebound": "9"
       },
       "Left Rear": {
-        "bump": "8",
-        "fast bump": "8",
+        "bump": "9",
+        "fast bump": "5",
         "rebound": "5",
         "fast rebound": "10"
       },
       "Right Rear": {
-        "bump": "8",
-        "fast bump": "8",
+        "bump": "9",
+        "fast bump": "5",
         "rebound": "5",
         "fast rebound": "10"
       }
     },
     "Aero": {
       "Rear": {
-        "ride height": "60 mm",
+        "ride height": "57 mm",
         "rear wing": "12",
-        "brake ducts": "5"
+        "brake ducts": "4"
       },
       "Front": {
         "ride height": "50 mm",

@@ -1,4 +1,4 @@
-{
+﻿{
   "setupName": "sf_296_par_race_r05",
   "session": "race",
   "car": "ferrari_296_gt3",
@@ -9,25 +9,25 @@
     "Tyres": {
       "Left Front": {
         "psi": "25.0",
-        "toe": "-0.40°",
-        "camber": "-4.0°",
-        "caster": "13.8°"
+        "toe": "-0.40Â°",
+        "camber": "-4.0Â°",
+        "caster": "13.8Â°"
       },
       "Right Front": {
         "psi": "26.0",
-        "toe": "-0.40°",
-        "camber": "-4.0°",
-        "caster": "13.8°"
+        "toe": "-0.40Â°",
+        "camber": "-4.0Â°",
+        "caster": "13.8Â°"
       },
       "Left Rear": {
         "psi": "24.8",
-        "toe": "0.10°",
-        "camber": "-3.5°"
+        "toe": "0.10Â°",
+        "camber": "-3.5Â°"
       },
       "Right Rear": {
         "psi": "25.5",
-        "toe": "0.10°",
-        "camber": "-3.5°"
+        "toe": "0.10Â°",
+        "camber": "-3.5Â°"
       }
     },
     "Electronics": {
@@ -45,22 +45,22 @@
         "steer ratio": "15"
       },
       "Left Front": {
-        "wheel rate": "163,769",
+        "wheel rate": "163.769",
         "bumpstop rate": "300",
         "bumpstop range": "5"
       },
       "Right Front": {
-        "wheel rate": "163,769",
+        "wheel rate": "163.769",
         "bumpstop rate": "300",
         "bumpstop range": "5"
       },
       "Left Rear": {
-        "wheel rate": "122,091",
+        "wheel rate": "122.091",
         "bumpstop rate": "400",
         "bumpstop range": "30"
       },
       "Right Rear": {
-        "wheel rate": "122,091",
+        "wheel rate": "122.091",
         "bumpstop rate": "400",
         "bumpstop range": "30"
       },
@@ -111,6 +111,6 @@
   "provenance": {
     "sourceDocument": "Paul Ricard.docx",
     "sourceMarker": "Ferrari 296 GT3 - Paul Ricard - CDA4",
-    "sourceHeaderLine": "CDA M 296 PAR Q.jsonCDA M 296 PAR R.jsonCDA4 296 PAR Q01.jsonCDA4 296 PAR Q02.jsonCDA4 296 PAR RF01.jsonCDA4 296 PAR RF02.jsonCDA4 296 PAR RS01.jsonCDA4 296 PAR RS02.json"
+    "sourceHeaderLine": "CDA M 296 PAR Q.jsonCDA M 296 PAR R.jsonCDA4.296 PAR Q01.jsonCDA4.296 PAR Q02.jsonCDA4.296 PAR RF01.jsonCDA4.296 PAR RF02.jsonCDA4.296 PAR RS01.jsonCDA4.296 PAR RS02.json"
   }
 }

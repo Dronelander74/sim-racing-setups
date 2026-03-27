@@ -1,33 +1,33 @@
-{
+﻿{
   "setupName": "sf_296_par_race_r02",
   "session": "race",
   "car": "ferrari_296_gt3",
   "track": "par",
   "source": "sf",
-  "originalFileName": "CDA4 296 PAR RF02.json",
+  "originalFileName": "CDA4.296 PAR RF02.json",
   "parameters": {
     "Tyres": {
       "Left Front": {
         "psi": "25.1",
-        "toe": "-0.17°",
-        "camber": "-4.0°",
-        "caster": "12.7°"
+        "toe": "-0.17Â°",
+        "camber": "-4.0Â°",
+        "caster": "12.7Â°"
       },
       "Right Front": {
         "psi": "26.0",
-        "toe": "-0.17°",
-        "camber": "-4.0°",
-        "caster": "12.7°"
+        "toe": "-0.17Â°",
+        "camber": "-4.0Â°",
+        "caster": "12.7Â°"
       },
       "Left Rear": {
         "psi": "24.7",
-        "toe": "0.02°",
-        "camber": "-3.5°"
+        "toe": "0.02Â°",
+        "camber": "-3.5Â°"
       },
       "Right Rear": {
         "psi": "25.3",
-        "toe": "0.02°",
-        "camber": "-3.5°"
+        "toe": "0.02Â°",
+        "camber": "-3.5Â°"
       }
     },
     "Electronics": {
@@ -45,23 +45,23 @@
         "steer ratio": "15"
       },
       "Left Front": {
-        "wheel rate": "176,367",
-        "bumpstop rate": "1,000",
+        "wheel rate": "176.367",
+        "bumpstop rate": "1.000",
         "bumpstop range": "4"
       },
       "Right Front": {
-        "wheel rate": "176,367",
-        "bumpstop rate": "1,000",
+        "wheel rate": "176.367",
+        "bumpstop rate": "1.000",
         "bumpstop range": "4"
       },
       "Left Rear": {
-        "wheel rate": "136,455",
-        "bumpstop rate": "1,000",
+        "wheel rate": "136.455",
+        "bumpstop rate": "1.000",
         "bumpstop range": "10"
       },
       "Right Rear": {
-        "wheel rate": "136,455",
-        "bumpstop rate": "1,000",
+        "wheel rate": "136.455",
+        "bumpstop rate": "1.000",
         "bumpstop range": "10"
       },
       "Rear": {
@@ -111,7 +111,7 @@
   "provenance": {
     "sourceDocument": "Paul Ricard.docx",
     "sourceMarker": "Ferrari 296 GT3 - Paul Ricard - CDA4",
-    "sourceHeaderLine": "CDA M 296 PAR Q.jsonCDA M 296 PAR R.jsonCDA4 296 PAR Q01.jsonCDA4 296 PAR Q02.jsonCDA4 296 PAR RF01.jsonCDA4 296 PAR RF02.jsonCDA4 296 PAR RS01.jsonCDA4 296 PAR RS02.json"
+    "sourceHeaderLine": "CDA M 296 PAR Q.jsonCDA M 296 PAR R.jsonCDA4.296 PAR Q01.jsonCDA4.296 PAR Q02.jsonCDA4.296 PAR RF01.jsonCDA4.296 PAR RF02.jsonCDA4.296 PAR RS01.jsonCDA4.296 PAR RS02.json"
   },
   "raceStyle": "fast"
 }

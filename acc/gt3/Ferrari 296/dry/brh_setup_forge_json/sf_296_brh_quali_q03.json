@@ -1,33 +1,33 @@
-{
-  "setupName": "sf_296_brh_race_r05",
-  "session": "race",
+﻿{
+  "setupName": "sf_296_brh_quali_q03",
+  "session": "quali",
   "car": "ferrari_296_gt3",
   "track": "brh",
   "source": "sf",
-  "originalFileName": "SF 296 BRH R LFM.json",
+  "originalFileName": "SF 296 BRH Q LFM.json",
   "parameters": {
     "Tyres": {
       "Left Front": {
-        "psi": "25.2",
-        "toe": "-0.40°",
-        "camber": "-4.0°",
-        "caster": "13.8°"
+        "psi": "25.5",
+        "toe": "-0.40Â°",
+        "camber": "-4.0Â°",
+        "caster": "13.8Â°"
       },
       "Right Front": {
-        "psi": "26.5",
-        "toe": "-0.40°",
-        "camber": "-4.0°",
-        "caster": "13.8°"
+        "psi": "26.8",
+        "toe": "-0.40Â°",
+        "camber": "-4.0Â°",
+        "caster": "13.8Â°"
       },
       "Left Rear": {
-        "psi": "24.6",
-        "toe": "0.02°",
-        "camber": "-3.5°"
+        "psi": "24.9",
+        "toe": "0.00Â°",
+        "camber": "-3.5Â°"
       },
       "Right Rear": {
-        "psi": "25.8",
-        "toe": "0.02°",
-        "camber": "-3.5°"
+        "psi": "26.0",
+        "toe": "0.00Â°",
+        "camber": "-3.5Â°"
       }
     },
     "Electronics": {
@@ -41,26 +41,26 @@
       "Front": {
         "antiroll bar": "4",
         "brake power": "100%",
-        "brake bias": "57.0%",
+        "brake bias": "56.0%",
         "steer ratio": "15"
       },
       "Left Front": {
-        "wheel rate": "163,769",
+        "wheel rate": "163.769",
         "bumpstop rate": "300",
         "bumpstop range": "16"
       },
       "Right Front": {
-        "wheel rate": "163,769",
+        "wheel rate": "163.769",
         "bumpstop rate": "300",
         "bumpstop range": "16"
       },
       "Left Rear": {
-        "wheel rate": "122,091",
+        "wheel rate": "122.091",
         "bumpstop rate": "400",
         "bumpstop range": "38"
       },
       "Right Rear": {
-        "wheel rate": "122,091",
+        "wheel rate": "122.091",
         "bumpstop rate": "400",
         "bumpstop range": "38"
       },
@@ -97,7 +97,7 @@
     },
     "Aero": {
       "Rear": {
-        "ride height": "67 mm",
+        "ride height": "68 mm",
         "rear wing": "12",
         "brake ducts": "4"
       },

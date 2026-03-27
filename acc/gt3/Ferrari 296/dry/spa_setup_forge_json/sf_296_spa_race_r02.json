@@ -1,4 +1,4 @@
-{
+﻿{
   "setupName": "sf_296_spa_race_r02",
   "session": "race",
   "car": "ferrari_296_gt3",
@@ -11,25 +11,25 @@
     "Tyres": {
       "Left Front": {
         "psi": "25.4",
-        "toe": "-0.05\u00b0",
-        "camber": "-3.7\u00b0",
-        "caster": "12.0\u00b0"
+        "toe": "-0.05",
+        "camber": "-3.7",
+        "caster": "12.0"
       },
       "Right Front": {
         "psi": "25.6",
-        "toe": "-0.05\u00b0",
-        "camber": "-3.7\u00b0",
-        "caster": "12.0\u00b0"
+        "toe": "-0.05",
+        "camber": "-3.7",
+        "caster": "12.0"
       },
       "Left Rear": {
         "psi": "25.0",
-        "toe": "0.00\u00b0",
-        "camber": "-3.4\u00b0"
+        "toe": "0.00",
+        "camber": "-3.4"
       },
       "Right Rear": {
         "psi": "25.1",
-        "toe": "0.00\u00b0",
-        "camber": "-3.4\u00b0"
+        "toe": "0.00",
+        "camber": "-3.4"
       }
     },
     "Electronics": {
@@ -47,22 +47,22 @@
         "steer ratio": "14"
       },
       "Left Front": {
-        "wheel rate": "207,861",
-        "bumpstop rate": "1,000",
+        "wheel rate": "207.861",
+        "bumpstop rate": "1.000",
         "bumpstop range": "8"
       },
       "Right Front": {
-        "wheel rate": "207,861",
-        "bumpstop rate": "1,000",
+        "wheel rate": "207.861",
+        "bumpstop rate": "1.000",
         "bumpstop range": "8"
       },
       "Left Rear": {
-        "wheel rate": "143,637",
+        "wheel rate": "143.637",
         "bumpstop rate": "800",
         "bumpstop range": "5"
       },
       "Right Rear": {
-        "wheel rate": "143,637",
+        "wheel rate": "143.637",
         "bumpstop rate": "800",
         "bumpstop range": "5"
       },
@@ -112,3 +112,4 @@
   },
   "raceStyle": "fast"
 }
+

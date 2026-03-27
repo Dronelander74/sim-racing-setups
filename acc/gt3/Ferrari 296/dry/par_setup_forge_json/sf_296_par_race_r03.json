@@ -1,33 +1,33 @@
-{
+﻿{
   "setupName": "sf_296_par_race_r03",
   "session": "race",
   "car": "ferrari_296_gt3",
   "track": "par",
   "source": "sf",
-  "originalFileName": "CDA4 296 PAR RS01.json",
+  "originalFileName": "CDA4.296 PAR RS01.json",
   "parameters": {
     "Tyres": {
       "Left Front": {
         "psi": "24.6",
-        "toe": "-0.05°",
-        "camber": "-3.7°",
-        "caster": "12.0°"
+        "toe": "-0.05Â°",
+        "camber": "-3.7Â°",
+        "caster": "12.0Â°"
       },
       "Right Front": {
         "psi": "25.9",
-        "toe": "-0.05°",
-        "camber": "-3.7°",
-        "caster": "12.0°"
+        "toe": "-0.05Â°",
+        "camber": "-3.7Â°",
+        "caster": "12.0Â°"
       },
       "Left Rear": {
         "psi": "24.5",
-        "toe": "0.00°",
-        "camber": "-3.4°"
+        "toe": "0.00Â°",
+        "camber": "-3.4Â°"
       },
       "Right Rear": {
         "psi": "25.4",
-        "toe": "0.00°",
-        "camber": "-3.4°"
+        "toe": "0.00Â°",
+        "camber": "-3.4Â°"
       }
     },
     "Electronics": {
@@ -45,22 +45,22 @@
         "steer ratio": "14"
       },
       "Left Front": {
-        "wheel rate": "182,666",
-        "bumpstop rate": "1,500",
+        "wheel rate": "182.666",
+        "bumpstop rate": "1.500",
         "bumpstop range": "0"
       },
       "Right Front": {
-        "wheel rate": "182,666",
-        "bumpstop rate": "1,500",
+        "wheel rate": "182.666",
+        "bumpstop rate": "1.500",
         "bumpstop range": "0"
       },
       "Left Rear": {
-        "wheel rate": "122,091",
+        "wheel rate": "122.091",
         "bumpstop rate": "800",
         "bumpstop range": "8"
       },
       "Right Rear": {
-        "wheel rate": "122,091",
+        "wheel rate": "122.091",
         "bumpstop rate": "800",
         "bumpstop range": "8"
       },
@@ -111,7 +111,7 @@
   "provenance": {
     "sourceDocument": "Paul Ricard.docx",
     "sourceMarker": "Ferrari 296 GT3 - Paul Ricard - CDA4",
-    "sourceHeaderLine": "CDA M 296 PAR Q.jsonCDA M 296 PAR R.jsonCDA4 296 PAR Q01.jsonCDA4 296 PAR Q02.jsonCDA4 296 PAR RF01.jsonCDA4 296 PAR RF02.jsonCDA4 296 PAR RS01.jsonCDA4 296 PAR RS02.json"
+    "sourceHeaderLine": "CDA M 296 PAR Q.jsonCDA M 296 PAR R.jsonCDA4.296 PAR Q01.jsonCDA4.296 PAR Q02.jsonCDA4.296 PAR RF01.jsonCDA4.296 PAR RF02.jsonCDA4.296 PAR RS01.jsonCDA4.296 PAR RS02.json"
   },
   "raceStyle": "safe"
 }

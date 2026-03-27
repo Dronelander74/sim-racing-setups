@@ -1,4 +1,4 @@
-{
+﻿{
   "setupName": "sf_296_don_race_r05",
   "session": "race",
   "car": "ferrari_296_gt3",
@@ -9,25 +9,25 @@
     "Tyres": {
       "Left Front": {
         "psi": "25.1",
-        "toe": "-0.30\u00b0",
-        "camber": "-4.0\u00b0",
-        "caster": "13.8\u00b0"
+        "toe": "-0.30",
+        "camber": "-4.0",
+        "caster": "13.8"
       },
       "Right Front": {
         "psi": "25.8",
-        "toe": "-0.30\u00b0",
-        "camber": "-4.0\u00b0",
-        "caster": "13.8\u00b0"
+        "toe": "-0.30",
+        "camber": "-4.0",
+        "caster": "13.8"
       },
       "Left Rear": {
         "psi": "25.0",
-        "toe": "0.04\u00b0",
-        "camber": "-3.5\u00b0"
+        "toe": "0.04",
+        "camber": "-3.5"
       },
       "Right Rear": {
         "psi": "25.6",
-        "toe": "0.04\u00b0",
-        "camber": "-3.5\u00b0"
+        "toe": "0.04",
+        "camber": "-3.5"
       }
     },
     "Electronics": {
@@ -45,22 +45,22 @@
         "steer ratio": "15"
       },
       "Left Front": {
-        "wheel rate": "163,769",
+        "wheel rate": "163.769",
         "bumpstop rate": "300",
         "bumpstop range": "12"
       },
       "Right Front": {
-        "wheel rate": "163,769",
+        "wheel rate": "163.769",
         "bumpstop rate": "300",
         "bumpstop range": "12"
       },
       "Left Rear": {
-        "wheel rate": "122,091",
+        "wheel rate": "122.091",
         "bumpstop rate": "400",
         "bumpstop range": "30"
       },
       "Right Rear": {
-        "wheel rate": "122,091",
+        "wheel rate": "122.091",
         "bumpstop rate": "400",
         "bumpstop range": "30"
       },
@@ -113,3 +113,4 @@
     "sourceIndexLine": "SF 296 DNP Q LFM.jsonSF 296 DNP R LFM.jsonSF 296 DNP Q01.jsonSF 296 DNP Q02.jsonSF 296 DNP RF01.jsonSF 296 DNP RF02.jsonSF 296 DNP RS01.jsonSF 296 DNP RS02.json"
   }
 }
+
