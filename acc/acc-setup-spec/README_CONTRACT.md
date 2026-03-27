@@ -34,6 +34,17 @@ For ACC GT3 Ferrari 296:
 field-manifest/ferrari_296_gt3.json
 car-capabilities/ferrari_296_gt3.json
 
+For ACC GT3 Bmw M4 GT3:
+field-manifest/bmw_m4_gt3.json
+car-capabilities/bmw_m4_gt3.json
+
+For ACC GT3 McLaren 720s GT3 EVO:
+field-manifest/mclaren_720s_gt3_evo.json
+car-capabilities/mclaren_720s_gt3_evo.json
+
+For ACC GT3 Nissan GTR Nismo GT3:
+field-manifest/nissan_gtr_nismo_gt3.json
+car-capabilities/nissan_gtr_nismo_gt3.json
 
 
 
