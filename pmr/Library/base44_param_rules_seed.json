@@ -1,0 +1,1626 @@
+[
+  {
+    "param": "ffb-rack-stiffness",
+    "group": "ffb",
+    "min": 6000000.0,
+    "max": 6000000.0,
+    "count": 340
+  },
+  {
+    "param": "ffb-tierod-stiffness",
+    "group": "ffb",
+    "min": 10000000.0,
+    "max": 60000000.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-base-rack",
+    "group": "ffb",
+    "min": 0.9999999776482582,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-smoothing",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-safety-characteristic",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 285
+  },
+  {
+    "param": "ffb-brake-boost",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "game-FL-carcass-temperature",
+    "group": "tyres_telemetry",
+    "min": 378.0,
+    "max": 378.0,
+    "count": 367
+  },
+  {
+    "param": "game-FR-air-temperature",
+    "group": "tyres_telemetry",
+    "min": 295.0,
+    "max": 295.0,
+    "count": 367
+  },
+  {
+    "param": "FR-tire-pressure",
+    "group": "tyres",
+    "min": 135200.0,
+    "max": 171600.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-basic-level",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-deep-long-seat",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-eq-hi-d",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "diff-ramp-power",
+    "group": "diff",
+    "min": 30.0,
+    "max": 90.0,
+    "count": 341
+  },
+  {
+    "param": "FL-kpi-adjuster",
+    "group": "alignment",
+    "min": 0.0,
+    "max": 0.009999999776482582,
+    "count": 268
+  },
+  {
+    "param": "gear-install-gearbox-3",
+    "group": "gearbox",
+    "min": 2.0,
+    "max": 18.0,
+    "count": 367
+  },
+  {
+    "param": "game-RR-carcass-temperature",
+    "group": "tyres_telemetry",
+    "min": 378.0,
+    "max": 378.0,
+    "count": 367
+  },
+  {
+    "param": "brake-pressure",
+    "group": "brakes",
+    "min": 0.8500000052154064,
+    "max": 1.0000000149011612,
+    "count": 367
+  },
+  {
+    "param": "ffb-deep-patch-Fx",
+    "group": "ffb",
+    "min": 0.5,
+    "max": 0.5,
+    "count": 223
+  },
+  {
+    "param": "legacy-throttle",
+    "group": "other",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 340
+  },
+  {
+    "param": "ffb-safety-ratio-smooth",
+    "group": "ffb",
+    "min": 0.10000000149011612,
+    "max": 0.10000000149011612,
+    "count": 285
+  },
+  {
+    "param": "ffb-deep-gain",
+    "group": "ffb",
+    "min": 0.7999999821186066,
+    "max": 1.4799999669194221,
+    "count": 367
+  },
+  {
+    "param": "R-antirollbar",
+    "group": "other",
+    "min": 10000.0,
+    "max": 200000.0,
+    "count": 367
+  },
+  {
+    "param": "RR-tire-pressure",
+    "group": "tyres",
+    "min": 129600.0,
+    "max": 164600.0,
+    "count": 367
+  },
+  {
+    "param": "FL-slow-rebound",
+    "group": "suspension",
+    "min": 2500.0,
+    "max": 24000.0,
+    "count": 360
+  },
+  {
+    "param": "ffb-deep-eq-level-hi",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "game-FR-tread-temperature",
+    "group": "tyres_telemetry",
+    "min": 378.0,
+    "max": 378.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-hidden-eq-hi-k",
+    "group": "ffb",
+    "min": 10000.0,
+    "max": 10000.0,
+    "count": 223
+  },
+  {
+    "param": "diff-clutches",
+    "group": "diff",
+    "min": 3.0,
+    "max": 8.0,
+    "count": 341
+  },
+  {
+    "param": "ffb-deep-lat-seat",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "fuelLevel",
+    "group": "other",
+    "min": 14.9993257522583,
+    "max": 55.000003814697266,
+    "count": 367
+  },
+  {
+    "param": "FL-fast-rebound",
+    "group": "suspension",
+    "min": 3500.0,
+    "max": 13000.0,
+    "count": 315
+  },
+  {
+    "param": "RL-slow-rebound",
+    "group": "suspension",
+    "min": 3500.0,
+    "max": 24000.0,
+    "count": 360
+  },
+  {
+    "param": "FR-spring-platform",
+    "group": "suspension",
+    "min": -0.029999999329447746,
+    "max": 0.04500000178813934,
+    "count": 367
+  },
+  {
+    "param": "game-RR-tread-wear",
+    "group": "tyres_telemetry",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-safety-ratio-limit",
+    "group": "ffb",
+    "min": 2.0,
+    "max": 2.0,
+    "count": 285
+  },
+  {
+    "param": "RR-bumpstop-stiffness",
+    "group": "suspension",
+    "min": 100000.0,
+    "max": 1000000.0,
+    "count": 366
+  },
+  {
+    "param": "ffb-output-avg",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-patch-Fx",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 260
+  },
+  {
+    "param": "FR-caster",
+    "group": "alignment",
+    "min": 0.0,
+    "max": 3.0,
+    "count": 268
+  },
+  {
+    "param": "ffb-low-force-boost",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 340
+  },
+  {
+    "param": "ffb-Mz-boost",
+    "group": "ffb",
+    "min": -5.960464477539063e-08,
+    "max": 0.9999999776482582,
+    "count": 367
+  },
+  {
+    "param": "game-FR-tread-L-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "final-drive",
+    "group": "gearbox",
+    "min": 4.0,
+    "max": 14.0,
+    "count": 319
+  },
+  {
+    "param": "game-RR-tread-C-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-hidden-safety-bumper-force",
+    "group": "ffb",
+    "min": 1000.0,
+    "max": 1000.0,
+    "count": 223
+  },
+  {
+    "param": "FL-caster-adjuster",
+    "group": "alignment",
+    "min": 0.009999999776482582,
+    "max": 0.019999999552965164,
+    "count": 268
+  },
+  {
+    "param": "FL-fast-bump",
+    "group": "suspension",
+    "min": 1000.0,
+    "max": 11000.0,
+    "count": 315
+  },
+  {
+    "param": "aero-front-stream-z",
+    "group": "aero",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-deep-processed-blend",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "game-FL-tread-R-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "tractionControl",
+    "group": "electronics",
+    "min": 0.0,
+    "max": 6.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-hidden-safety-smoothing",
+    "group": "ffb",
+    "min": 0.05999999865889549,
+    "max": 0.05999999865889549,
+    "count": 223
+  },
+  {
+    "param": "starter-floor-rpm",
+    "group": "other",
+    "min": 400.0,
+    "max": 400.0,
+    "count": 340
+  },
+  {
+    "param": "ffb-output-1",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "aero-front-stream-x",
+    "group": "aero",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-output-4",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "RL-fast-bump",
+    "group": "suspension",
+    "min": 1000.0,
+    "max": 10500.0,
+    "count": 315
+  },
+  {
+    "param": "FR-slow-bump",
+    "group": "suspension",
+    "min": 1500.0,
+    "max": 23000.0,
+    "count": 360
+  },
+  {
+    "param": "game-RR-air-temperature",
+    "group": "tyres_telemetry",
+    "min": 295.0,
+    "max": 295.0,
+    "count": 367
+  },
+  {
+    "param": "tweak-rack-stop",
+    "group": "other",
+    "min": 0.024000000208616257,
+    "max": 0.05999999865889549,
+    "count": 367
+  },
+  {
+    "param": "ffb-eq-level-hi",
+    "group": "ffb",
+    "min": 0.800000011920929,
+    "max": 1.600000023841858,
+    "count": 367
+  },
+  {
+    "param": "ffb-basic-patch",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "diff-preload",
+    "group": "diff",
+    "min": 50.0,
+    "max": 300.0,
+    "count": 341
+  },
+  {
+    "param": "FL-bumpstop-stiffness",
+    "group": "suspension",
+    "min": 100000.0,
+    "max": 1000000.0,
+    "count": 366
+  },
+  {
+    "param": "ffb-bbw-F:d:rps",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "RL-bumpstop-stiffness",
+    "group": "suspension",
+    "min": 100000.0,
+    "max": 1000000.0,
+    "count": 366
+  },
+  {
+    "param": "ffb-hidden-safety-decay",
+    "group": "ffb",
+    "min": 0.6000000238418579,
+    "max": 0.6000000238418579,
+    "count": 223
+  },
+  {
+    "param": "R-wing-angle",
+    "group": "aero",
+    "min": 0.0,
+    "max": 11.0,
+    "count": 359
+  },
+  {
+    "param": "RR-slow-rebound",
+    "group": "suspension",
+    "min": 3500.0,
+    "max": 24000.0,
+    "count": 360
+  },
+  {
+    "param": "ffb-tierod-damping",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 800000.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-safety-decay",
+    "group": "ffb",
+    "min": 0.6000000238418579,
+    "max": 0.6000000238418579,
+    "count": 285
+  },
+  {
+    "param": "game-FL-tread-wear",
+    "group": "tyres_telemetry",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "RL-tire-choice",
+    "group": "other",
+    "min": -1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-eq-freq-md_hi",
+    "group": "ffb",
+    "min": 100.0,
+    "max": 100.0,
+    "count": 367
+  },
+  {
+    "param": "engine-rps",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 258
+  },
+  {
+    "param": "FL-caster",
+    "group": "alignment",
+    "min": 0.0,
+    "max": 3.0,
+    "count": 268
+  },
+  {
+    "param": "input-FR:brake",
+    "group": "brakes",
+    "min": -1.0,
+    "max": -1.0,
+    "count": 367
+  },
+  {
+    "param": "ice-fuel-remaining",
+    "group": "other",
+    "min": 17.0,
+    "max": 41.525001525878906,
+    "count": 367
+  },
+  {
+    "param": "game-FR-tread-wear",
+    "group": "tyres_telemetry",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "FL-tire-choice",
+    "group": "other",
+    "min": -1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "RR-toe",
+    "group": "alignment",
+    "min": -0.19999999552965164,
+    "max": 0.6000000163912773,
+    "count": 367
+  },
+  {
+    "param": "FW-downforce-scale",
+    "group": "aero",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "FL-tire-pressure",
+    "group": "tyres",
+    "min": 135200.0,
+    "max": 171600.0,
+    "count": 367
+  },
+  {
+    "param": "FL-camber",
+    "group": "alignment",
+    "min": -5.5,
+    "max": -1.5999999716877937,
+    "count": 331
+  },
+  {
+    "param": "RR-fast-bump",
+    "group": "suspension",
+    "min": 1000.0,
+    "max": 10500.0,
+    "count": 315
+  },
+  {
+    "param": "ffb-deep-friction",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-basic-rack",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-hidden-safety-peak-g",
+    "group": "ffb",
+    "min": 4.0,
+    "max": 4.0,
+    "count": 223
+  },
+  {
+    "param": "scoring-lap-proportion",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-patch-My",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 260
+  },
+  {
+    "param": "ffb-basic-seat",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-patch-gain",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 260
+  },
+  {
+    "param": "RR-fast-rebound",
+    "group": "suspension",
+    "min": 2500.0,
+    "max": 11000.0,
+    "count": 315
+  },
+  {
+    "param": "RL-tire-pressure",
+    "group": "tyres",
+    "min": 129600.0,
+    "max": 164600.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-eq-freq-lo_md",
+    "group": "ffb",
+    "min": 10.0,
+    "max": 10.0,
+    "count": 367
+  },
+  {
+    "param": "game-FL-tread-C-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "input-RR:brake",
+    "group": "brakes",
+    "min": -1.0,
+    "max": -1.0,
+    "count": 367
+  },
+  {
+    "param": "restitution-angular",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "gear-install-gearbox-6",
+    "group": "gearbox",
+    "min": 5.0,
+    "max": 30.0,
+    "count": 315
+  },
+  {
+    "param": "ffb-deep-patch-Mx",
+    "group": "ffb",
+    "min": 0.5,
+    "max": 0.5,
+    "count": 223
+  },
+  {
+    "param": "RR-bumpstop-size",
+    "group": "suspension",
+    "min": 0.004999999888241291,
+    "max": 0.024999999441206455,
+    "count": 366
+  },
+  {
+    "param": "game-RL-tread-L-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "game-FR-tread-C-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-deep-safety",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "FR-bumpstop-size",
+    "group": "suspension",
+    "min": 0.004999999888241291,
+    "max": 0.024999999441206455,
+    "count": 366
+  },
+  {
+    "param": "FL-slow-bump",
+    "group": "suspension",
+    "min": 1500.0,
+    "max": 23000.0,
+    "count": 360
+  },
+  {
+    "param": "ffb-load-boost",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.4999999888241291,
+    "count": 367
+  },
+  {
+    "param": "game-RL-tread-R-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "ice-fuel-capacity",
+    "group": "other",
+    "min": 34.0,
+    "max": 75.51000213623047,
+    "count": 340
+  },
+  {
+    "param": "ffb-basic-dev-mode",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "game-RR-tread-temperature",
+    "group": "tyres_telemetry",
+    "min": 378.0,
+    "max": 378.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-patch-Fz",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 260
+  },
+  {
+    "param": "ecu-active",
+    "group": "electronics",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 193
+  },
+  {
+    "param": "FL-toe",
+    "group": "alignment",
+    "min": -0.5,
+    "max": 0.2500000111758709,
+    "count": 367
+  },
+  {
+    "param": "gear-install-gearbox-4",
+    "group": "gearbox",
+    "min": 3.0,
+    "max": 25.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-output-2",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "FR-fast-rebound",
+    "group": "suspension",
+    "min": 3500.0,
+    "max": 13000.0,
+    "count": 315
+  },
+  {
+    "param": "game-RL-carcass-temperature",
+    "group": "tyres_telemetry",
+    "min": 378.0,
+    "max": 378.0,
+    "count": 367
+  },
+  {
+    "param": "game-FL-tread-temperature",
+    "group": "tyres_telemetry",
+    "min": 378.0,
+    "max": 378.0,
+    "count": 367
+  },
+  {
+    "param": "aero-front-stream-y",
+    "group": "aero",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "tweaker-brake-drag-speed",
+    "group": "brakes",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-hidden-safety-strength",
+    "group": "ffb",
+    "min": 0.800000011920929,
+    "max": 0.800000011920929,
+    "count": 223
+  },
+  {
+    "param": "ffb-hidden-eq-freq-md_hi",
+    "group": "ffb",
+    "min": 100.0,
+    "max": 100.0,
+    "count": 223
+  },
+  {
+    "param": "gear-install-gearbox-5",
+    "group": "gearbox",
+    "min": 4.0,
+    "max": 31.0,
+    "count": 364
+  },
+  {
+    "param": "FR-caster-adjuster",
+    "group": "alignment",
+    "min": 0.009999999776482582,
+    "max": 0.019999999552965164,
+    "count": 268
+  },
+  {
+    "param": "gear-install-gearbox-R",
+    "group": "gearbox",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "gear-install-gearbox-1",
+    "group": "gearbox",
+    "min": 0.0,
+    "max": 5.0,
+    "count": 367
+  },
+  {
+    "param": "RL-camber",
+    "group": "alignment",
+    "min": -3.5,
+    "max": -0.7999999597668648,
+    "count": 331
+  },
+  {
+    "param": "input-FL:brake",
+    "group": "brakes",
+    "min": -1.0,
+    "max": -1.0,
+    "count": 367
+  },
+  {
+    "param": "RR-tire-choice",
+    "group": "other",
+    "min": -1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "legacy-clutch",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 340
+  },
+  {
+    "param": "FR-tire-choice",
+    "group": "other",
+    "min": -1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "steering",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "game-FL-air-temperature",
+    "group": "tyres_telemetry",
+    "min": 295.0,
+    "max": 295.0,
+    "count": 367
+  },
+  {
+    "param": "brake-bias",
+    "group": "brakes",
+    "min": 0.47999998927116394,
+    "max": 0.7299999836832285,
+    "count": 367
+  },
+  {
+    "param": "input-RL:brake",
+    "group": "brakes",
+    "min": -1.0,
+    "max": -1.0,
+    "count": 367
+  },
+  {
+    "param": "FR-spring-rate",
+    "group": "suspension",
+    "min": 35000.0,
+    "max": 340000.0,
+    "count": 365
+  },
+  {
+    "param": "ffb-deep-patch-Fy",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-patch-Fy",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 260
+  },
+  {
+    "param": "FR-slow-rebound",
+    "group": "suspension",
+    "min": 2500.0,
+    "max": 24000.0,
+    "count": 360
+  },
+  {
+    "param": "RR-slow-bump",
+    "group": "suspension",
+    "min": 1500.0,
+    "max": 21000.0,
+    "count": 360
+  },
+  {
+    "param": "ffb-deep-low-force-boost",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "RL-spring-platform",
+    "group": "suspension",
+    "min": -0.026999999186955392,
+    "max": 0.044999999925494194,
+    "count": 367
+  },
+  {
+    "param": "ffb-eq-hi-k",
+    "group": "ffb",
+    "min": 10000.0,
+    "max": 12000.0,
+    "count": 367
+  },
+  {
+    "param": "rack-steering-rate",
+    "group": "other",
+    "min": 1.0,
+    "max": 2.0,
+    "count": 367
+  },
+  {
+    "param": "RL-toe",
+    "group": "alignment",
+    "min": -0.19999999552965164,
+    "max": 0.6000000163912773,
+    "count": 367
+  },
+  {
+    "param": "ffb-deep-patch-Mz",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "starter-torque",
+    "group": "other",
+    "min": 70.0,
+    "max": 70.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-eq-level-md",
+    "group": "ffb",
+    "min": 0.30000000447034836,
+    "max": 1.1000000163912773,
+    "count": 367
+  },
+  {
+    "param": "ffb-patch-Mx",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 260
+  },
+  {
+    "param": "game-RR-tread-R-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "game-RL-tread-C-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-deep-low-steer-damp",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "game-RL-air-temperature",
+    "group": "tyres_telemetry",
+    "min": 295.0,
+    "max": 295.0,
+    "count": 367
+  },
+  {
+    "param": "FL-bumpstop-size",
+    "group": "suspension",
+    "min": 0.004999999888241291,
+    "max": 0.024999999441206455,
+    "count": 366
+  },
+  {
+    "param": "ffb-hidden-friction-smoothing",
+    "group": "ffb",
+    "min": 0.10000000149011612,
+    "max": 0.10000000149011612,
+    "count": 223
+  },
+  {
+    "param": "ffb-deep-eq-level-lo",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "RL-spring-rate",
+    "group": "suspension",
+    "min": 44000.0,
+    "max": 350000.0,
+    "count": 365
+  },
+  {
+    "param": "RR-spring-platform",
+    "group": "suspension",
+    "min": -0.026999999186955392,
+    "max": 0.044999999925494194,
+    "count": 367
+  },
+  {
+    "param": "ffb-deep-patch-Fz",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-low-steer-damp",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "brake",
+    "group": "brakes",
+    "min": 0.009999999776482582,
+    "max": 0.009999999776482582,
+    "count": 367
+  },
+  {
+    "param": "game-RL-tread-temperature",
+    "group": "tyres_telemetry",
+    "min": 378.0,
+    "max": 378.0,
+    "count": 367
+  },
+  {
+    "param": "RR-spring-rate",
+    "group": "suspension",
+    "min": 44000.0,
+    "max": 350000.0,
+    "count": 365
+  },
+  {
+    "param": "RL-fast-rebound",
+    "group": "suspension",
+    "min": 2500.0,
+    "max": 11000.0,
+    "count": 315
+  },
+  {
+    "param": "ffb-hidden-eq-freq-lo_md",
+    "group": "ffb",
+    "min": 10.0,
+    "max": 10.0,
+    "count": 223
+  },
+  {
+    "param": "FR-kpi-adjuster",
+    "group": "alignment",
+    "min": 0.0,
+    "max": 0.009999999776482582,
+    "count": 268
+  },
+  {
+    "param": "ffb-eq-level-lo",
+    "group": "ffb",
+    "min": 0.800000011920929,
+    "max": 1.0000000149011612,
+    "count": 367
+  },
+  {
+    "param": "ffb-hidden-friction-tightness",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "FL-spring-rate",
+    "group": "suspension",
+    "min": 35000.0,
+    "max": 340000.0,
+    "count": 365
+  },
+  {
+    "param": "RL-slow-bump",
+    "group": "suspension",
+    "min": 1500.0,
+    "max": 21000.0,
+    "count": 360
+  },
+  {
+    "param": "RL-bumpstop-size",
+    "group": "suspension",
+    "min": 0.004999999888241291,
+    "max": 0.024999999441206455,
+    "count": 366
+  },
+  {
+    "param": "gear-install-gearbox-2",
+    "group": "gearbox",
+    "min": 1.0,
+    "max": 12.0,
+    "count": 367
+  },
+  {
+    "param": "FR-camber",
+    "group": "alignment",
+    "min": -5.5,
+    "max": -1.5999999716877937,
+    "count": 331
+  },
+  {
+    "param": "rack-steering-position",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 250
+  },
+  {
+    "param": "ffb-detail-boost",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 340
+  },
+  {
+    "param": "input-gear",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 340
+  },
+  {
+    "param": "ffb-hidden-eq-hi-d",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "FR-bumpstop-stiffness",
+    "group": "suspension",
+    "min": 100000.0,
+    "max": 1000000.0,
+    "count": 366
+  },
+  {
+    "param": "game-RR-tread-L-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "FR-fast-bump",
+    "group": "suspension",
+    "min": 1000.0,
+    "max": 11000.0,
+    "count": 315
+  },
+  {
+    "param": "game-FR-tread-R-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-deep-smoothing",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-output-0",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-safety-smoothing",
+    "group": "ffb",
+    "min": 0.05999999865889549,
+    "max": 0.05999999865889549,
+    "count": 367
+  },
+  {
+    "param": "ffb-deep-patch-My",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "ffb-patch-Mz",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 260
+  },
+  {
+    "param": "F-antirollbar",
+    "group": "other",
+    "min": 20000.0,
+    "max": 200000.0,
+    "count": 367
+  },
+  {
+    "param": "starter-idle",
+    "group": "other",
+    "min": 800.0,
+    "max": 2000.0,
+    "count": 340
+  },
+  {
+    "param": "FL-spring-platform",
+    "group": "suspension",
+    "min": -0.029999999329447746,
+    "max": 0.04500000178813934,
+    "count": 367
+  },
+  {
+    "param": "ffb-output-3",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 223
+  },
+  {
+    "param": "input-raw-throttle",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "gear-install-gearbox-N",
+    "group": "gearbox",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "abs",
+    "group": "brakes",
+    "min": 0.0,
+    "max": 6.0,
+    "count": 367
+  },
+  {
+    "param": "game-RL-tread-wear",
+    "group": "tyres_telemetry",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "RR-camber",
+    "group": "alignment",
+    "min": -3.5,
+    "max": -0.7999999597668648,
+    "count": 331
+  },
+  {
+    "param": "FR-toe",
+    "group": "alignment",
+    "min": -0.5,
+    "max": 0.2500000111758709,
+    "count": 367
+  },
+  {
+    "param": "ffb-safety-strength",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 1.0,
+    "count": 285
+  },
+  {
+    "param": "restitution-base",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-deep-eq-level-md",
+    "group": "ffb",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 223
+  },
+  {
+    "param": "RW-downforce-scale",
+    "group": "aero",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 367
+  },
+  {
+    "param": "diff-ramp-coast",
+    "group": "diff",
+    "min": 30.0,
+    "max": 75.0,
+    "count": 341
+  },
+  {
+    "param": "game-FL-tread-L-wear",
+    "group": "tyres_telemetry",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 367
+  },
+  {
+    "param": "ffb-friction-boost",
+    "group": "ffb",
+    "min": 0.0,
+    "max": 0.03200000151991844,
+    "count": 367
+  },
+  {
+    "param": "game-FR-carcass-temperature",
+    "group": "tyres_telemetry",
+    "min": 378.0,
+    "max": 378.0,
+    "count": 367
+  },
+  {
+    "param": "clutch-power-limit",
+    "group": "other",
+    "min": 10000.0,
+    "max": 10000.0,
+    "count": 27
+  },
+  {
+    "param": "ice-popoff-valve-pressure",
+    "group": "other",
+    "min": 0.0,
+    "max": 400000.0,
+    "count": 27
+  },
+  {
+    "param": "ice-wastegate-pressure",
+    "group": "other",
+    "min": 0.0,
+    "max": 250000.0,
+    "count": 27
+  },
+  {
+    "param": "bop-ballast",
+    "group": "other",
+    "min": 10.0,
+    "max": 35.0,
+    "count": 27
+  },
+  {
+    "param": "input-raw-gear",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 27
+  },
+  {
+    "param": "ice-losses-1",
+    "group": "other",
+    "min": 1.0,
+    "max": 1.0,
+    "count": 27
+  },
+  {
+    "param": "ecu-anti-stall",
+    "group": "electronics",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 27
+  },
+  {
+    "param": "ecu-regen-limit",
+    "group": "electronics",
+    "min": 180.0,
+    "max": 180.0,
+    "count": 24
+  },
+  {
+    "param": "ecu-TC-indicator",
+    "group": "electronics",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 27
+  },
+  {
+    "param": "ecu-regen-mode",
+    "group": "electronics",
+    "min": 2.0,
+    "max": 2.0,
+    "count": 24
+  },
+  {
+    "param": "gear-install-gearbox-7",
+    "group": "gearbox",
+    "min": 6.0,
+    "max": 20.0,
+    "count": 42
+  },
+  {
+    "param": "ecu-regen-control",
+    "group": "electronics",
+    "min": 0.20000000298023224,
+    "max": 0.20000000298023224,
+    "count": 24
+  },
+  {
+    "param": "ecu-deploy-limit",
+    "group": "electronics",
+    "min": 15.0,
+    "max": 20.0,
+    "count": 24
+  },
+  {
+    "param": "bop-power",
+    "group": "other",
+    "min": 0.949999988079071,
+    "max": 1.0,
+    "count": 27
+  },
+  {
+    "param": "ecu-ice-throttle-min",
+    "group": "electronics",
+    "min": 0.11999999731779099,
+    "max": 0.14000000059604645,
+    "count": 27
+  },
+  {
+    "param": "input-speed-limit",
+    "group": "other",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 27
+  },
+  {
+    "param": "ice-smoothing-1",
+    "group": "other",
+    "min": 2.0,
+    "max": 2.0,
+    "count": 27
+  },
+  {
+    "param": "ecu-pid-idle",
+    "group": "electronics",
+    "min": 1500.0,
+    "max": 1500.0,
+    "count": 27
+  },
+  {
+    "param": "clutch-coast-limit",
+    "group": "other",
+    "min": 1000.0,
+    "max": 1000.0,
+    "count": 27
+  },
+  {
+    "param": "ice-crank-P-1",
+    "group": "other",
+    "min": 100000.0,
+    "max": 100000.0,
+    "count": 27
+  },
+  {
+    "param": "ev-battery-remaining",
+    "group": "other",
+    "min": 3888000.0,
+    "max": 4000000.0,
+    "count": 27
+  },
+  {
+    "param": "tweaker-ICE-friction",
+    "group": "other",
+    "min": 20.0,
+    "max": 20.0,
+    "count": 27
+  },
+  {
+    "param": "ice-throttle-plate-stop-1",
+    "group": "other",
+    "min": 0.11999999731779099,
+    "max": 0.14000000059604645,
+    "count": 27
+  },
+  {
+    "param": "RL-kpi-adjuster",
+    "group": "alignment",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 4
+  },
+  {
+    "param": "RR-caster-adjuster",
+    "group": "alignment",
+    "min": 0.019999999552965164,
+    "max": 0.019999999552965164,
+    "count": 4
+  },
+  {
+    "param": "RL-caster-adjuster",
+    "group": "alignment",
+    "min": 0.019999999552965164,
+    "max": 0.019999999552965164,
+    "count": 4
+  },
+  {
+    "param": "RR-kpi-adjuster",
+    "group": "alignment",
+    "min": 0.0,
+    "max": 0.0,
+    "count": 4
+  }
+]
