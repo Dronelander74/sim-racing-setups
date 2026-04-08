@@ -1,0 +1,202 @@
+{
+  "LMDh": {
+    "expectedCount": 9,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=0&lang=en&country=US",
+    "cars": [
+      "Lamborghini SC63 LMDh",
+      "Aston Martin Valkyrie Hypercar",
+      "Porsche 963",
+      "Cadillac V-Series.R",
+      "Toyota GR010 Hybrid",
+      "Acura ARX-06",
+      "Alpine A424 Beta",
+      "BMW M Hybrid V8",
+      "Peugeot 9X8"
+    ]
+  },
+  "GT3": {
+    "expectedCount": 10,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=1&lang=en&country=US",
+    "cars": [
+      "Audi R8 LMS GT3 Evo II",
+      "Lamborghini Huracán GT3 Evo2",
+      "Aston Martin Vantage GT3 (2022)",
+      "Aston Martin Vantage GT3",
+      "Ford Mustang GT3",
+      "Porsche 911 GT3 R (992)",
+      "Mercedes-AMG GT3",
+      "Acura NSX GT3 Evo 22",
+      "Chevrolet Corvette Z06 GT3.R",
+      "BMW M4 GT3 (G82) EVO"
+    ]
+  },
+  "GT4": {
+    "expectedCount": 10,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=2",
+    "cars": [
+      "Audi R8 LMS GT4",
+      "Aston Martin AMR Vantage GT4",
+      "Ford Mustang GT4",
+      "Porsche 718 Cayman GT4 Clubsport",
+      "Toyota GR Supra GT4 Evo",
+      "Alpine A110 GT4",
+      "BMW M4 GT4 EVO (G82)",
+      "Chevrolet Camaro ZL-1 GT4.R",
+      "Mercedes-AMG GT4",
+      "Nissan Z GT4"
+    ]
+  },
+  "MX-5": {
+    "expectedCount": 1,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=3",
+    "cars": [
+      "Mazda MX-5 Spec"
+    ]
+  },
+  "GT": {
+    "expectedCount": 8,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=4&showClass",
+    "cars": [
+      "Lister Storm GT",
+      "Saleen S7-R",
+      "Lamborghini Murciélago R-GT",
+      "Aston Martin DBR9",
+      "Chevrolet Corvette C5.R",
+      "Chevrolet Corvette C6.R",
+      "Chrysler Viper GTS-R",
+      "Maserati MC12 GT1"
+    ]
+  },
+  "N-GT": {
+    "expectedCount": 8,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=5",
+    "cars": [
+      "Gillet Vertigo",
+      "Mosler MT900R",
+      "TVR Tuscan T400R",
+      "Morgan Aero 8",
+      "Marcos Mantara LM600",
+      "Porsche 911 GT3-RSR (996)",
+      "BMW M3 GTR (E46)",
+      "Dodge Viper Competition Coupe"
+    ]
+  },
+  "LMP": {
+    "expectedCount": 4,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=6",
+    "cars": [
+      "Audi R8 (LMP900)",
+      "Panoz LMP-1 Roadster S",
+      "Cadillac Northstar LMP-02",
+      "BMW V12 LMR"
+    ]
+  },
+  "GT1": {
+    "expectedCount": 6,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=7&showClass",
+    "cars": [
+      "Panoz Esperante GTR-1",
+      "Porsche 911 GT1-98",
+      "Lotus Elise GT1",
+      "Mercedes-Benz CLK-LM",
+      "Nissan R390 GT1",
+      "Toyota GT-One"
+    ]
+  },
+  "Group C": {
+    "expectedCount": 5,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=8&lang=en&country=US",
+    "cars": [
+      "Porsche 962C",
+      "Mazda 787B",
+      "1989 Mercedes-Benz Sauber C9",
+      "Jaguar XJR-9",
+      "Nissan R89C"
+    ]
+  },
+  "Sports Car 70": {
+    "expectedCount": 2,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=9",
+    "cars": [
+      "Lola T70 Mk3B GT",
+      "Porsche 917K"
+    ]
+  },
+  "GTO": {
+    "expectedCount": 5,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=10",
+    "cars": [
+      "Nissan 300ZX Turbo GTO",
+      "Chevrolet Camaro Z28 IMSA GTO",
+      "Mercury Cougar XR-7 IMSA GTO",
+      "Mazda RX-7 GTO",
+      "Audi 90 IMSA GTO"
+    ]
+  },
+  "992 Trophy": {
+    "expectedCount": 1,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=11&showClass",
+    "cars": [
+      "Porsche 911 GT3 Cup (992)"
+    ]
+  },
+  "964 Trophy": {
+    "expectedCount": 1,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=18&lang=en&country=IT",
+    "cars": [
+      "1990 Porsche 911 Carrera Cup (964)"
+    ]
+  },
+  "DLC: Group 5": {
+    "expectedCount": 5,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=13&showClass",
+    "cars": [
+      "BMW 320 Turbo Group 5",
+      "Ford Zakpseed Capri Group 5",
+      "Nissan 280ZX Turbo",
+      "Nissan Skyline Super Silhouette",
+      "Porsche 935/80"
+    ]
+  },
+  "DLC: GTE": {
+    "expectedCount": 7,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=14&showClass",
+    "cars": [
+      "Aston Martin AMR Vantage GTE",
+      "BMW M8 GTE",
+      "Chevrolet Corvette C7.R",
+      "Chevrolet Corvette C8.R",
+      "Dodge SRT Viper GTS-R",
+      "Ford GTLM GTE",
+      "Porsche 911 RSR"
+    ]
+  },
+  "DLC: Aus-V8": {
+    "expectedCount": 1,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=15&showClass",
+    "cars": [
+      "Ford Falcon FG V8 Supercar"
+    ]
+  },
+  "DLC: GT500": {
+    "expectedCount": 4,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=16&showClass",
+    "cars": [
+      "Honda NSX JGTC",
+      "Nissan Fairlady Z (Z33) JGTC",
+      "Nissan Skyline GT-R (R34) JGTC",
+      "Toyota Supra JGTC"
+    ]
+  },
+  "DLC: GT500 EVO": {
+    "expectedCount": 5,
+    "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=17&showClass",
+    "cars": [
+      "Honda Civic GT500",
+      "Honda NSX GT500",
+      "Nissan Calsonic Impul Z GT500",
+      "Nissan Motul Autech GT-R GT500",
+      "Toyota GR Supra GT500"
+    ]
+  }
+}
