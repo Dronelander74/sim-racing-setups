@@ -1,0 +1,1255 @@
+﻿{
+    "schemaVersion":  "acc-car-parameter-values-v1",
+    "car":  "bmw_m4_gt4",
+    "sourceFiles":  [
+                        "bmw_m4_gt4_dry_all_setups.txt",
+                        "bmw_m4_gt4_wet_all_setups.txt"
+                    ],
+    "deduplication":  "n/a (aggregated extract from provided dry+wet txt)",
+    "exclusions":  [
+                       "tyres.*.psi"
+                   ],
+    "parameterCount":  54,
+    "parameters":  [
+                       {
+                           "path":  "aero.front.brake ducts",
+                           "type":  "int",
+                           "min":  3,
+                           "max":  6,
+                           "distinctCount":  4,
+                           "values":  [
+                                          3,
+                                          4,
+                                          5,
+                                          6
+                                      ],
+                           "sampleCounts":  {
+                                                "5":  30,
+                                                "6":  12,
+                                                "4":  16,
+                                                "3":  17
+                                            }
+                       },
+                       {
+                           "path":  "aero.front.ride height",
+                           "type":  "int",
+                           "min":  70,
+                           "max":  90,
+                           "distinctCount":  4,
+                           "values":  [
+                                          70,
+                                          80,
+                                          85,
+                                          90
+                                      ],
+                           "sampleCounts":  {
+                                                "80":  57,
+                                                "70":  6,
+                                                "85":  9,
+                                                "90":  3
+                                            }
+                       },
+                       {
+                           "path":  "aero.front.splitter",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  0,
+                           "distinctCount":  1,
+                           "values":  [
+                                          0
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  75
+                                            }
+                       },
+                       {
+                           "path":  "aero.rear.brake ducts",
+                           "type":  "int",
+                           "min":  2,
+                           "max":  5,
+                           "distinctCount":  4,
+                           "values":  [
+                                          2,
+                                          3,
+                                          4,
+                                          5
+                                      ],
+                           "sampleCounts":  {
+                                                "2":  7,
+                                                "3":  24,
+                                                "4":  17,
+                                                "5":  27
+                                            }
+                       },
+                       {
+                           "path":  "aero.rear.rear wing",
+                           "type":  "int",
+                           "min":  1,
+                           "max":  5,
+                           "distinctCount":  4,
+                           "values":  [
+                                          1,
+                                          3,
+                                          4,
+                                          5
+                                      ],
+                           "sampleCounts":  {
+                                                "5":  44,
+                                                "4":  9,
+                                                "1":  17,
+                                                "3":  5
+                                            }
+                       },
+                       {
+                           "path":  "aero.rear.ride height",
+                           "type":  "int",
+                           "min":  67,
+                           "max":  100,
+                           "distinctCount":  20,
+                           "values":  [
+                                          67,
+                                          70,
+                                          72,
+                                          75,
+                                          78,
+                                          80,
+                                          83,
+                                          84,
+                                          85,
+                                          86,
+                                          87,
+                                          88,
+                                          90,
+                                          91,
+                                          92,
+                                          93,
+                                          94,
+                                          95,
+                                          96,
+                                          100
+                                      ],
+                           "sampleCounts":  {
+                                                "96":  1,
+                                                "83":  1,
+                                                "100":  19,
+                                                "95":  11,
+                                                "80":  2,
+                                                "88":  1,
+                                                "86":  3,
+                                                "67":  1,
+                                                "94":  2,
+                                                "90":  8,
+                                                "70":  2,
+                                                "87":  6,
+                                                "75":  2,
+                                                "93":  2,
+                                                "91":  2,
+                                                "84":  1,
+                                                "72":  1,
+                                                "78":  1,
+                                                "85":  5,
+                                                "92":  4
+                                            }
+                       },
+                       {
+                           "path":  "dampers.left front.bump",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  15,
+                           "distinctCount":  13,
+                           "values":  [
+                                          0,
+                                          2,
+                                          3,
+                                          4,
+                                          5,
+                                          6,
+                                          7,
+                                          8,
+                                          9,
+                                          11,
+                                          12,
+                                          14,
+                                          15
+                                      ],
+                           "sampleCounts":  {
+                                                "3":  7,
+                                                "5":  20,
+                                                "12":  5,
+                                                "2":  4,
+                                                "8":  1,
+                                                "0":  4,
+                                                "15":  3,
+                                                "9":  1,
+                                                "14":  3,
+                                                "7":  1,
+                                                "11":  5,
+                                                "6":  15,
+                                                "4":  6
+                                            }
+                       },
+                       {
+                           "path":  "dampers.left front.fast bump",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  0,
+                           "distinctCount":  1,
+                           "values":  [
+                                          0
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  75
+                                            }
+                       },
+                       {
+                           "path":  "dampers.left front.fast rebound",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  0,
+                           "distinctCount":  1,
+                           "values":  [
+                                          0
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  75
+                                            }
+                       },
+                       {
+                           "path":  "dampers.left front.rebound",
+                           "type":  "int",
+                           "min":  8,
+                           "max":  24,
+                           "distinctCount":  14,
+                           "values":  [
+                                          8,
+                                          9,
+                                          10,
+                                          12,
+                                          13,
+                                          14,
+                                          15,
+                                          17,
+                                          18,
+                                          19,
+                                          20,
+                                          21,
+                                          22,
+                                          24
+                                      ],
+                           "sampleCounts":  {
+                                                "18":  1,
+                                                "12":  2,
+                                                "10":  1,
+                                                "21":  6,
+                                                "22":  6,
+                                                "8":  3,
+                                                "17":  7,
+                                                "15":  5,
+                                                "9":  6,
+                                                "24":  12,
+                                                "14":  11,
+                                                "20":  6,
+                                                "19":  3,
+                                                "13":  6
+                                            }
+                       },
+                       {
+                           "path":  "dampers.left rear.bump",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  18,
+                           "distinctCount":  14,
+                           "values":  [
+                                          0,
+                                          2,
+                                          3,
+                                          4,
+                                          5,
+                                          6,
+                                          7,
+                                          8,
+                                          9,
+                                          10,
+                                          12,
+                                          14,
+                                          17,
+                                          18
+                                      ],
+                           "sampleCounts":  {
+                                                "3":  9,
+                                                "5":  5,
+                                                "18":  3,
+                                                "12":  1,
+                                                "10":  9,
+                                                "2":  6,
+                                                "8":  13,
+                                                "0":  1,
+                                                "17":  3,
+                                                "9":  1,
+                                                "14":  3,
+                                                "7":  2,
+                                                "6":  8,
+                                                "4":  11
+                                            }
+                       },
+                       {
+                           "path":  "dampers.left rear.fast bump",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  0,
+                           "distinctCount":  1,
+                           "values":  [
+                                          0
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  75
+                                            }
+                       },
+                       {
+                           "path":  "dampers.left rear.fast rebound",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  0,
+                           "distinctCount":  1,
+                           "values":  [
+                                          0
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  75
+                                            }
+                       },
+                       {
+                           "path":  "dampers.left rear.rebound",
+                           "type":  "int",
+                           "min":  3,
+                           "max":  24,
+                           "distinctCount":  18,
+                           "values":  [
+                                          3,
+                                          4,
+                                          5,
+                                          6,
+                                          7,
+                                          8,
+                                          9,
+                                          10,
+                                          12,
+                                          14,
+                                          15,
+                                          16,
+                                          18,
+                                          19,
+                                          20,
+                                          21,
+                                          23,
+                                          24
+                                      ],
+                           "sampleCounts":  {
+                                                "12":  3,
+                                                "3":  1,
+                                                "5":  4,
+                                                "18":  6,
+                                                "16":  3,
+                                                "10":  3,
+                                                "8":  1,
+                                                "21":  6,
+                                                "9":  3,
+                                                "24":  3,
+                                                "14":  6,
+                                                "20":  6,
+                                                "15":  1,
+                                                "7":  5,
+                                                "23":  3,
+                                                "6":  12,
+                                                "4":  1,
+                                                "19":  8
+                                            }
+                       },
+                       {
+                           "path":  "dampers.right front.bump",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  15,
+                           "distinctCount":  13,
+                           "values":  [
+                                          0,
+                                          2,
+                                          3,
+                                          4,
+                                          5,
+                                          6,
+                                          7,
+                                          8,
+                                          9,
+                                          11,
+                                          12,
+                                          14,
+                                          15
+                                      ],
+                           "sampleCounts":  {
+                                                "3":  7,
+                                                "5":  20,
+                                                "12":  5,
+                                                "2":  4,
+                                                "8":  1,
+                                                "0":  4,
+                                                "15":  3,
+                                                "9":  1,
+                                                "14":  3,
+                                                "7":  1,
+                                                "11":  5,
+                                                "6":  15,
+                                                "4":  6
+                                            }
+                       },
+                       {
+                           "path":  "dampers.right front.fast bump",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  0,
+                           "distinctCount":  1,
+                           "values":  [
+                                          0
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  75
+                                            }
+                       },
+                       {
+                           "path":  "dampers.right front.fast rebound",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  0,
+                           "distinctCount":  1,
+                           "values":  [
+                                          0
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  75
+                                            }
+                       },
+                       {
+                           "path":  "dampers.right front.rebound",
+                           "type":  "int",
+                           "min":  8,
+                           "max":  24,
+                           "distinctCount":  14,
+                           "values":  [
+                                          8,
+                                          9,
+                                          10,
+                                          12,
+                                          13,
+                                          14,
+                                          15,
+                                          17,
+                                          18,
+                                          19,
+                                          20,
+                                          21,
+                                          22,
+                                          24
+                                      ],
+                           "sampleCounts":  {
+                                                "18":  1,
+                                                "12":  2,
+                                                "10":  1,
+                                                "21":  6,
+                                                "22":  6,
+                                                "8":  3,
+                                                "17":  7,
+                                                "15":  5,
+                                                "9":  6,
+                                                "24":  12,
+                                                "14":  11,
+                                                "20":  6,
+                                                "19":  3,
+                                                "13":  6
+                                            }
+                       },
+                       {
+                           "path":  "dampers.right rear.bump",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  18,
+                           "distinctCount":  14,
+                           "values":  [
+                                          0,
+                                          2,
+                                          3,
+                                          4,
+                                          5,
+                                          6,
+                                          7,
+                                          8,
+                                          9,
+                                          10,
+                                          12,
+                                          14,
+                                          17,
+                                          18
+                                      ],
+                           "sampleCounts":  {
+                                                "3":  9,
+                                                "5":  5,
+                                                "18":  3,
+                                                "12":  1,
+                                                "10":  9,
+                                                "2":  6,
+                                                "8":  13,
+                                                "0":  1,
+                                                "17":  3,
+                                                "9":  1,
+                                                "14":  3,
+                                                "7":  2,
+                                                "6":  8,
+                                                "4":  11
+                                            }
+                       },
+                       {
+                           "path":  "dampers.right rear.fast bump",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  0,
+                           "distinctCount":  1,
+                           "values":  [
+                                          0
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  75
+                                            }
+                       },
+                       {
+                           "path":  "dampers.right rear.fast rebound",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  0,
+                           "distinctCount":  1,
+                           "values":  [
+                                          0
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  75
+                                            }
+                       },
+                       {
+                           "path":  "dampers.right rear.rebound",
+                           "type":  "int",
+                           "min":  3,
+                           "max":  24,
+                           "distinctCount":  18,
+                           "values":  [
+                                          3,
+                                          4,
+                                          5,
+                                          6,
+                                          7,
+                                          8,
+                                          9,
+                                          10,
+                                          12,
+                                          14,
+                                          15,
+                                          16,
+                                          18,
+                                          19,
+                                          20,
+                                          21,
+                                          23,
+                                          24
+                                      ],
+                           "sampleCounts":  {
+                                                "12":  3,
+                                                "3":  1,
+                                                "5":  4,
+                                                "18":  6,
+                                                "16":  3,
+                                                "10":  3,
+                                                "8":  1,
+                                                "21":  6,
+                                                "9":  3,
+                                                "24":  3,
+                                                "14":  6,
+                                                "20":  6,
+                                                "15":  1,
+                                                "7":  5,
+                                                "23":  3,
+                                                "6":  12,
+                                                "4":  1,
+                                                "19":  8
+                                            }
+                       },
+                       {
+                           "path":  "electronics.electronic elements.abs",
+                           "type":  "int",
+                           "min":  1,
+                           "max":  1,
+                           "distinctCount":  1,
+                           "values":  [
+                                          1
+                                      ],
+                           "sampleCounts":  {
+                                                "1":  75
+                                            }
+                       },
+                       {
+                           "path":  "electronics.electronic elements.ecu map",
+                           "type":  "int",
+                           "min":  1,
+                           "max":  1,
+                           "distinctCount":  1,
+                           "values":  [
+                                          1
+                                      ],
+                           "sampleCounts":  {
+                                                "1":  75
+                                            }
+                       },
+                       {
+                           "path":  "electronics.electronic elements.tc",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  1,
+                           "distinctCount":  2,
+                           "values":  [
+                                          0,
+                                          1
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  53,
+                                                "1":  22
+                                            }
+                       },
+                       {
+                           "path":  "electronics.electronic elements.tc2",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  0,
+                           "distinctCount":  1,
+                           "values":  [
+                                          0
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  75
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.front.antiroll bar",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  2,
+                           "distinctCount":  3,
+                           "values":  [
+                                          0,
+                                          1,
+                                          2
+                                      ],
+                           "sampleCounts":  {
+                                                "2":  26,
+                                                "1":  15,
+                                                "0":  34
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.front.brake bias",
+                           "type":  "float",
+                           "min":  49,
+                           "max":  51.7,
+                           "distinctCount":  8,
+                           "values":  [
+                                          49,
+                                          49.6,
+                                          49.9,
+                                          50.2,
+                                          50.5,
+                                          50.8,
+                                          51.1,
+                                          51.7
+                                      ],
+                           "sampleCounts":  {
+                                                "51.7":  1,
+                                                "49.9":  1,
+                                                "50.8":  12,
+                                                "50.5":  3,
+                                                "49.6":  2,
+                                                "50.2":  1,
+                                                "49":  30,
+                                                "51.1":  25
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.front.brake power",
+                           "type":  "int",
+                           "min":  90,
+                           "max":  100,
+                           "distinctCount":  4,
+                           "values":  [
+                                          90,
+                                          93,
+                                          94,
+                                          100
+                                      ],
+                           "sampleCounts":  {
+                                                "94":  1,
+                                                "100":  70,
+                                                "90":  2,
+                                                "93":  2
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.front.steer ratio",
+                           "type":  "int",
+                           "min":  12,
+                           "max":  14,
+                           "distinctCount":  3,
+                           "values":  [
+                                          12,
+                                          13,
+                                          14
+                                      ],
+                           "sampleCounts":  {
+                                                "14":  36,
+                                                "12":  36,
+                                                "13":  3
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.left front.bumpstop range",
+                           "type":  "int",
+                           "min":  17,
+                           "max":  48,
+                           "distinctCount":  11,
+                           "values":  [
+                                          17,
+                                          18,
+                                          22,
+                                          24,
+                                          25,
+                                          26,
+                                          28,
+                                          29,
+                                          30,
+                                          35,
+                                          48
+                                      ],
+                           "sampleCounts":  {
+                                                "28":  4,
+                                                "26":  3,
+                                                "35":  9,
+                                                "22":  1,
+                                                "18":  4,
+                                                "30":  24,
+                                                "17":  3,
+                                                "29":  2,
+                                                "24":  2,
+                                                "48":  9,
+                                                "25":  14
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.left front.bumpstop rate",
+                           "type":  "int",
+                           "min":  300,
+                           "max":  1000,
+                           "distinctCount":  5,
+                           "values":  [
+                                          300,
+                                          400,
+                                          500,
+                                          800,
+                                          1000
+                                      ],
+                           "sampleCounts":  {
+                                                "500":  22,
+                                                "300":  18,
+                                                "1000":  6,
+                                                "800":  3,
+                                                "400":  26
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.left front.wheel rate",
+                           "type":  "int",
+                           "min":  165888,
+                           "max":  202752,
+                           "distinctCount":  3,
+                           "values":  [
+                                          165888,
+                                          184320,
+                                          202752
+                                      ],
+                           "sampleCounts":  {
+                                                "202752":  3,
+                                                "165888":  71,
+                                                "184320":  1
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.left rear.bumpstop range",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  40,
+                           "distinctCount":  16,
+                           "values":  [
+                                          0,
+                                          10,
+                                          12,
+                                          13,
+                                          14,
+                                          15,
+                                          16,
+                                          18,
+                                          19,
+                                          20,
+                                          21,
+                                          23,
+                                          25,
+                                          28,
+                                          30,
+                                          40
+                                      ],
+                           "sampleCounts":  {
+                                                "12":  3,
+                                                "18":  4,
+                                                "16":  1,
+                                                "10":  12,
+                                                "21":  2,
+                                                "0":  3,
+                                                "15":  6,
+                                                "28":  4,
+                                                "14":  1,
+                                                "20":  19,
+                                                "40":  2,
+                                                "25":  3,
+                                                "23":  1,
+                                                "30":  1,
+                                                "19":  6,
+                                                "13":  7
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.left rear.bumpstop rate",
+                           "type":  "int",
+                           "min":  300,
+                           "max":  1000,
+                           "distinctCount":  7,
+                           "values":  [
+                                          300,
+                                          400,
+                                          500,
+                                          600,
+                                          700,
+                                          800,
+                                          1000
+                                      ],
+                           "sampleCounts":  {
+                                                "700":  1,
+                                                "300":  39,
+                                                "800":  6,
+                                                "1000":  6,
+                                                "600":  5,
+                                                "500":  11,
+                                                "400":  7
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.left rear.wheel rate",
+                           "type":  "int",
+                           "min":  103335,
+                           "max":  130891,
+                           "distinctCount":  3,
+                           "values":  [
+                                          103335,
+                                          117113,
+                                          130891
+                                      ],
+                           "sampleCounts":  {
+                                                "130891":  19,
+                                                "117113":  16,
+                                                "103335":  40
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.rear.antiroll bar",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  2,
+                           "distinctCount":  3,
+                           "values":  [
+                                          0,
+                                          1,
+                                          2
+                                      ],
+                           "sampleCounts":  {
+                                                "2":  39,
+                                                "1":  22,
+                                                "0":  14
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.rear.preload differential",
+                           "type":  "int",
+                           "min":  10,
+                           "max":  80,
+                           "distinctCount":  7,
+                           "values":  [
+                                          10,
+                                          20,
+                                          30,
+                                          40,
+                                          50,
+                                          70,
+                                          80
+                                      ],
+                           "sampleCounts":  {
+                                                "50":  3,
+                                                "20":  13,
+                                                "40":  3,
+                                                "30":  11,
+                                                "70":  1,
+                                                "10":  41,
+                                                "80":  3
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.right front.bumpstop range",
+                           "type":  "int",
+                           "min":  17,
+                           "max":  48,
+                           "distinctCount":  11,
+                           "values":  [
+                                          17,
+                                          18,
+                                          22,
+                                          24,
+                                          25,
+                                          26,
+                                          28,
+                                          29,
+                                          30,
+                                          35,
+                                          48
+                                      ],
+                           "sampleCounts":  {
+                                                "28":  4,
+                                                "26":  3,
+                                                "35":  9,
+                                                "22":  1,
+                                                "18":  4,
+                                                "30":  24,
+                                                "17":  3,
+                                                "29":  2,
+                                                "24":  2,
+                                                "48":  9,
+                                                "25":  14
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.right front.bumpstop rate",
+                           "type":  "int",
+                           "min":  300,
+                           "max":  1000,
+                           "distinctCount":  5,
+                           "values":  [
+                                          300,
+                                          400,
+                                          500,
+                                          800,
+                                          1000
+                                      ],
+                           "sampleCounts":  {
+                                                "500":  22,
+                                                "300":  18,
+                                                "1000":  6,
+                                                "800":  3,
+                                                "400":  26
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.right front.wheel rate",
+                           "type":  "int",
+                           "min":  165888,
+                           "max":  202752,
+                           "distinctCount":  3,
+                           "values":  [
+                                          165888,
+                                          184320,
+                                          202752
+                                      ],
+                           "sampleCounts":  {
+                                                "202752":  3,
+                                                "165888":  71,
+                                                "184320":  1
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.right rear.bumpstop range",
+                           "type":  "int",
+                           "min":  0,
+                           "max":  40,
+                           "distinctCount":  16,
+                           "values":  [
+                                          0,
+                                          10,
+                                          12,
+                                          13,
+                                          14,
+                                          15,
+                                          16,
+                                          18,
+                                          19,
+                                          20,
+                                          21,
+                                          23,
+                                          25,
+                                          28,
+                                          30,
+                                          40
+                                      ],
+                           "sampleCounts":  {
+                                                "12":  3,
+                                                "18":  4,
+                                                "16":  1,
+                                                "10":  12,
+                                                "21":  2,
+                                                "0":  3,
+                                                "15":  6,
+                                                "28":  4,
+                                                "14":  1,
+                                                "20":  19,
+                                                "40":  2,
+                                                "25":  3,
+                                                "23":  1,
+                                                "30":  1,
+                                                "19":  6,
+                                                "13":  7
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.right rear.bumpstop rate",
+                           "type":  "int",
+                           "min":  300,
+                           "max":  1000,
+                           "distinctCount":  7,
+                           "values":  [
+                                          300,
+                                          400,
+                                          500,
+                                          600,
+                                          700,
+                                          800,
+                                          1000
+                                      ],
+                           "sampleCounts":  {
+                                                "700":  1,
+                                                "300":  39,
+                                                "800":  6,
+                                                "1000":  6,
+                                                "600":  5,
+                                                "500":  11,
+                                                "400":  7
+                                            }
+                       },
+                       {
+                           "path":  "mechanical grip.right rear.wheel rate",
+                           "type":  "int",
+                           "min":  103335,
+                           "max":  130891,
+                           "distinctCount":  3,
+                           "values":  [
+                                          103335,
+                                          117113,
+                                          130891
+                                      ],
+                           "sampleCounts":  {
+                                                "130891":  19,
+                                                "117113":  16,
+                                                "103335":  40
+                                            }
+                       },
+                       {
+                           "path":  "tyres.left front.camber",
+                           "type":  "float",
+                           "min":  -4.5,
+                           "max":  -4.4,
+                           "distinctCount":  2,
+                           "values":  [
+                                          -4.5,
+                                          -4.4
+                                      ],
+                           "sampleCounts":  {
+                                                "-4.5":  72,
+                                                "-4.4":  3
+                                            }
+                       },
+                       {
+                           "path":  "tyres.left front.caster",
+                           "type":  "float",
+                           "min":  8.4,
+                           "max":  8.4,
+                           "distinctCount":  1,
+                           "values":  [
+                                          8.4
+                                      ],
+                           "sampleCounts":  {
+                                                "8.4":  75
+                                            }
+                       },
+                       {
+                           "path":  "tyres.left front.toe",
+                           "type":  "float",
+                           "min":  -0.2,
+                           "max":  -0.07,
+                           "distinctCount":  8,
+                           "values":  [
+                                          -0.2,
+                                          -0.17,
+                                          -0.15,
+                                          -0.13,
+                                          -0.12,
+                                          -0.1,
+                                          -0.08,
+                                          -0.07
+                                      ],
+                           "sampleCounts":  {
+                                                "-0.1":  17,
+                                                "-0.2":  42,
+                                                "-0.15":  5,
+                                                "-0.08":  1,
+                                                "-0.07":  4,
+                                                "-0.13":  2,
+                                                "-0.12":  1,
+                                                "-0.17":  3
+                                            }
+                       },
+                       {
+                           "path":  "tyres.left rear.camber",
+                           "type":  "float",
+                           "min":  -3.5,
+                           "max":  -3.1,
+                           "distinctCount":  4,
+                           "values":  [
+                                          -3.5,
+                                          -3.4,
+                                          -3.2,
+                                          -3.1
+                                      ],
+                           "sampleCounts":  {
+                                                "-3.1":  3,
+                                                "-3.4":  1,
+                                                "-3.5":  63,
+                                                "-3.2":  8
+                                            }
+                       },
+                       {
+                           "path":  "tyres.left rear.toe",
+                           "type":  "float",
+                           "min":  0,
+                           "max":  0.05,
+                           "distinctCount":  4,
+                           "values":  [
+                                          0,
+                                          0.03,
+                                          0.04,
+                                          0.05
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  64,
+                                                "0.04":  1,
+                                                "0.05":  8,
+                                                "0.03":  2
+                                            }
+                       },
+                       {
+                           "path":  "tyres.right front.camber",
+                           "type":  "float",
+                           "min":  -4.5,
+                           "max":  -4.5,
+                           "distinctCount":  1,
+                           "values":  [
+                                          -4.5
+                                      ],
+                           "sampleCounts":  {
+                                                "-4.5":  75
+                                            }
+                       },
+                       {
+                           "path":  "tyres.right front.caster",
+                           "type":  "float",
+                           "min":  8.4,
+                           "max":  8.4,
+                           "distinctCount":  1,
+                           "values":  [
+                                          8.4
+                                      ],
+                           "sampleCounts":  {
+                                                "8.4":  75
+                                            }
+                       },
+                       {
+                           "path":  "tyres.right front.toe",
+                           "type":  "float",
+                           "min":  -0.2,
+                           "max":  -0.07,
+                           "distinctCount":  8,
+                           "values":  [
+                                          -0.2,
+                                          -0.17,
+                                          -0.15,
+                                          -0.13,
+                                          -0.12,
+                                          -0.1,
+                                          -0.08,
+                                          -0.07
+                                      ],
+                           "sampleCounts":  {
+                                                "-0.1":  17,
+                                                "-0.2":  42,
+                                                "-0.15":  5,
+                                                "-0.08":  1,
+                                                "-0.07":  4,
+                                                "-0.13":  2,
+                                                "-0.12":  1,
+                                                "-0.17":  3
+                                            }
+                       },
+                       {
+                           "path":  "tyres.right rear.camber",
+                           "type":  "float",
+                           "min":  -3.5,
+                           "max":  -3.1,
+                           "distinctCount":  4,
+                           "values":  [
+                                          -3.5,
+                                          -3.4,
+                                          -3.2,
+                                          -3.1
+                                      ],
+                           "sampleCounts":  {
+                                                "-3.1":  3,
+                                                "-3.4":  1,
+                                                "-3.5":  63,
+                                                "-3.2":  8
+                                            }
+                       },
+                       {
+                           "path":  "tyres.right rear.toe",
+                           "type":  "float",
+                           "min":  0,
+                           "max":  0.05,
+                           "distinctCount":  4,
+                           "values":  [
+                                          0,
+                                          0.03,
+                                          0.04,
+                                          0.05
+                                      ],
+                           "sampleCounts":  {
+                                                "0":  64,
+                                                "0.04":  1,
+                                                "0.05":  8,
+                                                "0.03":  2
+                                            }
+                       }
+                   ]
+}

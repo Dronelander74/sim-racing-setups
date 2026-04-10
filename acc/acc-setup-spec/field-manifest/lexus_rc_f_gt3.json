@@ -1,0 +1,108 @@
+{
+  "car": "lexus_rc_f_gt3",
+  "schema": "acc",
+  "fields": {
+    "tyres": {
+      "left_front": [
+        "camber",
+        "caster",
+        "psi",
+        "toe"
+      ],
+      "right_front": [
+        "camber",
+        "caster",
+        "psi",
+        "toe"
+      ],
+      "left_rear": [
+        "camber",
+        "psi",
+        "toe"
+      ],
+      "right_rear": [
+        "camber",
+        "psi",
+        "toe"
+      ]
+    },
+    "electronics": {
+      "electronic_elements": [
+        "abs",
+        "ecu_map",
+        "tc",
+	"tc2"
+      ]
+    },
+    "mechanical_grip": {
+      "front": [
+        "antiroll_bar",
+        "brake_bias",
+        "brake_power",
+        "steer_ratio"
+      ],
+      "left_front": [
+        "bumpstop_range",
+        "bumpstop_rate",
+        "wheel_rate"
+      ],
+      "right_front": [
+        "bumpstop_range",
+        "bumpstop_rate",
+        "wheel_rate"
+      ],
+      "left_rear": [
+        "bumpstop_range",
+        "bumpstop_rate",
+        "wheel_rate"
+      ],
+      "right_rear": [
+        "bumpstop_range",
+        "bumpstop_rate",
+        "wheel_rate"
+      ],
+      "rear": [
+        "antiroll_bar",
+        "preload_differential"
+      ]
+    },
+    "dampers": {
+      "left_front": [
+        "bump",
+        "fast_bump",
+        "fast_rebound",
+        "rebound"
+      ],
+      "right_front": [
+        "bump",
+        "fast_bump",
+        "fast_rebound",
+        "rebound"
+      ],
+      "left_rear": [
+        "bump",
+        "fast_bump",
+        "fast_rebound",
+        "rebound"
+      ],
+      "right_rear": [
+        "bump",
+        "fast_bump",
+        "fast_rebound",
+        "rebound"
+      ]
+    },
+    "aero": {
+      "rear": [
+        "brake_ducts",
+        "rear_wing",
+        "ride_height"
+      ],
+      "front": [
+        "brake_ducts",
+        "ride_height",
+        "splitter"
+      ]
+    }
+  }
+}

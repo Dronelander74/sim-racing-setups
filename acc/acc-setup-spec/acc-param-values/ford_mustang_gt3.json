@@ -1,0 +1,16 @@
+﻿{
+    "schemaVersion":  "acc-car-parameter-values-v1",
+    "car":  "ford_mustang_gt3",
+    "sourceFiles":  [
+                        "ford_mustang_gt3_dry_all_setups.txt",
+                        "ford_mustang_gt3_wet_all_setups.txt"
+                    ],
+    "deduplication":  "n/a (aggregated extract from provided dry+wet txt)",
+    "exclusions":  [
+                       "tyres.*.psi"
+                   ],
+    "parameterCount":  0,
+    "parameters":  [
+
+                   ]
+}

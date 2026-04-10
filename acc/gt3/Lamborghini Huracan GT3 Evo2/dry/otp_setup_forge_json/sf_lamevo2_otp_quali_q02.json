@@ -1,0 +1,115 @@
+﻿{
+    "setupName":  "sf_lamevo2_otp_quali_q02",
+    "session":  "quali",
+    "raceStyle":  null,
+    "car":  "lamborghini_huracan_gt3_evo2",
+    "track":  "otp",
+    "conditions":  {
+                       "weather":  "dry",
+                       "intensity":  null
+                   },
+    "values":  {
+                   "Tyres":  {
+                                 "Left Front":  {
+                                                    "psi":  25.9,
+                                                    "toe":  -0.07,
+                                                    "camber":  -3.9,
+                                                    "caster":  15
+                                                },
+                                 "Right Front":  {
+                                                     "psi":  25.8,
+                                                     "toe":  -0.07,
+                                                     "camber":  -3.9,
+                                                     "caster":  15
+                                                 },
+                                 "Left Rear":  {
+                                                   "psi":  25.3,
+                                                   "toe":  0,
+                                                   "camber":  -3
+                                               },
+                                 "Right Rear":  {
+                                                    "psi":  25.3,
+                                                    "toe":  0,
+                                                    "camber":  -3
+                                                }
+                             },
+                   "Electronics":  {
+                                       "Electronic Elements":  {
+                                                                   "TC":  3,
+                                                                   "ABS":  4,
+                                                                   "ECU Map":  5,
+                                                                   "TC2":  6
+                                                               }
+                                   },
+                   "Mechanical Grip":  {
+                                           "Front":  {
+                                                         "antiroll bar":  5,
+                                                         "brake power":  100,
+                                                         "brake bias":  55,
+                                                         "steer ratio":  11
+                                                     },
+                                           "Left Front":  {
+                                                              "wheel rate":  144000,
+                                                              "bumpstop rate":  800,
+                                                              "bumpstop range":  23
+                                                          },
+                                           "Right Front":  {
+                                                               "wheel rate":  144000,
+                                                               "bumpstop rate":  800,
+                                                               "bumpstop range":  23
+                                                           },
+                                           "Left Rear":  {
+                                                             "wheel rate":  154000,
+                                                             "bumpstop rate":  900,
+                                                             "bumpstop range":  52
+                                                         },
+                                           "Right Rear":  {
+                                                              "wheel rate":  154000,
+                                                              "bumpstop rate":  900,
+                                                              "bumpstop range":  52
+                                                          },
+                                           "Rear":  {
+                                                        "antiroll bar":  7,
+                                                        "preload differential":  60
+                                                    }
+                                       },
+                   "Dampers":  {
+                                   "Left Front":  {
+                                                      "bump":  18,
+                                                      "fast bump":  27,
+                                                      "rebound":  33,
+                                                      "fast rebound":  31
+                                                  },
+                                   "Right Front":  {
+                                                       "bump":  18,
+                                                       "fast bump":  27,
+                                                       "rebound":  33,
+                                                       "fast rebound":  31
+                                                   },
+                                   "Left Rear":  {
+                                                     "bump":  20,
+                                                     "fast bump":  28,
+                                                     "rebound":  30,
+                                                     "fast rebound":  30
+                                                 },
+                                   "Right Rear":  {
+                                                      "bump":  20,
+                                                      "fast bump":  28,
+                                                      "rebound":  30,
+                                                      "fast rebound":  30
+                                                  }
+                               },
+                   "Aero":  {
+                                "Rear":  {
+                                             "ride height":  71,
+                                             "rear wing":  10,
+                                             "brake ducts":  3
+                                         },
+                                "Front":  {
+                                              "ride height":  56,
+                                              "splitter":  0,
+                                              "brake ducts":  4
+                                          }
+                            }
+               }
+}
