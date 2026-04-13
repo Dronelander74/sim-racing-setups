@@ -25,7 +25,7 @@
                              "lexus_rc_f_gt3",
                              "mclaren_720s_gt3_evo",
 			     "ferrari_488_challenge_evo",
-			     "porsche_992_gt3r"
+			     "porsche_992_gt3_r"
                              "nissan_gtr_nismo_gt3"
                          ],
                  "gt4":  [
@@ -62,7 +62,7 @@
                              "mercedes_amg_gt2",
                              "mercedes_amg_gt4",
                              "nissan_gtr_nismo_gt3",
-                             "porsche_992_gt3r"
+                             "porsche_992_gt3_r"
                          ]
              }
 }
