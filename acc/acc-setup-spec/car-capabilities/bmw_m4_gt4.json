@@ -1,0 +1,238 @@
+﻿{
+    "car":  "bmw_m4_gt4",
+    "schema":  "acc",
+    "capabilities":  {
+                         "aero.front.brake_ducts":  {
+                                                        "modifiable":  true,
+                                                        "distinctValuesCount":  4
+                                                    },
+                         "aero.front.ride_height":  {
+                                                        "modifiable":  true,
+                                                        "distinctValuesCount":  4
+                                                    },
+                         "aero.front.splitter":  {
+                                                     "modifiable":  false,
+                                                     "distinctValuesCount":  1
+                                                 },
+                         "aero.rear.brake_ducts":  {
+                                                       "modifiable":  true,
+                                                       "distinctValuesCount":  4
+                                                   },
+                         "aero.rear.rear_wing":  {
+                                                     "modifiable":  true,
+                                                     "distinctValuesCount":  4
+                                                 },
+                         "aero.rear.ride_height":  {
+                                                       "modifiable":  true,
+                                                       "distinctValuesCount":  20
+                                                   },
+                         "dampers.left_front.bump":  {
+                                                         "modifiable":  true,
+                                                         "distinctValuesCount":  13
+                                                     },
+                         "dampers.left_front.fast_bump":  {
+                                                              "modifiable":  true,
+                                                              "distinctValuesCount":  1
+                                                          },
+                         "dampers.left_front.fast_rebound":  {
+                                                                 "modifiable":  true,
+                                                                 "distinctValuesCount":  1
+                                                             },
+                         "dampers.left_front.rebound":  {
+                                                            "modifiable":  true,
+                                                            "distinctValuesCount":  14
+                                                        },
+                         "dampers.left_rear.bump":  {
+                                                        "modifiable":  true,
+                                                        "distinctValuesCount":  14
+                                                    },
+                         "dampers.left_rear.fast_bump":  {
+                                                             "modifiable":  true,
+                                                             "distinctValuesCount":  1
+                                                         },
+                         "dampers.left_rear.fast_rebound":  {
+                                                                "modifiable":  true,
+                                                                "distinctValuesCount":  1
+                                                            },
+                         "dampers.left_rear.rebound":  {
+                                                           "modifiable":  true,
+                                                           "distinctValuesCount":  18
+                                                       },
+                         "dampers.right_front.bump":  {
+                                                          "modifiable":  true,
+                                                          "distinctValuesCount":  13
+                                                      },
+                         "dampers.right_front.fast_bump":  {
+                                                               "modifiable":  true,
+                                                               "distinctValuesCount":  1
+                                                           },
+                         "dampers.right_front.fast_rebound":  {
+                                                                  "modifiable":  true,
+                                                                  "distinctValuesCount":  1
+                                                              },
+                         "dampers.right_front.rebound":  {
+                                                             "modifiable":  true,
+                                                             "distinctValuesCount":  14
+                                                         },
+                         "dampers.right_rear.bump":  {
+                                                         "modifiable":  true,
+                                                         "distinctValuesCount":  14
+                                                     },
+                         "dampers.right_rear.fast_bump":  {
+                                                              "modifiable":  true,
+                                                              "distinctValuesCount":  1
+                                                          },
+                         "dampers.right_rear.fast_rebound":  {
+                                                                 "modifiable":  true,
+                                                                 "distinctValuesCount":  1
+                                                             },
+                         "dampers.right_rear.rebound":  {
+                                                            "modifiable":  true,
+                                                            "distinctValuesCount":  18
+                                                        },
+                         "electronics.electronic_elements.abs":  {
+                                                                     "modifiable":  true,
+                                                                     "distinctValuesCount":  1
+                                                                 },
+                         "electronics.electronic_elements.ecu_map":  {
+                                                                         "modifiable":  false,
+                                                                         "distinctValuesCount":  1
+                                                                     },
+                         "electronics.electronic_elements.tc":  {
+                                                                    "modifiable":  true,
+                                                                    "distinctValuesCount":  2
+                                                                },
+                         "electronics.electronic_elements.tc2":  {
+                                                                     "modifiable":  true,
+                                                                     "distinctValuesCount":  1
+                                                                 },
+                         "mechanical_grip.front.antiroll_bar":  {
+                                                                    "modifiable":  true,
+                                                                    "distinctValuesCount":  3
+                                                                },
+                         "mechanical_grip.front.brake_bias":  {
+                                                                  "modifiable":  true,
+                                                                  "distinctValuesCount":  8
+                                                              },
+                         "mechanical_grip.front.brake_power":  {
+                                                                   "modifiable":  false,
+                                                                   "distinctValuesCount":  4
+                                                               },
+                         "mechanical_grip.front.steer_ratio":  {
+                                                                   "modifiable":  true,
+                                                                   "distinctValuesCount":  3
+                                                               },
+                         "mechanical_grip.left_front.bumpstop_range":  {
+                                                                           "modifiable":  true,
+                                                                           "distinctValuesCount":  11
+                                                                       },
+                         "mechanical_grip.left_front.bumpstop_rate":  {
+                                                                          "modifiable":  true,
+                                                                          "distinctValuesCount":  5
+                                                                      },
+                         "mechanical_grip.left_front.wheel_rate":  {
+                                                                       "modifiable":  true,
+                                                                       "distinctValuesCount":  3
+                                                                   },
+                         "mechanical_grip.left_rear.bumpstop_range":  {
+                                                                          "modifiable":  true,
+                                                                          "distinctValuesCount":  16
+                                                                      },
+                         "mechanical_grip.left_rear.bumpstop_rate":  {
+                                                                         "modifiable":  true,
+                                                                         "distinctValuesCount":  7
+                                                                     },
+                         "mechanical_grip.left_rear.wheel_rate":  {
+                                                                      "modifiable":  true,
+                                                                      "distinctValuesCount":  3
+                                                                  },
+                         "mechanical_grip.rear.antiroll_bar":  {
+                                                                   "modifiable":  true,
+                                                                   "distinctValuesCount":  3
+                                                               },
+                         "mechanical_grip.rear.preload_differential":  {
+                                                                           "modifiable":  true,
+                                                                           "distinctValuesCount":  7
+                                                                       },
+                         "mechanical_grip.right_front.bumpstop_range":  {
+                                                                            "modifiable":  true,
+                                                                            "distinctValuesCount":  11
+                                                                        },
+                         "mechanical_grip.right_front.bumpstop_rate":  {
+                                                                           "modifiable":  true,
+                                                                           "distinctValuesCount":  5
+                                                                       },
+                         "mechanical_grip.right_front.wheel_rate":  {
+                                                                        "modifiable":  true,
+                                                                        "distinctValuesCount":  3
+                                                                    },
+                         "mechanical_grip.right_rear.bumpstop_range":  {
+                                                                           "modifiable":  true,
+                                                                           "distinctValuesCount":  16
+                                                                       },
+                         "mechanical_grip.right_rear.bumpstop_rate":  {
+                                                                          "modifiable":  true,
+                                                                          "distinctValuesCount":  7
+                                                                      },
+                         "mechanical_grip.right_rear.wheel_rate":  {
+                                                                       "modifiable":  true,
+                                                                       "distinctValuesCount":  3
+                                                                   },
+                         "tyres.left_front.camber":  {
+                                                         "modifiable":  true,
+                                                         "distinctValuesCount":  2
+                                                     },
+                         "tyres.left_front.caster":  {
+                                                         "modifiable":  true,
+                                                         "distinctValuesCount":  1
+                                                     },
+                         "tyres.left_front.toe":  {
+                                                      "modifiable":  true,
+                                                      "distinctValuesCount":  8
+                                                  },
+                         "tyres.left_rear.camber":  {
+                                                        "modifiable":  true,
+                                                        "distinctValuesCount":  4
+                                                    },
+                         "tyres.left_rear.toe":  {
+                                                     "modifiable":  true,
+                                                     "distinctValuesCount":  4
+                                                 },
+                         "tyres.right_front.camber":  {
+                                                          "modifiable":  true,
+                                                          "distinctValuesCount":  1
+                                                      },
+                         "tyres.right_front.caster":  {
+                                                          "modifiable":  true,
+                                                          "distinctValuesCount":  1
+                                                      },
+                         "tyres.right_front.toe":  {
+                                                       "modifiable":  true,
+                                                       "distinctValuesCount":  8
+                                                   },
+                         "tyres.right_rear.camber":  {
+                                                         "modifiable":  true,
+                                                         "distinctValuesCount":  4
+                                                     },
+                         "tyres.right_rear.toe":  {
+                                                      "modifiable":  true,
+                                                      "distinctValuesCount":  4
+                                                  },
+                         "tyres.left_front.psi":  {
+                                                      "modifiable":  true,
+                                                      "distinctValuesCount":  0
+                                                  },
+                         "tyres.right_front.psi":  {
+                                                       "modifiable":  true,
+                                                       "distinctValuesCount":  0
+                                                   },
+                         "tyres.left_rear.psi":  {
+                                                     "modifiable":  true,
+                                                     "distinctValuesCount":  0
+                                                 },
+                         "tyres.right_rear.psi":  {
+                                                      "modifiable":  true,
+                                                      "distinctValuesCount":  0
+                                                  }
+                     }
+}

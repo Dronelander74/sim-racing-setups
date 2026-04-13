@@ -1,0 +1,6528 @@
+﻿==== wet\wet_bar_nur.docx ====
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.json SF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.9
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi26.9
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.8
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.6
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.7
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.0
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.6
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.4
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.7
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi28.9
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.3
+toe0.15°
+camber-2.5°
+Right Rear
+psi28.8
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.3
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.8
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.4
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.9
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.3
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.8
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.4
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.8
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.1
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.9
+toe0.15°
+camber-2.5°
+Right Rear
+psi28.7
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.6
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.4
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.8
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.7
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.6
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.4
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.8
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.5
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.2
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.7
+toe0.15°
+camber-2.5°
+Right Rear
+psi28.7
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.6
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.5
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.6
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.3
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.3
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.3
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.5
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.4
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.6
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.8
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.3
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.4
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.5
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.7
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.9
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.1
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.5
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.7
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.0
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.9
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC4
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.8
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.3
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi28.4
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi28.0
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.8
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.4
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC3
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.9
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.6
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.1
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.7
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC3
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi28.9
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.5
+toe0.15°
+camber-2.5°
+Right Rear
+psi28.9
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.5
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi28.4
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.8
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.8
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.5
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi28.3
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.8
+toe0.15°
+camber-2.9°
+Right Rear
+psi27.6
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.5
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.3
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.1
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi28.1
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.6
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.5
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.0
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.7%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi28.0
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.5
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.4
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.9
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.5
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.3
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.1
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi28.0
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.4
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.4
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.7
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.7%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi28.0
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.4
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.4
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.7
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias52.0%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.6
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.8
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.3
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.7
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi28.3
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.2
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.7
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.6
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi28.2
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.0
+toe0.15°
+camber-2.9°
+Right Rear
+psi27.3
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.6
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.9
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.4
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.6
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi28.3
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.9
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.3
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC3
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi27.6
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi28.3
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.9
+toe0.15°
+camber-2.9°
+Right Rear
+psi27.3
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC3
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.8
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.4
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi28.1
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.8
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.3
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.9
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi28.1
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.8
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.3
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.9
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+SF GTR BAR HVY WET.jsonSF GTR BAR MED WET Q01.jsonSF GTR BAR MED WET.jsonSF GTR BRH HVY WET.jsonSF GTR BRH MED WET Q.jsonSF GTR BRH MED WET.jsonSF GTR COTA HVY WET.jsonSF GTR COTA MED WET Q.jsonSF GTR COTA MED WET.jsonSF GTR DNP HVY WET.jsonSF GTR DNP MED WET Q.jsonSF GTR DNP MED WET.jsonSF GTR HUN HVY WET.jsonSF GTR HUN MED WET Q.jsonSF GTR HUN MED WET.jsonSF GTR IMO HVY WET.jsonSF GTR IMO MED WET Q.jsonSF GTR IMO MED WET.jsonSF GTR INDY HVY WET.jsonSF GTR INDY MED WET Q.jsonSF GTR INDY MED WET.jsonSF GTR KYA HVY WET.jsonSF GTR KYA MED WET Q.jsonSF GTR KYA MED WET.jsonSF GTR LAG HVY WET.jsonSF GTR LAG MED WET Q.jsonSF GTR LAG MED WET.jsonSF GTR MIS HVY WET.jsonSF GTR MIS MED WET Q.jsonSF GTR MIS MED WET.jsonSF GTR MON HVY WET.jsonSF GTR MON MED WET Q.jsonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF .
+Tyres
+Left Front
+psi29.6
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.6
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+==== wet\wet_nord_zol.docx ====
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.SF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi28.2
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi28.2
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.4
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.4
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi28.0
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi28.1
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.2
+toe0.15°
+camber-2.9°
+Right Rear
+psi27.2
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.0
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi28.9
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi28.2
+toe0.18°
+camber-3.5°
+Right Rear
+psi28.3
+toe0.18°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar0
+brake power100%
+brake bias52.0%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range3
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range3
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range56
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range56
+Rear
+antiroll bar0
+preload differential20 Nm
+Dampers
+Left Front
+bump0
+fast bump10
+rebound29
+fast rebound35
+Right Front
+bump0
+fast bump10
+rebound29
+fast rebound35
+Left Rear
+bump0
+fast bump0
+rebound35
+fast rebound49
+Right Rear
+bump0
+fast bump0
+rebound35
+fast rebound49
+Aero
+Rear
+ride height81 mm
+rear wing4
+brake ducts3
+Front
+ride height70 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.4
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi27.3
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi26.5
+toe0.10°
+camber-3.5°
+Right Rear
+psi26.6
+toe0.10°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS1
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar0
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range9
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range9
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range30
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range30
+Rear
+antiroll bar0
+preload differential20 Nm
+Dampers
+Left Front
+bump0
+fast bump10
+rebound34
+fast rebound43
+Right Front
+bump0
+fast bump10
+rebound34
+fast rebound43
+Left Rear
+bump0
+fast bump0
+rebound33
+fast rebound45
+Right Rear
+bump0
+fast bump0
+rebound33
+fast rebound45
+Aero
+Rear
+ride height79 mm
+rear wing4
+brake ducts3
+Front
+ride height70 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.4
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi27.3
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi26.1
+toe0.13°
+camber-3.5°
+Right Rear
+psi26.1
+toe0.13°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS1
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar0
+brake power100%
+brake bias52.0%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range6
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range6
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range35
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range35
+Rear
+antiroll bar0
+preload differential20 Nm
+Dampers
+Left Front
+bump0
+fast bump10
+rebound33
+fast rebound43
+Right Front
+bump0
+fast bump10
+rebound33
+fast rebound43
+Left Rear
+bump0
+fast bump0
+rebound36
+fast rebound45
+Right Rear
+bump0
+fast bump0
+rebound36
+fast rebound45
+Aero
+Rear
+ride height77 mm
+rear wing4
+brake ducts3
+Front
+ride height70 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.9
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias52.3%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.5
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.2
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.0
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.4
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias52.0%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.5
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.2
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.0
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.4
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.2
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.4
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.7
+toe0.15°
+camber-2.5°
+Right Rear
+psi28.9
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.7
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi28.3
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.3
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.7
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.7
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi28.3
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.2
+toe0.15°
+camber-2.9°
+Right Rear
+psi27.6
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.9
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi26.9
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.8
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.6
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.7
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.0
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.6
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.4
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.7
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.9
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias52.0%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.2
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.8
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.6
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.9
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias52.3%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.2
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.8
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.6
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.9
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias52.0%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.9
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias52.3%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.0
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.8
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.4
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.9
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias52.0%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.0
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.8
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.4
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.9
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.8
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.3
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.3
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.7%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi28.0
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi28.2
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.2
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.6
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.9
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi28.2
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.0
+toe0.15°
+camber-2.9°
+Right Rear
+psi27.5
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.4
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.4
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.8
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.9
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.2
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.3
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.7
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.8
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.1
+toe0.15°
+camber-2.9°
+Right Rear
+psi27.2
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC4
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi28.8
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.8
+toe0.15°
+camber-2.5°
+Right Rear
+psi28.3
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi28.0
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi26.8
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.2
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.1
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi28.0
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.0
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.8
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.1
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.3
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi28.9
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.2
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias52.0%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.0
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi27.6
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.4
+toe0.15°
+camber-3.0°
+Right Rear
+psi26.7
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias52.0%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.0
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi27.6
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.4
+toe0.15°
+camber-2.9°
+Right Rear
+psi26.7
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias52.3%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.5
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.1
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.3
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.1
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi28.0
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi26.4
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.0
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.1
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi28.0
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi26.3
+toe0.15°
+camber-2.9°
+Right Rear
+psi27.1
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi29.4
+toe-0.15°
+camber-3.2°
+caster17.0°
+Right Front
+psi29.7
+toe-0.15°
+camber-3.2°
+caster17.0°
+Left Rear
+psi29.0
+toe0.15°
+camber-2.5°
+Right Rear
+psi29.3
+toe0.15°
+camber-2.5°
+Electronics
+Electronic Elements
+TC4
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias50.5%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump12
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound22
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi28.1
+toe-0.20°
+camber-3.5°
+caster17.6°
+Right Front
+psi28.1
+toe-0.20°
+camber-3.5°
+caster17.6°
+Left Rear
+psi27.4
+toe0.15°
+camber-3.0°
+Right Rear
+psi27.2
+toe0.15°
+camber-3.0°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias51.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,400
+bumpstop range7
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range14
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound23
+fast rebound12
+Left Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Right Rear
+bump6
+fast bump14
+rebound25
+fast rebound14
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - SF
+.sonSF GTR MON MED WET.jsonSF GTR PAN HVY WET.jsonSF GTR PAN MED WET Q.jsonSF GTR PAN MED WET.jsonSF GTR NUR HVY WET.jsonSF GTR NUR MED WET Q.jsonSF GTR NUR MED WET.jsonSF GTR NORD HVY WET.jsonSF GTR NORD MED WET Q.jsonSF GTR NORD MED WET.jsonSF GTR OTP HVY WET.jsonSF GTR OTP MED WET Q.jsonSF GTR OTP MED WET.jsonSF GTR PAR HVY WET.jsonSF GTR PAR MED WET Q.jsonSF GTR PAR MED WET.jsonSF GTR RBR HVY WET.jsonSF GTR RBR MED WET Q01.jsonSF GTR RBR MED WET.jsonSF GTR SIL HVY WET.jsonSF GTR SIL MED WET Q.jsonSF GTR SIL MED WET.jsonSF GTR SNT HVY WET.jsonSF GTR SNT MED WET Q.jsonSF GTR SNT MED WET.jsonSF GTR SPA HVY WET.jsonSF GTR SPA MED WET Q.jsonSF GTR SPA MED WET.jsonSF GTR SUZ HVY WET.jsonSF GTR SUZ MED WET Q.jsonSF GTR SUZ MED WET.jsonSF GTR VAL HVY WET.jsonSF GTR VAL MED WET Q.jsonSF GTR VAL MED WET.jsonSF GTR WKG HVY WET.jsonSF GTR WKG MED WET Q.jsonSF GTR WKG MED WET.jsonSF GTR ZAN HVY WET.jsonSF GTR ZAN MED WET Q.jsonSF GTR ZAN MED WET.jsonSF GTR ZOL HVY WET.jsonSF GTR ZOL MED WET Q.jsonSF GTR ZOL MED WET.json
+Tyres
+Left Front
+psi27.8
+toe-0.15°
+camber-3.5°
+caster17.0°
+Right Front
+psi28.1
+toe-0.15°
+camber-3.5°
+caster17.0°
+Left Rear
+psi27.0
+toe0.15°
+camber-2.9°
+Right Rear
+psi27.2
+toe0.15°
+camber-2.9°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias51.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range7
+Left Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Right Rear
+wheel rate106,000
+bumpstop rate700
+bumpstop range19
+Rear
+antiroll bar5
+preload differential90 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Right Front
+bump16
+fast bump10
+rebound21
+fast rebound12
+Left Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Right Rear
+bump4
+fast bump14
+rebound24
+fast rebound14
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+

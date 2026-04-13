@@ -1,0 +1,22 @@
+﻿{
+    "car":  "ford_mustang_gt3",
+    "schema":  "acc",
+    "capabilities":  {
+                         "tyres.left_front.psi":  {
+                                                      "modifiable":  true,
+                                                      "distinctValuesCount":  21
+                                                  },
+                         "tyres.right_front.psi":  {
+                                                       "modifiable":  true,
+                                                       "distinctValuesCount":  24
+                                                   },
+                         "tyres.left_rear.psi":  {
+                                                     "modifiable":  true,
+                                                     "distinctValuesCount":  18
+                                                 },
+                         "tyres.right_rear.psi":  {
+                                                      "modifiable":  true,
+                                                      "distinctValuesCount":  18
+                                                  }
+                     }
+}

@@ -1,0 +1,7078 @@
+﻿==== dry\dry.docx ====
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Barcelona - SF
+SF GTR BAR Q01.jsonSF GTR BAR RF01.jsonSF GTR BAR RS01.json
+Tyres
+Left Front
+psi24.6
+toe-0.10°
+camber-4.0°
+caster14.9°
+Right Front
+psi26.3
+toe-0.10°
+camber-3.8°
+caster14.9°
+Left Rear
+psi24.5
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.5
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias56.8%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate700
+bumpstop range5
+Right Front
+wheel rate136,000
+bumpstop rate700
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate900
+bumpstop range16
+Right Rear
+wheel rate96,000
+bumpstop rate900
+bumpstop range16
+Rear
+antiroll bar4
+preload differential50 Nm
+Dampers
+Left Front
+bump18
+fast bump40
+rebound32
+fast rebound40
+Right Front
+bump18
+fast bump40
+rebound32
+fast rebound40
+Left Rear
+bump8
+fast bump35
+rebound27
+fast rebound37
+Right Rear
+bump8
+fast bump35
+rebound27
+fast rebound37
+Aero
+Rear
+ride height71 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Barcelona - SF
+SF GTR BAR Q01.jsonSF GTR BAR RF01.jsonSF GTR BAR RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.10°
+camber-3.8°
+caster14.9°
+Right Front
+psi26.5
+toe-0.10°
+camber-3.8°
+caster14.9°
+Left Rear
+psi24.4
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC1
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias57.4%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate700
+bumpstop range5
+Right Front
+wheel rate136,000
+bumpstop rate700
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate900
+bumpstop range16
+Right Rear
+wheel rate96,000
+bumpstop rate900
+bumpstop range16
+Rear
+antiroll bar2
+preload differential50 Nm
+Dampers
+Left Front
+bump18
+fast bump40
+rebound32
+fast rebound40
+Right Front
+bump18
+fast bump40
+rebound32
+fast rebound40
+Left Rear
+bump9
+fast bump35
+rebound27
+fast rebound37
+Right Rear
+bump9
+fast bump35
+rebound27
+fast rebound37
+Aero
+Rear
+ride height68 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Barcelona - SF
+SF GTR BAR Q01.jsonSF GTR BAR RF01.jsonSF GTR BAR RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.06°
+camber-3.8°
+caster14.9°
+Right Front
+psi26.5
+toe-0.06°
+camber-3.8°
+caster14.9°
+Left Rear
+psi24.4
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC1
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias57.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate700
+bumpstop range5
+Right Front
+wheel rate146,000
+bumpstop rate700
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate900
+bumpstop range16
+Right Rear
+wheel rate96,000
+bumpstop rate900
+bumpstop range16
+Rear
+antiroll bar2
+preload differential50 Nm
+Dampers
+Left Front
+bump18
+fast bump40
+rebound31
+fast rebound40
+Right Front
+bump18
+fast bump40
+rebound31
+fast rebound40
+Left Rear
+bump8
+fast bump35
+rebound28
+fast rebound37
+Right Rear
+bump8
+fast bump35
+rebound28
+fast rebound37
+Aero
+Rear
+ride height68 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Barcelona - SF
+SF GTR BAR Q01.jsonSF GTR BAR RF01.jsonSF GTR BAR RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.06°
+camber-3.8°
+caster14.9°
+Right Front
+psi26.5
+toe-0.06°
+camber-3.8°
+caster14.9°
+Left Rear
+psi24.4
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC1
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias57.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate700
+bumpstop range5
+Right Front
+wheel rate146,000
+bumpstop rate700
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate900
+bumpstop range16
+Right Rear
+wheel rate96,000
+bumpstop rate900
+bumpstop range16
+Rear
+antiroll bar2
+preload differential50 Nm
+Dampers
+Left Front
+bump18
+fast bump40
+rebound31
+fast rebound40
+Right Front
+bump18
+fast bump40
+rebound31
+fast rebound40
+Left Rear
+bump8
+fast bump35
+rebound28
+fast rebound37
+Right Rear
+bump8
+fast bump35
+rebound28
+fast rebound37
+Aero
+Rear
+ride height68 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Brands Hatch - SF
+SF GTR BRH Q01.jsonSF GTR BRH RF01.jsonSF GTR BRH RS01.json
+Tyres
+Left Front
+psi24.8
+toe-0.10°
+camber-3.8°
+caster13.8°
+Right Front
+psi26.5
+toe-0.10°
+camber-3.8°
+caster13.8°
+Left Rear
+psi24.4
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.6
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar8
+brake power100%
+brake bias59.2%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range5
+Right Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range20
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump18
+fast bump44
+rebound32
+fast rebound46
+Right Front
+bump18
+fast bump44
+rebound32
+fast rebound46
+Left Rear
+bump8
+fast bump40
+rebound35
+fast rebound42
+Right Rear
+bump8
+fast bump40
+rebound35
+fast rebound42
+Aero
+Rear
+ride height71 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Brands Hatch - SF
+SF GTR BRH Q01.jsonSF GTR BRH RF01.jsonSF GTR BRH RS01.json
+Tyres
+Left Front
+psi24.8
+toe-0.10°
+camber-3.8°
+caster13.8°
+Right Front
+psi26.5
+toe-0.10°
+camber-3.8°
+caster13.8°
+Left Rear
+psi24.4
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.8
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar8
+brake power100%
+brake bias59.2%
+steer ratio14
+Left Front
+wheel rate156,000
+bumpstop rate300
+bumpstop range5
+Right Front
+wheel rate156,000
+bumpstop rate300
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate700
+bumpstop range20
+Rear
+antiroll bar4
+preload differential80 Nm
+Dampers
+Left Front
+bump18
+fast bump44
+rebound32
+fast rebound46
+Right Front
+bump18
+fast bump44
+rebound32
+fast rebound46
+Left Rear
+bump8
+fast bump40
+rebound35
+fast rebound42
+Right Rear
+bump8
+fast bump40
+rebound35
+fast rebound42
+Aero
+Rear
+ride height71 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - COTA - SF
+SF GTR COTA Q01.jsonSF GTR COTA RF01.jsonSF GTR COTA RS01.json
+Tyres
+Left Front
+psi25.8
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi26.1
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.2
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias55.9%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range8
+Right Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range8
+Left Rear
+wheel rate116,000
+bumpstop rate700
+bumpstop range10
+Right Rear
+wheel rate116,000
+bumpstop rate700
+bumpstop range10
+Rear
+antiroll bar1
+preload differential30 Nm
+Dampers
+Left Front
+bump29
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump29
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump15
+fast bump30
+rebound35
+fast rebound40
+Right Rear
+bump15
+fast bump30
+rebound35
+fast rebound40
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - COTA - SF
+SF GTR COTA Q01.jsonSF GTR COTA RF01.jsonSF GTR COTA RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi26.0
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi24.9
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias55.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range8
+Right Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range8
+Left Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range10
+Right Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range10
+Rear
+antiroll bar1
+preload differential30 Nm
+Dampers
+Left Front
+bump29
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump29
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump15
+fast bump30
+rebound35
+fast rebound40
+Right Rear
+bump15
+fast bump30
+rebound35
+fast rebound40
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - COTA - SF
+SF GTR COTA Q01.jsonSF GTR COTA RF01.jsonSF GTR COTA RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.12°
+camber-4.0°
+caster16.0°
+Right Front
+psi26.0
+toe-0.12°
+camber-4.0°
+caster16.0°
+Left Rear
+psi24.9
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias55.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range8
+Right Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range8
+Left Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range10
+Right Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range10
+Rear
+antiroll bar1
+preload differential30 Nm
+Dampers
+Left Front
+bump31
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump31
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump12
+fast bump30
+rebound33
+fast rebound40
+Right Rear
+bump12
+fast bump30
+rebound33
+fast rebound40
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Donington Park - SF
+SF GTR DNP Q01.jsonSF GTR DNP RF01.jsonSF GTR DNP RS01.json
+Tyres
+Left Front
+psi25.3
+toe-0.05°
+camber-4.0°
+caster14.9°
+Right Front
+psi26.0
+toe-0.05°
+camber-4.0°
+caster14.9°
+Left Rear
+psi25.0
+toe0.02°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.02°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar8
+brake power100%
+brake bias56.8%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate600
+bumpstop range5
+Right Front
+wheel rate136,000
+bumpstop rate600
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range13
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range13
+Rear
+antiroll bar1
+preload differential40 Nm
+Dampers
+Left Front
+bump18
+fast bump45
+rebound36
+fast rebound45
+Right Front
+bump18
+fast bump45
+rebound36
+fast rebound45
+Left Rear
+bump7
+fast bump40
+rebound32
+fast rebound42
+Right Rear
+bump7
+fast bump40
+rebound32
+fast rebound42
+Aero
+Rear
+ride height70 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Donington Park - SF
+SF GTR DNP Q01.jsonSF GTR DNP RF01.jsonSF GTR DNP RS01.json
+Tyres
+Left Front
+psi25.1
+toe-0.05°
+camber-3.8°
+caster14.9°
+Right Front
+psi26.0
+toe-0.05°
+camber-3.8°
+caster14.9°
+Left Rear
+psi24.7
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.1
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar8
+brake power100%
+brake bias57.4%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate600
+bumpstop range5
+Right Front
+wheel rate136,000
+bumpstop rate600
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range13
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range13
+Rear
+antiroll bar1
+preload differential40 Nm
+Dampers
+Left Front
+bump18
+fast bump45
+rebound36
+fast rebound45
+Right Front
+bump18
+fast bump45
+rebound36
+fast rebound45
+Left Rear
+bump7
+fast bump40
+rebound30
+fast rebound42
+Right Rear
+bump7
+fast bump40
+rebound30
+fast rebound42
+Aero
+Rear
+ride height67 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Donington Park - SF
+SF GTR DNP Q01.jsonSF GTR DNP RF01.jsonSF GTR DNP RS01.json
+Tyres
+Left Front
+psi25.1
+toe-0.05°
+camber-3.8°
+caster13.8°
+Right Front
+psi26.0
+toe-0.05°
+camber-3.8°
+caster13.8°
+Left Rear
+psi24.7
+toe0.03°
+camber-3.3°
+Right Rear
+psi25.1
+toe0.03°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar8
+brake power100%
+brake bias57.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate500
+bumpstop range5
+Right Front
+wheel rate146,000
+bumpstop rate500
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range20
+Rear
+antiroll bar1
+preload differential40 Nm
+Dampers
+Left Front
+bump15
+fast bump45
+rebound36
+fast rebound45
+Right Front
+bump15
+fast bump45
+rebound36
+fast rebound45
+Left Rear
+bump10
+fast bump40
+rebound30
+fast rebound42
+Right Rear
+bump10
+fast bump40
+rebound30
+fast rebound42
+Aero
+Rear
+ride height66 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+FINE DONINGTON
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Hungaroring - SF
+SF GTR HUN Q01.jsonSF GTR HUN RF01.jsonSF GTR HUN RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.16°
+camber-4.0°
+caster17.0°
+Right Front
+psi25.8
+toe-0.16°
+camber-4.0°
+caster17.0°
+Left Rear
+psi24.8
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC4
+ABS5
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias59.8%
+steer ratio14
+Left Front
+wheel rate156,000
+bumpstop rate800
+bumpstop range12
+Right Front
+wheel rate156,000
+bumpstop rate800
+bumpstop range12
+Left Rear
+wheel rate116,000
+bumpstop rate600
+bumpstop range35
+Right Rear
+wheel rate116,000
+bumpstop rate600
+bumpstop range35
+Rear
+antiroll bar5
+preload differential140 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound20
+fast rebound10
+Right Front
+bump16
+fast bump10
+rebound20
+fast rebound10
+Left Rear
+bump26
+fast bump20
+rebound27
+fast rebound20
+Right Rear
+bump26
+fast bump20
+rebound27
+fast rebound20
+Aero
+Rear
+ride height64 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Hungaroring - SF
+SF GTR HUN Q01.jsonSF GTR HUN RF01.jsonSF GTR HUN RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.12°
+camber-4.0°
+caster17.0°
+Right Front
+psi25.8
+toe-0.12°
+camber-4.0°
+caster17.0°
+Left Rear
+psi24.8
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC4
+ABS5
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias59.8%
+steer ratio14
+Left Front
+wheel rate156,000
+bumpstop rate800
+bumpstop range8
+Right Front
+wheel rate156,000
+bumpstop rate800
+bumpstop range8
+Left Rear
+wheel rate116,000
+bumpstop rate600
+bumpstop range35
+Right Rear
+wheel rate116,000
+bumpstop rate600
+bumpstop range35
+Rear
+antiroll bar5
+preload differential140 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound20
+fast rebound10
+Right Front
+bump16
+fast bump10
+rebound20
+fast rebound10
+Left Rear
+bump26
+fast bump20
+rebound27
+fast rebound20
+Right Rear
+bump26
+fast bump20
+rebound27
+fast rebound20
+Aero
+Rear
+ride height64 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Hungaroring - SF
+SF GTR HUN Q01.jsonSF GTR HUN RF01.jsonSF GTR HUN RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.12°
+camber-4.0°
+caster17.0°
+Right Front
+psi25.8
+toe-0.12°
+camber-4.0°
+caster17.0°
+Left Rear
+psi24.8
+toe0.05°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.05°
+camber-3.5°
+Electronics
+Electronic Elements
+TC4
+ABS5
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias59.8%
+steer ratio14
+Left Front
+wheel rate156,000
+bumpstop rate800
+bumpstop range12
+Right Front
+wheel rate156,000
+bumpstop rate800
+bumpstop range12
+Left Rear
+wheel rate116,000
+bumpstop rate600
+bumpstop range35
+Right Rear
+wheel rate116,000
+bumpstop rate600
+bumpstop range35
+Rear
+antiroll bar5
+preload differential160 Nm
+Dampers
+Left Front
+bump16
+fast bump10
+rebound20
+fast rebound10
+Right Front
+bump16
+fast bump10
+rebound20
+fast rebound10
+Left Rear
+bump26
+fast bump20
+rebound27
+fast rebound20
+Right Rear
+bump26
+fast bump20
+rebound27
+fast rebound20
+Aero
+Rear
+ride height64 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Imola - SF
+SF GTR IMO Q01.jsonSF GTR IMO RF01.jsonSF GTR IMO RS01.json
+Tyres
+Left Front
+psi26.7
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi26.2
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.7
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.3
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias57.1%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range16
+Right Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range16
+Left Rear
+wheel rate116,000
+bumpstop rate600
+bumpstop range20
+Right Rear
+wheel rate116,000
+bumpstop rate600
+bumpstop range20
+Rear
+antiroll bar4
+preload differential90 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Imola - SF
+SF GTR IMO Q01.jsonSF GTR IMO RF01.jsonSF GTR IMO RS01.json
+Tyres
+Left Front
+psi26.4
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi25.9
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.0
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate300
+bumpstop range20
+Right Rear
+wheel rate116,000
+bumpstop rate300
+bumpstop range20
+Rear
+antiroll bar4
+preload differential80 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Imola - SF
+SF GTR IMO Q01.jsonSF GTR IMO RF01.jsonSF GTR IMO RS01.json
+Tyres
+Left Front
+psi26.4
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi25.9
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.4
+toe0.03°
+camber-3.5°
+Right Rear
+psi25.0
+toe0.03°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate300
+bumpstop range25
+Right Rear
+wheel rate116,000
+bumpstop rate300
+bumpstop range25
+Rear
+antiroll bar3
+preload differential80 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Indianapolis - SF
+SF GTR INDY Q01.jsonSF GTR INDY RF01.jsonSF GTR INDY RS01.json
+Tyres
+Left Front
+psi24.7
+toe-0.13°
+camber-4.0°
+caster13.8°
+Right Front
+psi26.3
+toe-0.13°
+camber-4.0°
+caster13.8°
+Left Rear
+psi24.4
+toe0.03°
+camber-3.5°
+Right Rear
+psi25.6
+toe0.03°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar8
+brake power100%
+brake bias54.1%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range10
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range10
+Left Rear
+wheel rate96,000
+bumpstop rate400
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate400
+bumpstop range20
+Rear
+antiroll bar6
+preload differential40 Nm
+Dampers
+Left Front
+bump12
+fast bump42
+rebound23
+fast rebound40
+Right Front
+bump12
+fast bump42
+rebound23
+fast rebound40
+Left Rear
+bump3
+fast bump43
+rebound28
+fast rebound42
+Right Rear
+bump3
+fast bump43
+rebound28
+fast rebound42
+Aero
+Rear
+ride height67 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Indianapolis - SF
+SF GTR INDY Q01.jsonSF GTR INDY RF01.jsonSF GTR INDY RS01.json
+Tyres
+Left Front
+psi24.7
+toe-0.12°
+camber-3.8°
+caster13.8°
+Right Front
+psi26.1
+toe-0.12°
+camber-3.8°
+caster13.8°
+Left Rear
+psi24.3
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.5
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar8
+brake power100%
+brake bias55.9%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range10
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range10
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range20
+Rear
+antiroll bar4
+preload differential50 Nm
+Dampers
+Left Front
+bump10
+fast bump42
+rebound26
+fast rebound40
+Right Front
+bump10
+fast bump42
+rebound26
+fast rebound40
+Left Rear
+bump5
+fast bump43
+rebound30
+fast rebound42
+Right Rear
+bump5
+fast bump43
+rebound30
+fast rebound42
+Aero
+Rear
+ride height66 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Indianapolis - SF
+SF GTR INDY Q01.jsonSF GTR INDY RF01.jsonSF GTR INDY RS01.json
+Tyres
+Left Front
+psi24.7
+toe-0.12°
+camber-3.8°
+caster13.8°
+Right Front
+psi26.1
+toe-0.12°
+camber-3.8°
+caster13.8°
+Left Rear
+psi24.3
+toe0.03°
+camber-3.3°
+Right Rear
+psi25.5
+toe0.03°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar8
+brake power100%
+brake bias55.9%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range10
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range10
+Left Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate600
+bumpstop range20
+Rear
+antiroll bar4
+preload differential70 Nm
+Dampers
+Left Front
+bump14
+fast bump42
+rebound26
+fast rebound40
+Right Front
+bump14
+fast bump42
+rebound26
+fast rebound40
+Left Rear
+bump5
+fast bump43
+rebound30
+fast rebound42
+Right Rear
+bump5
+fast bump43
+rebound30
+fast rebound42
+Aero
+Rear
+ride height66 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts3
+FINO A INDIANAPOLIS
+{
+  "setupName": "sf_mclaren720s_nord_race_r01",
+  "session": "race",
+  "raceStyle": null,
+  "car": "mclaren_720s_gt3_evo",
+  "track": "nurburgring_h24",
+  "conditions": {
+    "weather": "wet",
+    "intensity": "medium"
+  },
+  "tyres": {
+    "left_front": {
+      "psi": 26.3,
+      "toe": -0.3,
+      "camber": -4.0,
+      "caster": 16.3
+    },
+    "right_front": {
+      "psi": 26.6,
+      "toe": -0.3,
+      "camber": -4.0,
+      "caster": 16.3
+    },
+    "left_rear": {
+      "psi": 25.7,
+      "toe": 0.04,
+      "camber": -3.5
+    },
+    "right_rear": {
+      "psi": 25.9,
+      "toe": 0.04,
+      "camber": -3.5
+    }
+  },
+  "electronics": {
+    "electronic_elements": {
+      "tc": 1,
+      "abs": 1,
+      "ecu_map": 1,
+      "tc2": 0
+    }
+  },
+  "mechanical_grip": {
+    "front": {
+      "antiroll_bar": 11,
+      "brake_power": 100,
+      "brake_bias": 47.0,
+      "steer_ratio": 11
+    },
+    "rear": {
+      "antiroll_bar": 0,
+      "preload_differential": 20
+    },
+    "left_front": {
+      "wheel_rate": 118000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 22
+    },
+    "right_front": {
+      "wheel_rate": 118000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 22
+    },
+    "left_rear": {
+      "wheel_rate": 83000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 18
+    },
+    "right_rear": {
+      "wheel_rate": 83000,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 18
+    }
+  },
+  "dampers": {
+    "left_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 39
+    },
+    "right_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 39
+    },
+    "left_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 39
+    },
+    "right_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 39
+    }
+  },
+  "aero": {
+    "front": {
+      "ride_height": 70,
+      "splitter": 0,
+      "brake_ducts": 3
+    },
+    "rear": {
+      "ride_height": 84,
+      "rear_wing": 8,
+      "brake_ducts": 3
+    }
+  }
+}
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Kyalami - SF
+SF GTR KYA Q01.jsonSF GTR KYA RF01.jsonSF GTR KYA RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi25.6
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.2
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar2
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate146,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate146,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range15
+Right Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range15
+Rear
+antiroll bar5
+preload differential110 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Kyalami - SF
+SF GTR KYA Q01.jsonSF GTR KYA RF01.jsonSF GTR KYA RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.13°
+camber-4.0°
+caster16.0°
+Right Front
+psi25.6
+toe-0.13°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.2
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar2
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate146,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate146,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range15
+Right Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range15
+Rear
+antiroll bar5
+preload differential110 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts4
+Front
+ride height57 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Kyalami - SF
+SF GTR KYA Q01.jsonSF GTR KYA RF01.jsonSF GTR KYA RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.13°
+camber-4.0°
+caster16.0°
+Right Front
+psi25.6
+toe-0.13°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.2
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar2
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate146,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate146,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range15
+Right Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range15
+Rear
+antiroll bar5
+preload differential110 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts4
+Front
+ride height57 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Laguna Seca - SF
+SF GTR LAG Q01.jsonSF GTR LAG RF01.jsonSF GTR LAG RS01.json
+Tyres
+Left Front
+psi25.6
+toe-0.05°
+camber-3.8°
+caster13.8°
+Right Front
+psi24.7
+toe-0.05°
+camber-3.8°
+caster13.8°
+Left Rear
+psi25.1
+toe0.00°
+camber-3.3°
+Right Rear
+psi24.6
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias58.0%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range5
+Right Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate800
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate800
+bumpstop range20
+Rear
+antiroll bar2
+preload differential70 Nm
+Dampers
+Left Front
+bump15
+fast bump40
+rebound28
+fast rebound40
+Right Front
+bump15
+fast bump40
+rebound28
+fast rebound40
+Left Rear
+bump10
+fast bump40
+rebound35
+fast rebound42
+Right Rear
+bump10
+fast bump40
+rebound35
+fast rebound42
+Aero
+Rear
+ride height68 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Laguna Seca - SF
+SF GTR LAG Q01.jsonSF GTR LAG RF01.jsonSF GTR LAG RS01.json
+Tyres
+Left Front
+psi25.8
+toe-0.05°
+camber-3.8°
+caster13.8°
+Right Front
+psi24.9
+toe-0.05°
+camber-3.8°
+caster13.8°
+Left Rear
+psi25.1
+toe0.02°
+camber-3.3°
+Right Rear
+psi24.6
+toe0.02°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias58.3%
+steer ratio14
+Left Front
+wheel rate156,000
+bumpstop rate300
+bumpstop range5
+Right Front
+wheel rate156,000
+bumpstop rate300
+bumpstop range5
+Left Rear
+wheel rate96,000
+bumpstop rate800
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate800
+bumpstop range20
+Rear
+antiroll bar1
+preload differential70 Nm
+Dampers
+Left Front
+bump15
+fast bump40
+rebound28
+fast rebound40
+Right Front
+bump15
+fast bump40
+rebound28
+fast rebound40
+Left Rear
+bump10
+fast bump40
+rebound35
+fast rebound42
+Right Rear
+bump10
+fast bump40
+rebound35
+fast rebound42
+Aero
+Rear
+ride height68 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Misano - SF
+SF GTR MIS Q01.jsonSF GTR MIS RF01.jsonSF GTR MIS RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi25.9
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi24.4
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias57.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,300
+bumpstop range18
+Right Front
+wheel rate146,000
+bumpstop rate1,300
+bumpstop range18
+Left Rear
+wheel rate106,000
+bumpstop rate1,000
+bumpstop range21
+Right Rear
+wheel rate106,000
+bumpstop rate1,000
+bumpstop range21
+Rear
+antiroll bar3
+preload differential70 Nm
+Dampers
+Left Front
+bump14
+fast bump22
+rebound23
+fast rebound33
+Right Front
+bump14
+fast bump22
+rebound23
+fast rebound33
+Left Rear
+bump10
+fast bump34
+rebound24
+fast rebound22
+Right Rear
+bump10
+fast bump34
+rebound24
+fast rebound22
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Misano - SF
+SF GTR MIS Q01.jsonSF GTR MIS RF01.jsonSF GTR MIS RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi25.9
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi24.4
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias57.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,300
+bumpstop range18
+Right Front
+wheel rate146,000
+bumpstop rate1,300
+bumpstop range18
+Left Rear
+wheel rate106,000
+bumpstop rate1,000
+bumpstop range20
+Right Rear
+wheel rate106,000
+bumpstop rate1,000
+bumpstop range20
+Rear
+antiroll bar3
+preload differential90 Nm
+Dampers
+Left Front
+bump14
+fast bump22
+rebound23
+fast rebound33
+Right Front
+bump14
+fast bump22
+rebound23
+fast rebound33
+Left Rear
+bump10
+fast bump34
+rebound24
+fast rebound22
+Right Rear
+bump10
+fast bump34
+rebound24
+fast rebound22
+Aero
+Rear
+ride height62 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Misano - SF
+SF GTR MIS Q01.jsonSF GTR MIS RF01.jsonSF GTR MIS RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi25.9
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi24.4
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias57.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,300
+bumpstop range16
+Right Front
+wheel rate146,000
+bumpstop rate1,300
+bumpstop range16
+Left Rear
+wheel rate106,000
+bumpstop rate1,000
+bumpstop range22
+Right Rear
+wheel rate106,000
+bumpstop rate1,000
+bumpstop range22
+Rear
+antiroll bar3
+preload differential90 Nm
+Dampers
+Left Front
+bump14
+fast bump22
+rebound23
+fast rebound33
+Right Front
+bump14
+fast bump22
+rebound23
+fast rebound33
+Left Rear
+bump10
+fast bump34
+rebound24
+fast rebound22
+Right Rear
+bump10
+fast bump34
+rebound24
+fast rebound22
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Monza - SF
+SF GTR MON Q01.jsonSF GTR MON RF01.jsonSF GTR MON RS01.json
+Tyres
+Left Front
+psi26.2
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi27.1
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.5
+toe0.00°
+camber-3.5°
+Right Rear
+psi26.3
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar2
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate1,100
+bumpstop range12
+Right Rear
+wheel rate116,000
+bumpstop rate1,100
+bumpstop range12
+Rear
+antiroll bar2
+preload differential100 Nm
+Dampers
+Left Front
+bump27
+fast bump39
+rebound35
+fast rebound49
+Right Front
+bump27
+fast bump39
+rebound35
+fast rebound49
+Left Rear
+bump16
+fast bump37
+rebound35
+fast rebound49
+Right Rear
+bump16
+fast bump37
+rebound35
+fast rebound49
+Aero
+Rear
+ride height58 mm
+rear wing2
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Monza - SF
+SF GTR MON Q01.jsonSF GTR MON RF01.jsonSF GTR MON RS01.json
+Tyres
+Left Front
+psi26.2
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi27.1
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.2
+toe0.00°
+camber-3.5°
+Right Rear
+psi26.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar2
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate1,300
+bumpstop range12
+Right Rear
+wheel rate116,000
+bumpstop rate1,300
+bumpstop range12
+Rear
+antiroll bar2
+preload differential100 Nm
+Dampers
+Left Front
+bump27
+fast bump39
+rebound35
+fast rebound49
+Right Front
+bump27
+fast bump39
+rebound35
+fast rebound49
+Left Rear
+bump16
+fast bump37
+rebound35
+fast rebound49
+Right Rear
+bump16
+fast bump37
+rebound35
+fast rebound49
+Aero
+Rear
+ride height58 mm
+rear wing2
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Monza - SF
+SF GTR MON Q01.jsonSF GTR MON RF01.jsonSF GTR MON RS01.json
+Tyres
+Left Front
+psi26.2
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi27.1
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.2
+toe0.00°
+camber-3.5°
+Right Rear
+psi26.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar2
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate1,100
+bumpstop range14
+Right Rear
+wheel rate116,000
+bumpstop rate1,100
+bumpstop range14
+Rear
+antiroll bar2
+preload differential110 Nm
+Dampers
+Left Front
+bump27
+fast bump39
+rebound31
+fast rebound49
+Right Front
+bump27
+fast bump39
+rebound31
+fast rebound49
+Left Rear
+bump16
+fast bump37
+rebound35
+fast rebound49
+Right Rear
+bump16
+fast bump37
+rebound35
+fast rebound49
+Aero
+Rear
+ride height58 mm
+rear wing2
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Monza - SF
+SF GTR MON Q01.jsonSF GTR MON RF01.jsonSF GTR MON RS01.json
+Tyres
+Left Front
+psi26.2
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi27.1
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.2
+toe0.00°
+camber-3.5°
+Right Rear
+psi26.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar2
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate1,100
+bumpstop range14
+Right Rear
+wheel rate116,000
+bumpstop rate1,100
+bumpstop range14
+Rear
+antiroll bar2
+preload differential110 Nm
+Dampers
+Left Front
+bump27
+fast bump39
+rebound31
+fast rebound49
+Right Front
+bump27
+fast bump39
+rebound31
+fast rebound49
+Left Rear
+bump16
+fast bump37
+rebound35
+fast rebound49
+Right Rear
+bump16
+fast bump37
+rebound35
+fast rebound49
+Aero
+Rear
+ride height58 mm
+rear wing2
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Mount Panorama - SF
+SF GTR PAN Q01.jsonSF GTR PAN RF01.jsonSF GTR PAN RS01.json
+Tyres
+Left Front
+psi26.2
+toe-0.20°
+camber-4.0°
+caster16.7°
+Right Front
+psi25.4
+toe-0.20°
+camber-4.0°
+caster16.7°
+Left Rear
+psi25.9
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.3
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar8
+brake power100%
+brake bias57.7%
+steer ratio14
+Left Front
+wheel rate156,000
+bumpstop rate1,400
+bumpstop range10
+Right Front
+wheel rate156,000
+bumpstop rate1,400
+bumpstop range10
+Left Rear
+wheel rate136,000
+bumpstop rate900
+bumpstop range33
+Right Rear
+wheel rate136,000
+bumpstop rate900
+bumpstop range33
+Rear
+antiroll bar4
+preload differential100 Nm
+Dampers
+Left Front
+bump14
+fast bump28
+rebound36
+fast rebound45
+Right Front
+bump14
+fast bump28
+rebound36
+fast rebound45
+Left Rear
+bump6
+fast bump43
+rebound34
+fast rebound37
+Right Rear
+bump6
+fast bump43
+rebound34
+fast rebound37
+Aero
+Rear
+ride height60 mm
+rear wing1
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Mount Panorama - SF
+SF GTR PAN Q01.jsonSF GTR PAN RF01.jsonSF GTR PAN RS01.json
+Tyres
+Left Front
+psi26.2
+toe-0.20°
+camber-4.0°
+caster16.7°
+Right Front
+psi25.4
+toe-0.20°
+camber-4.0°
+caster16.7°
+Left Rear
+psi25.9
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.3
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar8
+brake power100%
+brake bias57.7%
+steer ratio14
+Left Front
+wheel rate166,000
+bumpstop rate1,400
+bumpstop range10
+Right Front
+wheel rate166,000
+bumpstop rate1,400
+bumpstop range10
+Left Rear
+wheel rate136,000
+bumpstop rate900
+bumpstop range33
+Right Rear
+wheel rate136,000
+bumpstop rate900
+bumpstop range33
+Rear
+antiroll bar4
+preload differential100 Nm
+Dampers
+Left Front
+bump14
+fast bump28
+rebound36
+fast rebound45
+Right Front
+bump14
+fast bump28
+rebound36
+fast rebound45
+Left Rear
+bump6
+fast bump43
+rebound34
+fast rebound37
+Right Rear
+bump6
+fast bump43
+rebound34
+fast rebound37
+Aero
+Rear
+ride height59 mm
+rear wing1
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Nurburgring - SF
+SF GTR NUR Q01.jsonSF GTR NUR RF01.jsonSF GTR NUR RS01.json
+Tyres
+Left Front
+psi25.9
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi26.4
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.5
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range15
+Right Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range15
+Rear
+antiroll bar3
+preload differential80 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Nurburgring - SF
+SF GTR NUR Q01.jsonSF GTR NUR RF01.jsonSF GTR NUR RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi26.2
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi24.9
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.3
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range15
+Right Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range15
+Rear
+antiroll bar3
+preload differential80 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Nurburgring - SF
+SF GTR NUR Q01.jsonSF GTR NUR RF01.jsonSF GTR NUR RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi26.2
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi24.9
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.3
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate106,000
+bumpstop rate1,000
+bumpstop range15
+Right Rear
+wheel rate106,000
+bumpstop rate1,000
+bumpstop range15
+Rear
+antiroll bar3
+preload differential80 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound49
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Nurburgring 24H - SF
+SF M GTR NORD R.jsonSF GTR NORD Q01.jsonSF GTR NORD RS01.json
+Tyres
+Left Front
+psi26.1
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi26.3
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar9
+brake power100%
+brake bias56.2%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range9
+Right Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range9
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range16
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range16
+Rear
+antiroll bar7
+preload differential110 Nm
+Dampers
+Left Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Left Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Aero
+Rear
+ride height82 mm
+rear wing4
+brake ducts2
+Front
+ride height70 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Nurburgring 24H - SF
+SF M GTR NORD R.jsonSF GTR NORD Q01.jsonSF GTR NORD RS01.json
+Tyres
+Left Front
+psi26.1
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi26.3
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar10
+brake power100%
+brake bias55.0%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range9
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range9
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range17
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range17
+Rear
+antiroll bar7
+preload differential90 Nm
+Dampers
+Left Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Left Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Aero
+Rear
+ride height84 mm
+rear wing4
+brake ducts2
+Front
+ride height70 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Nurburgring 24H - SF
+SF M GTR NORD R.jsonSF GTR NORD Q01.jsonSF GTR NORD RS01.json
+Tyres
+Left Front
+psi26.1
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi26.3
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi25.1
+toe0.03°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.03°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar9
+brake power100%
+brake bias56.2%
+steer ratio14
+Left Front
+wheel rate156,000
+bumpstop rate1,200
+bumpstop range9
+Right Front
+wheel rate156,000
+bumpstop rate1,200
+bumpstop range9
+Left Rear
+wheel rate96,000
+bumpstop rate1,000
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate1,000
+bumpstop range20
+Rear
+antiroll bar7
+preload differential110 Nm
+Dampers
+Left Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Left Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Aero
+Rear
+ride height81 mm
+rear wing4
+brake ducts2
+Front
+ride height70 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Oulton Park - SF
+SF GTR OTP Q01.jsonSF GTR OTP RF01.jsonSF GTR OTP RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi26.1
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.0
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate176,000
+bumpstop rate1,700
+bumpstop range11
+Right Front
+wheel rate176,000
+bumpstop rate1,700
+bumpstop range11
+Left Rear
+wheel rate106,000
+bumpstop rate1,200
+bumpstop range18
+Right Rear
+wheel rate106,000
+bumpstop rate1,200
+bumpstop range18
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump12
+fast bump27
+rebound32
+fast rebound46
+Right Rear
+bump12
+fast bump27
+rebound32
+fast rebound46
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Oulton Park - SF
+SF GTR OTP Q01.jsonSF GTR OTP RF01.jsonSF GTR OTP RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi26.1
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.0
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate176,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate176,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate106,000
+bumpstop rate1,200
+bumpstop range18
+Right Rear
+wheel rate106,000
+bumpstop rate1,200
+bumpstop range18
+Rear
+antiroll bar5
+preload differential80 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump12
+fast bump27
+rebound32
+fast rebound46
+Right Rear
+bump12
+fast bump27
+rebound32
+fast rebound46
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Oulton Park - SF
+SF GTR OTP Q01.jsonSF GTR OTP RF01.jsonSF GTR OTP RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.15°
+camber-4.0°
+caster16.0°
+Right Front
+psi26.1
+toe-0.15°
+camber-4.0°
+caster16.0°
+Left Rear
+psi25.0
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar2
+brake power100%
+brake bias58.0%
+steer ratio15
+Left Front
+wheel rate176,000
+bumpstop rate1,500
+bumpstop range11
+Right Front
+wheel rate176,000
+bumpstop rate1,500
+bumpstop range11
+Left Rear
+wheel rate106,000
+bumpstop rate1,200
+bumpstop range22
+Right Rear
+wheel rate106,000
+bumpstop rate1,200
+bumpstop range22
+Rear
+antiroll bar4
+preload differential80 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound35
+fast rebound49
+Left Rear
+bump12
+fast bump27
+rebound32
+fast rebound46
+Right Rear
+bump12
+fast bump27
+rebound32
+fast rebound46
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+FINO AD OULTON PARK
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Paul Ricard - SF
+SF GTR PAR Q01.jsonSF GTR PAR RF01.jsonSF GTR PAR RS01.jsonJardier GTR PAR Q01.jsonJardier GTR PAR R01.json
+Tyres
+Left Front
+psi25.1
+toe-0.15°
+camber-4.0°
+caster18.1°
+Right Front
+psi26.4
+toe-0.15°
+camber-4.0°
+caster18.1°
+Left Rear
+psi24.7
+toe0.06°
+camber-3.5°
+Right Rear
+psi25.6
+toe0.06°
+camber-3.5°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias58.9%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range9
+Right Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range9
+Left Rear
+wheel rate116,000
+bumpstop rate800
+bumpstop range17
+Right Rear
+wheel rate116,000
+bumpstop rate800
+bumpstop range17
+Rear
+antiroll bar6
+preload differential70 Nm
+Dampers
+Left Front
+bump27
+fast bump35
+rebound23
+fast rebound35
+Right Front
+bump27
+fast bump35
+rebound23
+fast rebound35
+Left Rear
+bump16
+fast bump35
+rebound36
+fast rebound35
+Right Rear
+bump16
+fast bump35
+rebound36
+fast rebound35
+Aero
+Rear
+ride height59 mm
+rear wing3
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Paul Ricard - SF
+SF GTR PAR Q01.jsonSF GTR PAR RF01.jsonSF GTR PAR RS01.jsonJardier GTR PAR Q01.jsonJardier GTR PAR R01.json
+Tyres
+Left Front
+psi25.1
+toe-0.15°
+camber-4.0°
+caster18.1°
+Right Front
+psi26.4
+toe-0.15°
+camber-4.0°
+caster18.1°
+Left Rear
+psi24.7
+toe0.06°
+camber-3.5°
+Right Rear
+psi25.6
+toe0.06°
+camber-3.5°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias58.9%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range9
+Right Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range9
+Left Rear
+wheel rate116,000
+bumpstop rate800
+bumpstop range17
+Right Rear
+wheel rate116,000
+bumpstop rate800
+bumpstop range17
+Rear
+antiroll bar6
+preload differential70 Nm
+Dampers
+Left Front
+bump27
+fast bump35
+rebound23
+fast rebound35
+Right Front
+bump27
+fast bump35
+rebound23
+fast rebound35
+Left Rear
+bump16
+fast bump35
+rebound36
+fast rebound35
+Right Rear
+bump16
+fast bump35
+rebound36
+fast rebound35
+Aero
+Rear
+ride height59 mm
+rear wing3
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Paul Ricard - SF
+SF GTR PAR Q01.jsonSF GTR PAR RF01.jsonSF GTR PAR RS01.jsonJardier GTR PAR Q01.jsonJardier GTR PAR R01.json
+Tyres
+Left Front
+psi25.1
+toe-0.10°
+camber-4.0°
+caster18.1°
+Right Front
+psi26.4
+toe-0.10°
+camber-4.0°
+caster18.1°
+Left Rear
+psi24.6
+toe0.10°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.10°
+camber-3.5°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias58.9%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range8
+Right Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range8
+Left Rear
+wheel rate116,000
+bumpstop rate600
+bumpstop range17
+Right Rear
+wheel rate116,000
+bumpstop rate600
+bumpstop range17
+Rear
+antiroll bar6
+preload differential90 Nm
+Dampers
+Left Front
+bump27
+fast bump35
+rebound23
+fast rebound35
+Right Front
+bump27
+fast bump35
+rebound23
+fast rebound35
+Left Rear
+bump16
+fast bump35
+rebound36
+fast rebound35
+Right Rear
+bump16
+fast bump35
+rebound36
+fast rebound35
+Aero
+Rear
+ride height55 mm
+rear wing2
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Paul Ricard - SF
+SF GTR PAR Q01.jsonSF GTR PAR RF01.jsonSF GTR PAR RS01.jsonJardier GTR PAR Q01.jsonJardier GTR PAR R01.json
+Tyres
+Left Front
+psi25.0
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi26.2
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi25.2
+toe0.02°
+camber-3.5°
+Right Rear
+psi25.7
+toe0.02°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar10
+brake power100%
+brake bias59.5%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range32
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range32
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range56
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range56
+Rear
+antiroll bar3
+preload differential20 Nm
+Dampers
+Left Front
+bump0
+fast bump0
+rebound36
+fast rebound49
+Right Front
+bump0
+fast bump0
+rebound36
+fast rebound49
+Left Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Aero
+Rear
+ride height69 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Paul Ricard - SF
+SF GTR PAR Q01.jsonSF GTR PAR RF01.jsonSF GTR PAR RS01.jsonJardier GTR PAR Q01.jsonJardier GTR PAR R01.json
+Tyres
+Left Front
+psi25.0
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi26.2
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi25.2
+toe0.07°
+camber-3.5°
+Right Rear
+psi25.7
+toe0.07°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar10
+brake power100%
+brake bias60.1%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range30
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range30
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range56
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range56
+Rear
+antiroll bar3
+preload differential20 Nm
+Dampers
+Left Front
+bump0
+fast bump0
+rebound36
+fast rebound49
+Right Front
+bump0
+fast bump0
+rebound36
+fast rebound49
+Left Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Aero
+Rear
+ride height69 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Red Bull Ring - SF
+SF M GTR RBR Q.jsonSF M GTR RBR R LFM.jsonSF M GTR RBR R.jsonSF GTR RBR RS01.json
+Tyres
+Left Front
+psi25.1
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi25.5
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi25.3
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.7
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC0
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias59.8%
+steer ratio12
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range8
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range8
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range15
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range15
+Rear
+antiroll bar0
+preload differential20 Nm
+Dampers
+Left Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Left Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Aero
+Rear
+ride height71 mm
+rear wing4
+brake ducts2
+Front
+ride height55 mm
+splitter0
+brake ducts2
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Red Bull Ring - SF
+SF M GTR RBR Q.jsonSF M GTR RBR R LFM.jsonSF M GTR RBR R.jsonSF GTR RBR RS01.json
+Tyres
+Left Front
+psi25.3
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi25.7
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.8
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC0
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias59.8%
+steer ratio12
+Left Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range6
+Right Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range6
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range15
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range15
+Rear
+antiroll bar0
+preload differential20 Nm
+Dampers
+Left Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Left Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Aero
+Rear
+ride height70 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Red Bull Ring - SF
+SF M GTR RBR Q.jsonSF M GTR RBR R LFM.jsonSF M GTR RBR R.jsonSF GTR RBR RS01.json
+Tyres
+Left Front
+psi25.3
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi25.7
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.8
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC0
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias59.8%
+steer ratio12
+Left Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range6
+Right Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range6
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range15
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range15
+Rear
+antiroll bar0
+preload differential20 Nm
+Dampers
+Left Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Left Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Aero
+Rear
+ride height70 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Red Bull Ring - SF
+SF M GTR RBR Q.jsonSF M GTR RBR R LFM.jsonSF M GTR RBR R.jsonSF GTR RBR RS01.json
+Tyres
+Left Front
+psi25.3
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi25.7
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.8
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias59.8%
+steer ratio12
+Left Front
+wheel rate156,000
+bumpstop rate300
+bumpstop range0
+Right Front
+wheel rate156,000
+bumpstop rate300
+bumpstop range0
+Left Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate300
+bumpstop range20
+Rear
+antiroll bar0
+preload differential20 Nm
+Dampers
+Left Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Front
+bump0
+fast bump0
+rebound40
+fast rebound49
+Left Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Right Rear
+bump0
+fast bump0
+rebound40
+fast rebound49
+Aero
+Rear
+ride height70 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Silverstone - SF
+SF GTR SIL Q01.jsonSF GTR SIL RF01.jsonSF GTR SIL RS01.json
+Tyres
+Left Front
+psi25.4
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi26.3
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi24.8
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.5
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias57.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,300
+bumpstop range15
+Right Front
+wheel rate146,000
+bumpstop rate1,300
+bumpstop range15
+Left Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range18
+Right Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range18
+Rear
+antiroll bar2
+preload differential50 Nm
+Dampers
+Left Front
+bump12
+fast bump20
+rebound31
+fast rebound42
+Right Front
+bump12
+fast bump20
+rebound31
+fast rebound42
+Left Rear
+bump8
+fast bump44
+rebound36
+fast rebound29
+Right Rear
+bump8
+fast bump44
+rebound36
+fast rebound29
+Aero
+Rear
+ride height63 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Silverstone - SF
+SF GTR SIL Q01.jsonSF GTR SIL RF01.jsonSF GTR SIL RS01.json
+Tyres
+Left Front
+psi25.3
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi26.2
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi24.7
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias57.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,300
+bumpstop range15
+Right Front
+wheel rate146,000
+bumpstop rate1,300
+bumpstop range15
+Left Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range18
+Right Rear
+wheel rate116,000
+bumpstop rate1,000
+bumpstop range18
+Rear
+antiroll bar2
+preload differential50 Nm
+Dampers
+Left Front
+bump12
+fast bump20
+rebound31
+fast rebound42
+Right Front
+bump12
+fast bump20
+rebound31
+fast rebound42
+Left Rear
+bump8
+fast bump44
+rebound36
+fast rebound29
+Right Rear
+bump8
+fast bump44
+rebound36
+fast rebound29
+Aero
+Rear
+ride height63 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Silverstone - SF
+SF GTR SIL Q01.jsonSF GTR SIL RF01.jsonSF GTR SIL RS01.json
+Tyres
+Left Front
+psi25.3
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi26.2
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi24.7
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias57.1%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range14
+Right Front
+wheel rate146,000
+bumpstop rate1,200
+bumpstop range14
+Left Rear
+wheel rate116,000
+bumpstop rate900
+bumpstop range18
+Right Rear
+wheel rate116,000
+bumpstop rate900
+bumpstop range18
+Rear
+antiroll bar2
+preload differential60 Nm
+Dampers
+Left Front
+bump12
+fast bump20
+rebound31
+fast rebound42
+Right Front
+bump12
+fast bump20
+rebound31
+fast rebound42
+Left Rear
+bump8
+fast bump44
+rebound36
+fast rebound29
+Right Rear
+bump8
+fast bump44
+rebound36
+fast rebound29
+Aero
+Rear
+ride height63 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Snetterton - SF
+SF GTR SNT Q01.jsonSF GTR SNT RF01.jsonSF GTR SNT RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.20°
+camber-4.0°
+caster13.8°
+Right Front
+psi26.2
+toe-0.20°
+camber-4.0°
+caster13.8°
+Left Rear
+psi24.7
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.5
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias57.1%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range4
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range4
+Left Rear
+wheel rate96,000
+bumpstop rate800
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate800
+bumpstop range20
+Rear
+antiroll bar3
+preload differential70 Nm
+Dampers
+Left Front
+bump15
+fast bump35
+rebound28
+fast rebound35
+Right Front
+bump15
+fast bump35
+rebound28
+fast rebound35
+Left Rear
+bump6
+fast bump30
+rebound30
+fast rebound40
+Right Rear
+bump6
+fast bump30
+rebound30
+fast rebound40
+Aero
+Rear
+ride height70 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Snetterton - SF
+SF GTR SNT Q01.jsonSF GTR SNT RF01.jsonSF GTR SNT RS01.json
+Tyres
+Left Front
+psi24.8
+toe-0.10°
+camber-3.8°
+caster13.8°
+Right Front
+psi26.1
+toe-0.10°
+camber-3.8°
+caster13.8°
+Left Rear
+psi24.7
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.5
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias58.6%
+steer ratio14
+Left Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range4
+Right Front
+wheel rate136,000
+bumpstop rate300
+bumpstop range4
+Left Rear
+wheel rate96,000
+bumpstop rate800
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate800
+bumpstop range20
+Rear
+antiroll bar2
+preload differential70 Nm
+Dampers
+Left Front
+bump15
+fast bump35
+rebound28
+fast rebound35
+Right Front
+bump15
+fast bump35
+rebound28
+fast rebound35
+Left Rear
+bump10
+fast bump30
+rebound30
+fast rebound40
+Right Rear
+bump10
+fast bump30
+rebound30
+fast rebound40
+Aero
+Rear
+ride height68 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Snetterton - SF
+SF GTR SNT Q01.jsonSF GTR SNT RF01.jsonSF GTR SNT RS01.json
+Tyres
+Left Front
+psi24.8
+toe-0.10°
+camber-3.8°
+caster13.8°
+Right Front
+psi26.1
+toe-0.10°
+camber-3.8°
+caster13.8°
+Left Rear
+psi24.7
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.5
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC3
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias58.6%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range4
+Right Front
+wheel rate146,000
+bumpstop rate300
+bumpstop range4
+Left Rear
+wheel rate96,000
+bumpstop rate800
+bumpstop range20
+Right Rear
+wheel rate96,000
+bumpstop rate800
+bumpstop range20
+Rear
+antiroll bar1
+preload differential80 Nm
+Dampers
+Left Front
+bump15
+fast bump40
+rebound26
+fast rebound40
+Right Front
+bump15
+fast bump40
+rebound26
+fast rebound40
+Left Rear
+bump6
+fast bump30
+rebound30
+fast rebound40
+Right Rear
+bump6
+fast bump30
+rebound30
+fast rebound40
+Aero
+Rear
+ride height68 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Spa Francorchamps - SF
+SF GTR SPA Q01.jsonSF GTR SPA RF01.jsonSF GTR SPA RS01.json
+Tyres
+Left Front
+psi25.9
+toe-0.10°
+camber-4.0°
+caster17.0°
+Right Front
+psi25.7
+toe-0.10°
+camber-4.0°
+caster17.0°
+Left Rear
+psi25.4
+toe0.10°
+camber-3.5°
+Right Rear
+psi25.3
+toe0.10°
+camber-3.5°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias58.9%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range20
+Right Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range20
+Left Rear
+wheel rate126,000
+bumpstop rate800
+bumpstop range25
+Right Rear
+wheel rate126,000
+bumpstop rate800
+bumpstop range25
+Rear
+antiroll bar4
+preload differential80 Nm
+Dampers
+Left Front
+bump27
+fast bump35
+rebound36
+fast rebound35
+Right Front
+bump27
+fast bump35
+rebound36
+fast rebound35
+Left Rear
+bump16
+fast bump35
+rebound30
+fast rebound35
+Right Rear
+bump16
+fast bump35
+rebound30
+fast rebound35
+Aero
+Rear
+ride height62 mm
+rear wing3
+brake ducts3
+Front
+ride height56 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Spa Francorchamps - SF
+SF GTR SPA Q01.jsonSF GTR SPA RF01.jsonSF GTR SPA RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.10°
+camber-4.0°
+caster17.0°
+Right Front
+psi25.5
+toe-0.10°
+camber-4.0°
+caster17.0°
+Left Rear
+psi25.2
+toe0.06°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.06°
+camber-3.5°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias58.9%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range12
+Right Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range12
+Left Rear
+wheel rate126,000
+bumpstop rate800
+bumpstop range25
+Right Rear
+wheel rate126,000
+bumpstop rate800
+bumpstop range25
+Rear
+antiroll bar5
+preload differential60 Nm
+Dampers
+Left Front
+bump27
+fast bump35
+rebound36
+fast rebound35
+Right Front
+bump27
+fast bump35
+rebound36
+fast rebound35
+Left Rear
+bump16
+fast bump35
+rebound30
+fast rebound35
+Right Rear
+bump16
+fast bump35
+rebound30
+fast rebound35
+Aero
+Rear
+ride height60 mm
+rear wing3
+brake ducts3
+Front
+ride height56 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Spa Francorchamps - SF
+SF GTR SPA Q01.jsonSF GTR SPA RF01.jsonSF GTR SPA RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.10°
+camber-4.0°
+caster17.0°
+Right Front
+psi25.5
+toe-0.10°
+camber-4.0°
+caster17.0°
+Left Rear
+psi25.2
+toe0.10°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.10°
+camber-3.5°
+Electronics
+Electronic Elements
+TC3
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar5
+brake power100%
+brake bias58.9%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range16
+Right Front
+wheel rate156,000
+bumpstop rate1,100
+bumpstop range16
+Left Rear
+wheel rate126,000
+bumpstop rate800
+bumpstop range25
+Right Rear
+wheel rate126,000
+bumpstop rate800
+bumpstop range25
+Rear
+antiroll bar4
+preload differential80 Nm
+Dampers
+Left Front
+bump27
+fast bump35
+rebound36
+fast rebound35
+Right Front
+bump27
+fast bump35
+rebound36
+fast rebound35
+Left Rear
+bump16
+fast bump35
+rebound30
+fast rebound35
+Right Rear
+bump16
+fast bump35
+rebound30
+fast rebound35
+Aero
+Rear
+ride height60 mm
+rear wing3
+brake ducts3
+Front
+ride height56 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Suzuka - SF
+SF GTR SUZ Q01.jsonSF GTR SUZ RF01.jsonSF GTR SUZ RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi25.5
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi24.8
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC4
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias59.8%
+steer ratio15
+Left Front
+wheel rate166,000
+bumpstop rate1,300
+bumpstop range8
+Right Front
+wheel rate166,000
+bumpstop rate1,300
+bumpstop range8
+Left Rear
+wheel rate106,000
+bumpstop rate1,000
+bumpstop range9
+Right Rear
+wheel rate106,000
+bumpstop rate1,000
+bumpstop range9
+Rear
+antiroll bar6
+preload differential100 Nm
+Dampers
+Left Front
+bump28
+fast bump20
+rebound25
+fast rebound18
+Right Front
+bump28
+fast bump20
+rebound25
+fast rebound18
+Left Rear
+bump22
+fast bump26
+rebound19
+fast rebound27
+Right Rear
+bump22
+fast bump26
+rebound19
+fast rebound27
+Aero
+Rear
+ride height65 mm
+rear wing4
+brake ducts3
+Front
+ride height58 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Suzuka - SF
+SF GTR SUZ Q01.jsonSF GTR SUZ RF01.jsonSF GTR SUZ RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi25.5
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi24.8
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC4
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias59.8%
+steer ratio15
+Left Front
+wheel rate166,000
+bumpstop rate1,300
+bumpstop range8
+Right Front
+wheel rate166,000
+bumpstop rate1,300
+bumpstop range8
+Left Rear
+wheel rate96,000
+bumpstop rate1,000
+bumpstop range10
+Right Rear
+wheel rate96,000
+bumpstop rate1,000
+bumpstop range10
+Rear
+antiroll bar6
+preload differential100 Nm
+Dampers
+Left Front
+bump28
+fast bump20
+rebound25
+fast rebound18
+Right Front
+bump28
+fast bump20
+rebound25
+fast rebound18
+Left Rear
+bump22
+fast bump26
+rebound19
+fast rebound27
+Right Rear
+bump22
+fast bump26
+rebound19
+fast rebound27
+Aero
+Rear
+ride height65 mm
+rear wing4
+brake ducts3
+Front
+ride height58 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Suzuka - SF
+SF GTR SUZ Q01.jsonSF GTR SUZ RF01.jsonSF GTR SUZ RS01.json
+Tyres
+Left Front
+psi25.7
+toe-0.20°
+camber-4.0°
+caster19.5°
+Right Front
+psi25.5
+toe-0.20°
+camber-4.0°
+caster19.5°
+Left Rear
+psi24.8
+toe0.01°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.01°
+camber-3.5°
+Electronics
+Electronic Elements
+TC4
+ABS2
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar7
+brake power100%
+brake bias62.2%
+steer ratio15
+Left Front
+wheel rate166,000
+bumpstop rate1,300
+bumpstop range8
+Right Front
+wheel rate166,000
+bumpstop rate1,300
+bumpstop range8
+Left Rear
+wheel rate96,000
+bumpstop rate1,000
+bumpstop range16
+Right Rear
+wheel rate96,000
+bumpstop rate1,000
+bumpstop range16
+Rear
+antiroll bar6
+preload differential150 Nm
+Dampers
+Left Front
+bump28
+fast bump20
+rebound25
+fast rebound18
+Right Front
+bump28
+fast bump20
+rebound25
+fast rebound18
+Left Rear
+bump22
+fast bump26
+rebound19
+fast rebound27
+Right Rear
+bump22
+fast bump26
+rebound19
+fast rebound27
+Aero
+Rear
+ride height64 mm
+rear wing4
+brake ducts3
+Front
+ride height58 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Valencia - SF
+SF GTR VAL Q01.jsonSF GTR VAL RF01.jsonSF GTR VAL RS01.json
+Tyres
+Left Front
+psi26.1
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi25.1
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi25.4
+toe0.00°
+camber-3.5°
+Right Rear
+psi24.7
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar4
+brake power100%
+brake bias57.7%
+steer ratio14
+Left Front
+wheel rate166,000
+bumpstop rate1,000
+bumpstop range15
+Right Front
+wheel rate166,000
+bumpstop rate1,000
+bumpstop range15
+Left Rear
+wheel rate116,000
+bumpstop rate700
+bumpstop range22
+Right Rear
+wheel rate116,000
+bumpstop rate700
+bumpstop range22
+Rear
+antiroll bar2
+preload differential60 Nm
+Dampers
+Left Front
+bump15
+fast bump38
+rebound34
+fast rebound43
+Right Front
+bump15
+fast bump38
+rebound34
+fast rebound43
+Left Rear
+bump4
+fast bump40
+rebound38
+fast rebound44
+Right Rear
+bump4
+fast bump40
+rebound38
+fast rebound44
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Valencia - SF
+SF GTR VAL Q01.jsonSF GTR VAL RF01.jsonSF GTR VAL RS01.json
+Tyres
+Left Front
+psi25.9
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi25.0
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi25.2
+toe0.00°
+camber-3.5°
+Right Rear
+psi24.6
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar4
+brake power100%
+brake bias58.3%
+steer ratio14
+Left Front
+wheel rate166,000
+bumpstop rate1,000
+bumpstop range12
+Right Front
+wheel rate166,000
+bumpstop rate1,000
+bumpstop range12
+Left Rear
+wheel rate116,000
+bumpstop rate700
+bumpstop range22
+Right Rear
+wheel rate116,000
+bumpstop rate700
+bumpstop range22
+Rear
+antiroll bar2
+preload differential100 Nm
+Dampers
+Left Front
+bump15
+fast bump38
+rebound34
+fast rebound43
+Right Front
+bump15
+fast bump38
+rebound34
+fast rebound43
+Left Rear
+bump4
+fast bump40
+rebound38
+fast rebound44
+Right Rear
+bump4
+fast bump40
+rebound38
+fast rebound44
+Aero
+Rear
+ride height61 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Valencia - SF
+SF GTR VAL Q01.jsonSF GTR VAL RF01.jsonSF GTR VAL RS01.json
+Tyres
+Left Front
+psi25.8
+toe-0.20°
+camber-4.0°
+caster16.9°
+Right Front
+psi25.0
+toe-0.20°
+camber-4.0°
+caster16.9°
+Left Rear
+psi25.2
+toe0.00°
+camber-3.5°
+Right Rear
+psi24.7
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS3
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar4
+brake power100%
+brake bias58.3%
+steer ratio14
+Left Front
+wheel rate166,000
+bumpstop rate1,000
+bumpstop range10
+Right Front
+wheel rate166,000
+bumpstop rate1,000
+bumpstop range10
+Left Rear
+wheel rate116,000
+bumpstop rate700
+bumpstop range22
+Right Rear
+wheel rate116,000
+bumpstop rate700
+bumpstop range22
+Rear
+antiroll bar2
+preload differential100 Nm
+Dampers
+Left Front
+bump15
+fast bump38
+rebound34
+fast rebound43
+Right Front
+bump15
+fast bump38
+rebound34
+fast rebound43
+Left Rear
+bump4
+fast bump40
+rebound38
+fast rebound44
+Right Rear
+bump4
+fast bump40
+rebound38
+fast rebound44
+Aero
+Rear
+ride height60 mm
+rear wing4
+brake ducts3
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Watkins Glen - SF
+SF GTR WKG Q01.jsonSF GTR WKG RF01.jsonSF GTR WKG RS01.json
+Tyres
+Left Front
+psi25.5
+toe-0.10°
+camber-4.0°
+caster13.9°
+Right Front
+psi26.2
+toe-0.10°
+camber-4.0°
+caster13.9°
+Left Rear
+psi24.6
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.1
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar9
+brake power100%
+brake bias56.8%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate500
+bumpstop range8
+Right Front
+wheel rate146,000
+bumpstop rate500
+bumpstop range8
+Left Rear
+wheel rate116,000
+bumpstop rate800
+bumpstop range16
+Right Rear
+wheel rate116,000
+bumpstop rate800
+bumpstop range16
+Rear
+antiroll bar7
+preload differential50 Nm
+Dampers
+Left Front
+bump18
+fast bump44
+rebound32
+fast rebound43
+Right Front
+bump18
+fast bump44
+rebound32
+fast rebound43
+Left Rear
+bump13
+fast bump43
+rebound24
+fast rebound37
+Right Rear
+bump13
+fast bump43
+rebound24
+fast rebound37
+Aero
+Rear
+ride height67 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Watkins Glen - SF
+SF GTR WKG Q01.jsonSF GTR WKG RF01.jsonSF GTR WKG RS01.json
+Tyres
+Left Front
+psi25.3
+toe-0.10°
+camber-3.8°
+caster13.9°
+Right Front
+psi26.1
+toe-0.10°
+camber-3.8°
+caster13.9°
+Left Rear
+psi24.3
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.0
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar9
+brake power100%
+brake bias57.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate700
+bumpstop range8
+Right Front
+wheel rate146,000
+bumpstop rate700
+bumpstop range8
+Left Rear
+wheel rate116,000
+bumpstop rate900
+bumpstop range16
+Right Rear
+wheel rate116,000
+bumpstop rate900
+bumpstop range16
+Rear
+antiroll bar6
+preload differential50 Nm
+Dampers
+Left Front
+bump18
+fast bump44
+rebound32
+fast rebound43
+Right Front
+bump18
+fast bump44
+rebound32
+fast rebound43
+Left Rear
+bump13
+fast bump43
+rebound24
+fast rebound37
+Right Rear
+bump13
+fast bump43
+rebound24
+fast rebound37
+Aero
+Rear
+ride height65 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Watkins Glen - SF
+SF GTR WKG Q01.jsonSF GTR WKG RF01.jsonSF GTR WKG RS01.json
+Tyres
+Left Front
+psi25.3
+toe-0.10°
+camber-3.8°
+caster13.9°
+Right Front
+psi26.1
+toe-0.10°
+camber-3.8°
+caster13.9°
+Left Rear
+psi24.3
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.0
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar9
+brake power100%
+brake bias57.4%
+steer ratio14
+Left Front
+wheel rate146,000
+bumpstop rate700
+bumpstop range8
+Right Front
+wheel rate146,000
+bumpstop rate700
+bumpstop range8
+Left Rear
+wheel rate116,000
+bumpstop rate700
+bumpstop range16
+Right Rear
+wheel rate116,000
+bumpstop rate700
+bumpstop range16
+Rear
+antiroll bar6
+preload differential50 Nm
+Dampers
+Left Front
+bump22
+fast bump44
+rebound34
+fast rebound43
+Right Front
+bump22
+fast bump44
+rebound34
+fast rebound43
+Left Rear
+bump20
+fast bump43
+rebound30
+fast rebound37
+Right Rear
+bump20
+fast bump43
+rebound30
+fast rebound37
+Aero
+Rear
+ride height64 mm
+rear wing4
+brake ducts5
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Zandvoort - SF
+SF GTR ZAN Q01.jsonSF GTR ZAN RF01.jsonSF GTR ZAN RS01.json
+Tyres
+Left Front
+psi24.7
+toe-0.15°
+camber-4.0°
+caster17.8°
+Right Front
+psi26.5
+toe-0.15°
+camber-4.0°
+caster17.8°
+Left Rear
+psi24.2
+toe0.01°
+camber-3.1°
+Right Rear
+psi25.5
+toe0.01°
+camber-3.1°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias53.8%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Left Rear
+wheel rate96,000
+bumpstop rate1,600
+bumpstop range22
+Right Rear
+wheel rate96,000
+bumpstop rate1,600
+bumpstop range22
+Rear
+antiroll bar2
+preload differential60 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound33
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound33
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Aero
+Rear
+ride height66 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Zandvoort - SF
+SF GTR ZAN Q01.jsonSF GTR ZAN RF01.jsonSF GTR ZAN RS01.json
+Tyres
+Left Front
+psi24.7
+toe-0.15°
+camber-4.0°
+caster17.0°
+Right Front
+psi26.5
+toe-0.15°
+camber-4.0°
+caster17.0°
+Left Rear
+psi24.1
+toe0.00°
+camber-3.1°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.1°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias52.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Left Rear
+wheel rate96,000
+bumpstop rate1,200
+bumpstop range22
+Right Rear
+wheel rate96,000
+bumpstop rate1,200
+bumpstop range22
+Rear
+antiroll bar3
+preload differential80 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound31
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound31
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Aero
+Rear
+ride height65 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Zandvoort - SF
+SF GTR ZAN Q01.jsonSF GTR ZAN RF01.jsonSF GTR ZAN RS01.json
+Tyres
+Left Front
+psi24.7
+toe-0.15°
+camber-4.0°
+caster17.0°
+Right Front
+psi26.5
+toe-0.15°
+camber-4.0°
+caster17.0°
+Left Rear
+psi24.1
+toe0.02°
+camber-3.1°
+Right Rear
+psi25.4
+toe0.02°
+camber-3.1°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias53.5%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Left Rear
+wheel rate96,000
+bumpstop rate1,200
+bumpstop range22
+Right Rear
+wheel rate96,000
+bumpstop rate1,200
+bumpstop range22
+Rear
+antiroll bar2
+preload differential60 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound31
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound31
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Aero
+Rear
+ride height65 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Zandvoort - SF
+SF GTR ZAN Q01.jsonSF GTR ZAN RF01.jsonSF GTR ZAN RS01.json
+Tyres
+Left Front
+psi24.7
+toe-0.15°
+camber-4.0°
+caster17.8°
+Right Front
+psi26.5
+toe-0.15°
+camber-4.0°
+caster17.8°
+Left Rear
+psi24.2
+toe0.01°
+camber-3.1°
+Right Rear
+psi25.5
+toe0.01°
+camber-3.1°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias53.8%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Left Rear
+wheel rate96,000
+bumpstop rate1,600
+bumpstop range22
+Right Rear
+wheel rate96,000
+bumpstop rate1,600
+bumpstop range22
+Rear
+antiroll bar2
+preload differential60 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound33
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound33
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Aero
+Rear
+ride height66 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Zandvoort - SF
+SF GTR ZAN Q01.jsonSF GTR ZAN RF01.jsonSF GTR ZAN RS01.json
+Tyres
+Left Front
+psi24.7
+toe-0.15°
+camber-4.0°
+caster17.0°
+Right Front
+psi26.5
+toe-0.15°
+camber-4.0°
+caster17.0°
+Left Rear
+psi24.1
+toe0.00°
+camber-3.1°
+Right Rear
+psi25.4
+toe0.00°
+camber-3.1°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias52.0%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Left Rear
+wheel rate96,000
+bumpstop rate1,200
+bumpstop range22
+Right Rear
+wheel rate96,000
+bumpstop rate1,200
+bumpstop range22
+Rear
+antiroll bar3
+preload differential80 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound31
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound31
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Aero
+Rear
+ride height65 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Zandvoort - SF
+SF GTR ZAN Q01.jsonSF GTR ZAN RF01.jsonSF GTR ZAN RS01.json
+Tyres
+Left Front
+psi24.7
+toe-0.15°
+camber-4.0°
+caster17.0°
+Right Front
+psi26.5
+toe-0.15°
+camber-4.0°
+caster17.0°
+Left Rear
+psi24.1
+toe0.02°
+camber-3.1°
+Right Rear
+psi25.4
+toe0.02°
+camber-3.1°
+Electronics
+Electronic Elements
+TC5
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar3
+brake power100%
+brake bias53.5%
+steer ratio15
+Left Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Right Front
+wheel rate156,000
+bumpstop rate1,300
+bumpstop range11
+Left Rear
+wheel rate96,000
+bumpstop rate1,200
+bumpstop range22
+Right Rear
+wheel rate96,000
+bumpstop rate1,200
+bumpstop range22
+Rear
+antiroll bar2
+preload differential60 Nm
+Dampers
+Left Front
+bump30
+fast bump30
+rebound31
+fast rebound49
+Right Front
+bump30
+fast bump30
+rebound31
+fast rebound49
+Left Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Right Rear
+bump10
+fast bump30
+rebound35
+fast rebound42
+Aero
+Rear
+ride height65 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts4
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Zolder - SF
+SF GTR ZOL Q01.jsonSF GTR ZOL RF01.jsonSF GTR ZOL RS01.json
+Tyres
+Left Front
+psi25.0
+toe-0.12°
+camber-4.0°
+caster13.8°
+Right Front
+psi25.9
+toe-0.12°
+camber-4.0°
+caster13.8°
+Left Rear
+psi24.8
+toe0.00°
+camber-3.5°
+Right Rear
+psi25.5
+toe0.00°
+camber-3.5°
+Electronics
+Electronic Elements
+TC1
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias56.8%
+steer ratio14
+Left Front
+wheel rate156,000
+bumpstop rate300
+bumpstop range5
+Right Front
+wheel rate156,000
+bumpstop rate300
+bumpstop range5
+Left Rear
+wheel rate106,000
+bumpstop rate800
+bumpstop range20
+Right Rear
+wheel rate106,000
+bumpstop rate800
+bumpstop range20
+Rear
+antiroll bar4
+preload differential90 Nm
+Dampers
+Left Front
+bump15
+fast bump42
+rebound32
+fast rebound40
+Right Front
+bump15
+fast bump42
+rebound32
+fast rebound40
+Left Rear
+bump10
+fast bump43
+rebound35
+fast rebound42
+Right Rear
+bump10
+fast bump43
+rebound35
+fast rebound42
+Aero
+Rear
+ride height69 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Zolder - SF
+SF GTR ZOL Q01.jsonSF GTR ZOL RF01.jsonSF GTR ZOL RS01.json
+Tyres
+Left Front
+psi24.9
+toe-0.12°
+camber-3.8°
+caster13.8°
+Right Front
+psi25.9
+toe-0.12°
+camber-3.8°
+caster13.8°
+Left Rear
+psi24.7
+toe0.00°
+camber-3.3°
+Right Rear
+psi25.5
+toe0.00°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias58.0%
+steer ratio14
+Left Front
+wheel rate156,000
+bumpstop rate300
+bumpstop range5
+Right Front
+wheel rate156,000
+bumpstop rate300
+bumpstop range5
+Left Rear
+wheel rate106,000
+bumpstop rate800
+bumpstop range20
+Right Rear
+wheel rate106,000
+bumpstop rate800
+bumpstop range20
+Rear
+antiroll bar4
+preload differential90 Nm
+Dampers
+Left Front
+bump15
+fast bump42
+rebound32
+fast rebound40
+Right Front
+bump15
+fast bump42
+rebound32
+fast rebound40
+Left Rear
+bump10
+fast bump43
+rebound35
+fast rebound42
+Right Rear
+bump10
+fast bump43
+rebound35
+fast rebound42
+Aero
+Rear
+ride height66 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+Console Wizard
+Select a car to view setups for ACC console.
+Back to tracks
+Collapse all
+Nissan GT-R Nismo GT3 - Zolder - SF
+SF GTR ZOL Q01.jsonSF GTR ZOL RF01.jsonSF GTR ZOL RS01.json
+Tyres
+Left Front
+psi24.9
+toe-0.09°
+camber-3.8°
+caster13.8°
+Right Front
+psi25.9
+toe-0.09°
+camber-3.8°
+caster13.8°
+Left Rear
+psi24.7
+toe0.02°
+camber-3.3°
+Right Rear
+psi25.5
+toe0.02°
+camber-3.3°
+Electronics
+Electronic Elements
+TC2
+ABS4
+ECU Map1
+TC2 0
+Mechanical Grip
+Front
+antiroll bar6
+brake power100%
+brake bias58.0%
+steer ratio14
+Left Front
+wheel rate156,000
+bumpstop rate500
+bumpstop range5
+Right Front
+wheel rate156,000
+bumpstop rate500
+bumpstop range5
+Left Rear
+wheel rate106,000
+bumpstop rate800
+bumpstop range20
+Right Rear
+wheel rate106,000
+bumpstop rate800
+bumpstop range20
+Rear
+antiroll bar4
+preload differential100 Nm
+Dampers
+Left Front
+bump17
+fast bump42
+rebound32
+fast rebound40
+Right Front
+bump17
+fast bump42
+rebound32
+fast rebound40
+Left Rear
+bump9
+fast bump43
+rebound35
+fast rebound42
+Right Rear
+bump9
+fast bump43
+rebound35
+fast rebound42
+Aero
+Rear
+ride height66 mm
+rear wing4
+brake ducts4
+Front
+ride height55 mm
+splitter0
+brake ducts3
+
+

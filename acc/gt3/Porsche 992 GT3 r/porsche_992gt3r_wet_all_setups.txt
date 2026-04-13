@@ -1,0 +1,6226 @@
+﻿==== CDA4 992GT3R BAR HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R BAR HVY WET.json
+Tyres
+Left Front
+psi: 27.7
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.3
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 27.5
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.0
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R BAR MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R BAR MED WET Q.json
+Tyres
+Left Front
+psi: 25.9
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 26.8
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 25.0
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 25.9
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R BAR MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R BAR MED WET.json
+Tyres
+Left Front
+psi: 25.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 25.0
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.1
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R BRH HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R BRH HVY WET.json
+Tyres
+Left Front
+psi: 28.0
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.4
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 27.8
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.2
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R BRH MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R BRH MED WET Q.json
+Tyres
+Left Front
+psi: 26.1
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 26.9
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 25.3
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 25.7
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R BRH MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R BRH MED WET.json
+Tyres
+Left Front
+psi: 25.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.5
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 25.3
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 25.7
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R COTA HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R COTA HVY WET.json
+Tyres
+Left Front
+psi: 28.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.6
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.7
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R COTA MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R COTA MED WET Q.json
+Tyres
+Left Front
+psi: 26.9
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.2
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.0
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.3
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R COTA MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R COTA MED WET.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.2
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.2
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.5
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R DNP HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R DNP HVY WET.json
+Tyres
+Left Front
+psi: 28.2
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.3
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.0
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.1
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R DNP MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R DNP MED WET Q.json
+Tyres
+Left Front
+psi: 26.7
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.1
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.2
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.3
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R DNP MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R DNP MED WET.json
+Tyres
+Left Front
+psi: 26.7
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.1
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.2
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.4
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R HUN HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R HUN HVY WET.json
+Tyres
+Left Front
+psi: 28.4
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.5
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.2
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R HUN MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R HUN MED WET Q.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 26.6
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.0
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 25.4
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R HUN MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R HUN MED WET.json
+Tyres
+Left Front
+psi: 26.4
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.4
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 25.9
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 25.7
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R IMO HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R IMO HVY WET.json
+Tyres
+Left Front
+psi: 28.5
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.5
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.2
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R IMO MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R IMO MED WET Q.json
+Tyres
+Left Front
+psi: 27.3
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.2
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.3
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.2
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R IMO MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R IMO MED WET.json
+Tyres
+Left Front
+psi: 27.0
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.2
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.2
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R INDY HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R INDY HVY WET.json
+Tyres
+Left Front
+psi: 28.2
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.0
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R INDY MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R INDY MED WET Q.json
+Tyres
+Left Front
+psi: 26.5
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.6
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 25.5
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.5
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R INDY MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R INDY MED WET.json
+Tyres
+Left Front
+psi: 26.2
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.0
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 25.6
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.3
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R KYA HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R KYA HVY WET.json
+Tyres
+Left Front
+psi: 28.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 29.3
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.7
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 29.2
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R KYA MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R KYA MED WET Q.json
+Tyres
+Left Front
+psi: 27.3
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.3
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.7
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.9
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R KYA MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R KYA MED WET.json
+Tyres
+Left Front
+psi: 27.3
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.3
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.7
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.9
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 1
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R LAG HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R LAG HVY WET.json
+Tyres
+Left Front
+psi: 28.4
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.2
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.1
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.0
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 6
+ABS: 6
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.2%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R LAG MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R LAG MED WET Q.json
+Tyres
+Left Front
+psi: 27.0
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 26.4
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.1
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 25.3
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 44.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R LAG MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R LAG MED WET.json
+Tyres
+Left Front
+psi: 26.7
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.1
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.1
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 25.6
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 44.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R MIS HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R MIS HVY WET.json
+Tyres
+Left Front
+psi: 28.2
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.0
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R MIS MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R MIS MED WET Q.json
+Tyres
+Left Front
+psi: 26.4
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 26.9
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 25.5
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.0
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R MIS MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R MIS MED WET.json
+Tyres
+Left Front
+psi: 26.2
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.7
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 25.3
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.0
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R MON HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R MON HVY WET.json
+Tyres
+Left Front
+psi: 28.3
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.7
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.0
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.5
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R MON MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R MON MED WET Q.json
+Tyres
+Left Front
+psi: 26.5
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.4
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 25.4
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.2
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R MON MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R MON MED WET.json
+Tyres
+Left Front
+psi: 26.7
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.2
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 25.8
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.1
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R NORD HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R NORD HVY WET.json
+Tyres
+Left Front
+psi: 28.5
+toe: -0.14°
+camber: -4.0°
+caster: 12.4°
+Right Front
+psi: 28.6
+toe: -0.14°
+camber: -4.0°
+caster: 12.4°
+Left Rear
+psi: 28.1
+toe: 0.10°
+camber: -3.5°
+Right Rear
+psi: 28.1
+toe: 0.10°
+camber: -3.5°
+Electronics
+Electronic Elements
+TC: 3
+ABS: 1
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 2
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 14
+Left Front
+wheel rate: 114,000
+bumpstop rate: 300
+bumpstop range: 15
+Right Front
+wheel rate: 114,000
+bumpstop rate: 300
+bumpstop range: 15
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 300
+bumpstop range: 50
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 300
+bumpstop range: 50
+Rear
+antiroll bar: 0
+preload differential: 20 Nm
+Dampers
+Left Front
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Right Front
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Left Rear
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Right Rear
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Aero
+Rear
+ride height: 84 mm
+rear wing: 12
+brake ducts: 4
+Front
+ride height: 70 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R NORD MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R NORD MED WET Q.json
+Tyres
+Left Front
+psi: 27.2
+toe: -0.40°
+camber: -4.0°
+caster: 12.4°
+Right Front
+psi: 27.0
+toe: -0.40°
+camber: -4.0°
+caster: 12.4°
+Left Rear
+psi: 26.0
+toe: 0.07°
+camber: -3.5°
+Right Rear
+psi: 25.6
+toe: 0.07°
+camber: -3.5°
+Electronics
+Electronic Elements
+TC: 1
+ABS: 1
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 0
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 14
+Left Front
+wheel rate: 100,500
+bumpstop rate: 300
+bumpstop range: 49
+Right Front
+wheel rate: 100,500
+bumpstop rate: 300
+bumpstop range: 49
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 300
+bumpstop range: 50
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 300
+bumpstop range: 50
+Rear
+antiroll bar: 0
+preload differential: 20 Nm
+Dampers
+Left Front
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Right Front
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Left Rear
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Right Rear
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Aero
+Rear
+ride height: 82 mm
+rear wing: 12
+brake ducts: 4
+Front
+ride height: 70 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R NORD MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R NORD MED WET.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.25°
+camber: -4.0°
+caster: 12.4°
+Right Front
+psi: 26.6
+toe: -0.25°
+camber: -4.0°
+caster: 12.4°
+Left Rear
+psi: 25.9
+toe: 0.10°
+camber: -3.5°
+Right Rear
+psi: 25.6
+toe: 0.10°
+camber: -3.5°
+Electronics
+Electronic Elements
+TC: 2
+ABS: 2
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 1
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 14
+Left Front
+wheel rate: 119,000
+bumpstop rate: 300
+bumpstop range: 49
+Right Front
+wheel rate: 119,000
+bumpstop rate: 300
+bumpstop range: 49
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 300
+bumpstop range: 50
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 300
+bumpstop range: 50
+Rear
+antiroll bar: 0
+preload differential: 20 Nm
+Dampers
+Left Front
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Right Front
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Left Rear
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Right Rear
+bump: 0
+fast bump: 0
+rebound: 17
+fast rebound: 12
+Aero
+Rear
+ride height: 84 mm
+rear wing: 12
+brake ducts: 4
+Front
+ride height: 70 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R NUR HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R NUR HVY WET.json
+Tyres
+Left Front
+psi: 28.4
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.4
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.2
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R NUR MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R NUR MED WET Q.json
+Tyres
+Left Front
+psi: 27.0
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.2
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.2
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.1
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R NUR MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R NUR MED WET.json
+Tyres
+Left Front
+psi: 26.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.3
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.0
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R OTP HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R OTP HVY WET.json
+Tyres
+Left Front
+psi: 28.7
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.7
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.5
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.4
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R OTP MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R OTP MED WET Q.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 26.6
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 25.2
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 25.8
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R OTP MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R OTP MED WET.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.2
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 25.8
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.6%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R PAN HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R PAN HVY WET.json
+Tyres
+Left Front
+psi: 28.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.5
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R PAN MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R PAN MED WET Q.json
+Tyres
+Left Front
+psi: 27.1
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 26.9
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.1
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.4
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R PAN MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R PAN MED WET.json
+Tyres
+Left Front
+psi: 26.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.4
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 25.9
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 25.6
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R PAR HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R PAR HVY WET.json
+Tyres
+Left Front
+psi: 29.0
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 29.3
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.8
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.9
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R PAR MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R PAR MED WET Q.json
+Tyres
+Left Front
+psi: 27.6
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 28.0
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.9
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 27.2
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R PAR MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R PAR MED WET.json
+Tyres
+Left Front
+psi: 27.3
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.9
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 27.2
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R RBR HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R RBR HVY WET.json
+Tyres
+Left Front
+psi: 27.7
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.3
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 27.5
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.0
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R RBR MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R RBR MED WET Q.json
+Tyres
+Left Front
+psi: 25.9
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 26.8
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 25.0
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 25.9
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R RBR MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R RBR MED WET.json
+Tyres
+Left Front
+psi: 25.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 25.0
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.1
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R SIL HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SIL HVY WET.json
+Tyres
+Left Front
+psi: 28.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 29.0
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.7
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.7
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 44.0%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R SIL MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SIL MED WET Q.json
+Tyres
+Left Front
+psi: 26.9
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.2
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.2
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.3
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R SIL MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SIL MED WET.json
+Tyres
+Left Front
+psi: 26.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.2
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.2
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.3
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 44.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R SNT HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SNT HVY WET.json
+Tyres
+Left Front
+psi: 28.7
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 29.1
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.4
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.8
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R SNT MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SNT MED WET Q.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.6
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.0
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.0
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 4
+
+==== CDA4 992GT3R SNT MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SNT MED WET.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.1
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 27.1
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 44.6%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 4
+
+==== CDA4 992GT3R SPA HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SPA HVY WET.json
+Tyres
+Left Front
+psi: 29.0
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 29.1
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.7
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.9
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R SPA MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SPA MED WET Q.json
+Tyres
+Left Front
+psi: 27.3
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 28.0
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.3
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 27.3
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R SPA MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SPA MED WET.json
+Tyres
+Left Front
+psi: 26.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.3
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 27.1
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R SUZ HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SUZ HVY WET.json
+Tyres
+Left Front
+psi: 28.5
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.5
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 6
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R SUZ MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SUZ MED WET Q.json
+Tyres
+Left Front
+psi: 27.0
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.0
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.3
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.3
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R SUZ MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R SUZ MED WET.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.0
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.1
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.3
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R VAL HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R VAL HVY WET.json
+Tyres
+Left Front
+psi: 28.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.3
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 27.9
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R VAL MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R VAL MED WET Q.json
+Tyres
+Left Front
+psi: 27.3
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 26.3
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.4
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 25.1
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R VAL MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R VAL MED WET.json
+Tyres
+Left Front
+psi: 27.0
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 25.9
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.3
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 25.1
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R WKG HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R WKG HVY WET.json
+Tyres
+Left Front
+psi: 28.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 29.0
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.5
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.6
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 6
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 45.0%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R WKG MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R WKG MED WET Q.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.0
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.0
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.2
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R WKG MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R WKG MED WET.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 27.0
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.0
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.2
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 44.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R ZAN HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R ZAN HVY WET.json
+Tyres
+Left Front
+psi: 28.4
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.2
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 5
+ABS: 5
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R ZAN MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R ZAN MED WET Q.json
+Tyres
+Left Front
+psi: 26.4
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.1
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 25.7
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.2
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R ZAN MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R ZAN MED WET.json
+Tyres
+Left Front
+psi: 26.1
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 25.5
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.0
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R ZOL HVY WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R ZOL HVY WET.json
+Tyres
+Left Front
+psi: 28.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 28.6
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Right Rear
+psi: 28.3
+toe: 0.13°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 6
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Right Front
+wheel rate: 110,000
+bumpstop rate: 1,200
+bumpstop range: 24
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 20
+Rear
+antiroll bar: 4
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 13
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 54 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R ZOL MED WET Q.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R ZOL MED WET Q.json
+Tyres
+Left Front
+psi: 27.2
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Right Front
+psi: 27.2
+toe: -0.20°
+camber: -3.8°
+caster: 11.2°
+Left Rear
+psi: 26.6
+toe: 0.00°
+camber: -3.3°
+Right Rear
+psi: 26.1
+toe: 0.00°
+camber: -3.3°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 5
+brake power: 100%
+brake bias: 43.0%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 67 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+==== CDA4 992GT3R ZOL MED WET.json.docx ====
+porsche_992_gt3_r · CDA4 · CDA4 992GT3R ZOL MED WET.json
+Tyres
+Left Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Right Front
+psi: 26.8
+toe: -0.18°
+camber: -3.6°
+caster: 11.2°
+Left Rear
+psi: 26.1
+toe: 0.02°
+camber: -3.2°
+Right Rear
+psi: 26.0
+toe: 0.02°
+camber: -3.2°
+Electronics
+Electronic Elements
+TC: 4
+ABS: 4
+ECU Map: 8
+TC2: 0
+Mechanical Grip
+Front
+antiroll bar: 4
+brake power: 100%
+brake bias: 43.4%
+steer ratio: 15
+Left Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Right Front
+wheel rate: 114,000
+bumpstop rate: 1,200
+bumpstop range: 28
+Left Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Right Rear
+wheel rate: 137,000
+bumpstop rate: 700
+bumpstop range: 13
+Rear
+antiroll bar: 5
+preload differential: 50 Nm
+Dampers
+Left Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Right Front
+bump: 10
+fast bump: 11
+rebound: 11
+fast rebound: 12
+Left Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Right Rear
+bump: 6
+fast bump: 11
+rebound: 15
+fast rebound: 12
+Aero
+Rear
+ride height: 69 mm
+rear wing: 12
+brake ducts: 3
+Front
+ride height: 53 mm
+splitter: 0
+brake ducts: 3
+
+
