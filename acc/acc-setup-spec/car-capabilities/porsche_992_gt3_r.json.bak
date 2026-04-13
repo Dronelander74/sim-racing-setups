@@ -217,22 +217,6 @@
                          "tyres.right_rear.toe":  {
                                                       "modifiable":  true,
                                                       "distinctValuesCount":  28
-                                                  },
-                         "tyres.left_front.psi":  {
-                                                      "modifiable":  false,
-                                                      "distinctValuesCount":  1
-                                                  },
-                         "tyres.right_front.psi":  {
-                                                       "modifiable":  false,
-                                                       "distinctValuesCount":  1
-                                                   },
-                         "tyres.left_rear.psi":  {
-                                                     "modifiable":  false,
-                                                     "distinctValuesCount":  1
-                                                 },
-                         "tyres.right_rear.psi":  {
-                                                      "modifiable":  false,
-                                                      "distinctValuesCount":  1
                                                   }
                      }
 }
