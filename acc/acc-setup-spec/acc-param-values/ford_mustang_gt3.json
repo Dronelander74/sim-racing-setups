@@ -48,7 +48,9 @@
                            "min":  0,
                            "max":  0,
                            "distinctCount":  1,
-                           "values":  0,
+                           "values":  [
+                                          0
+                                      ],
                            "sampleCounts":  {
                                                 "0":  272
                                             }
@@ -461,7 +463,9 @@
                            "min":  1,
                            "max":  1,
                            "distinctCount":  1,
-                           "values":  1,
+                           "values":  [
+                                          1
+                                      ],
                            "sampleCounts":  {
                                                 "1":  272
                                             }
@@ -570,7 +574,9 @@
                            "min":  100,
                            "max":  100,
                            "distinctCount":  1,
-                           "values":  100,
+                           "values":  [
+                                          100
+                                      ],
                            "sampleCounts":  {
                                                 "100":  272
                                             }
@@ -1056,7 +1062,9 @@
                            "min":  -4,
                            "max":  -4,
                            "distinctCount":  1,
-                           "values":  -4,
+                           "values":  [
+                                          -4
+                                      ],
                            "sampleCounts":  {
                                                 "-4":  272
                                             }
@@ -1067,7 +1075,9 @@
                            "min":  12.3,
                            "max":  12.3,
                            "distinctCount":  1,
-                           "values":  12.3,
+                           "values":  [
+                                          12.3
+                                      ],
                            "sampleCounts":  {
                                                 "12.3":  272
                                             }
@@ -1095,7 +1105,9 @@
                            "min":  -3.5,
                            "max":  -3.5,
                            "distinctCount":  1,
-                           "values":  -3.5,
+                           "values":  [
+                                          -3.5
+                                      ],
                            "sampleCounts":  {
                                                 "-3.5":  272
                                             }
@@ -1139,7 +1151,9 @@
                            "min":  -4,
                            "max":  -4,
                            "distinctCount":  1,
-                           "values":  -4,
+                           "values":  [
+                                          -4
+                                      ],
                            "sampleCounts":  {
                                                 "-4":  272
                                             }
@@ -1150,7 +1164,9 @@
                            "min":  12.3,
                            "max":  12.3,
                            "distinctCount":  1,
-                           "values":  12.3,
+                           "values":  [
+                                          12.3
+                                      ],
                            "sampleCounts":  {
                                                 "12.3":  272
                                             }
@@ -1178,7 +1194,9 @@
                            "min":  -3.5,
                            "max":  -3.5,
                            "distinctCount":  1,
-                           "values":  -3.5,
+                           "values":  [
+                                          -3.5
+                                      ],
                            "sampleCounts":  {
                                                 "-3.5":  272
                                             }
