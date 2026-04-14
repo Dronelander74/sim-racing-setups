@@ -1,0 +1,213 @@
+{
+  "schemaVersion": "1.0",
+  "simulator": "PMR",
+  "car": {
+    "displayName": "ASTON MARTIN AMR VANTAGE GT3 (2022)",
+    "class": "GT3",
+    "year": 2022,
+    "slug": "aston_martin_amr_vantage_gt3_2022"
+  },
+  "source": {
+    "type": "in_game_ui",
+    "notes": "Ranges/steps captured from PMR in-game setup UI (GT3)."
+  },
+
+  "uiConstraints": {
+    "front": {
+      "steeringStiffness_N_per_mm": {
+        "min": 240,
+        "max": 340,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità sterzo",
+        "mappingStatus": "needs_calibration",
+        "notes": "UI value exists; vset raw param not uniquely identified in this JSON pack."
+      },
+
+      "slowBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
+      "slowRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
+      "fastBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
+      "fastRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+
+      "bumpstopSize_mm": { "min": 0, "max": 60, "step": 5, "unit": "mm", "uiLabel": "Lunghezza fine corsa" },
+      "bumpstopStiffness_N_per_mm": { "min": 600, "max": 1000, "step": 100, "unit": "N/mm", "uiLabel": "Tasso rigidità fine corsa" },
+
+      "camber_deg": { "min": -4.23, "max": -0.22, "step": 0.10, "unit": "°", "uiLabel": "Campanatura" },
+      "toe_deg": { "min": -0.41, "max": 0.59, "step": 0.05, "unit": "°", "uiLabel": "Convergenza" },
+
+      "kpi_deg": {
+        "min": -3.0,
+        "max": 3.0,
+        "step": 0.05,
+        "unit": "°",
+        "uiLabel": "Scostamento dal perno",
+        "mappingStatus": "needs_calibration"
+      },
+
+      "rideHeightAdjust_mm": { "min": -30, "max": 30, "step": 1, "unit": "mm", "uiLabel": "Modifica l'altezza dal suolo" }
+    },
+
+    "rear": {
+      "steeringStiffness_N_per_mm": {
+        "min": 220,
+        "max": 320,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità sterzo",
+        "mappingStatus": "needs_calibration"
+      },
+
+      "slowBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
+      "slowRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
+      "fastBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
+      "fastRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+
+      "bumpstopSize_mm": { "min": 0, "max": 60, "step": 5, "unit": "mm", "uiLabel": "Lunghezza fine corsa" },
+      "bumpstopStiffness_N_per_mm": { "min": 600, "max": 1000, "step": 100, "unit": "N/mm", "uiLabel": "Tasso rigidità fine corsa" },
+
+      "camber_deg": { "min": -3.91, "max": -0.40, "step": 0.10, "unit": "°", "uiLabel": "Campanatura" },
+      "toe_deg": { "min": -0.44, "max": 0.55, "step": 0.05, "unit": "°", "uiLabel": "Convergenza" },
+
+      "rideHeightAdjust_mm": { "min": -30, "max": 30, "step": 1, "unit": "mm", "uiLabel": "Modifica l'altezza dal suolo" }
+    },
+
+    "antiRollBars": {
+      "frontARB_N_per_mm": { "min": 10, "max": 200, "step": 10, "unit": "N/mm", "uiLabel": "Barra stabilizzatrice anteriore" },
+      "rearARB_N_per_mm": { "min": 10, "max": 200, "step": 10, "unit": "N/mm", "uiLabel": "Barra stabilizzatrice posteriore" }
+    },
+
+    "aero": {
+      "rearWingAngle_deg": { "min": -2.0, "max": 7, "step": 1, "unit": "°", "uiLabel": "ALA POSTERIORE" }
+    },
+
+    "differential": {
+      "preload_N": { "min": 50, "max": 300, "step": 50, "unit": "N", "uiLabel": "Precarico" },
+      "clutches": { "min": 1, "max": 12, "step": 1, "unit": "count", "uiLabel": "Frizione" },
+      "powerLockAngles_deg": { "enum": [30, 45, 60, 75, 90], "unit": "°", "uiLabel": "Angolo bloccaggio in accelerazione" },
+      "coastLockAngles_deg": { "enum": [30, 45, 60, 75, 90], "unit": "°", "uiLabel": "Angolo bloccaggio in decelerazione" }
+    },
+
+    "engineElectronics": {
+      "engineBrake": { "supported": false, "uiLabel": "Freno motore" },
+      "tc": { "supported": true, "min": 0, "max": 11, "step": 1, "unit": "level", "uiLabel": "TC" },
+      "abs": { "supported": true, "min": 0, "max": 11, "step": 1, "unit": "level", "uiLabel": "ABS" }
+    },
+
+    "brakes": {
+      "brakeBias_frontPct": { "min": 0.0, "max": 100.0, "step": 0.5, "unit": "%", "uiLabel": "BIAS FRENI" },
+      "brakePressure_pct": { "min": 50, "max": 120, "step": 5, "unit": "%", "uiLabel": "PRESSIONE FRENI" }
+    },
+
+    "gearbox": {
+      "mode": "index_only",
+      "modifiable": false,
+      "uiLabel": "CAMBIO",
+      "notes": "PMR vset stores gearbox as indices (final-drive, gear-install-gearbox-*). Without index→ratio map, do not modify gearbox."
+    }
+  },
+
+  "rawTransforms": {
+    "rideHeightAdjust_mm": {
+      "vsetParamFamily": "*-spring-platform",
+      "uiToRaw": "raw = mm / 1000",
+      "rawToUi": "mm = raw * 1000",
+      "rawStep": 0.001,
+      "notes": "Discrete 1mm steps; export should format to 3 decimals."
+    },
+    "bumpstopSize_mm": {
+      "vsetParamFamily": "*-bumpstop-size",
+      "uiToRaw": "raw = mm / 1000",
+      "rawToUi": "mm = raw * 1000",
+      "rawStep": 0.005
+    },
+    "brakeBias_frontPct": {
+      "vsetParam": "brake-bias",
+      "uiToRaw": "raw = pct / 100",
+      "rawToUi": "pct = raw * 100",
+      "rawStep": 0.005
+    },
+    "brakePressure_pct": {
+      "vsetParam": "brake-pressure",
+      "uiToRaw": "raw = pct / 100",
+      "rawToUi": "pct = raw * 100",
+      "rawStep": 0.05
+    },
+    "rearWingAngle_deg": {
+      "vsetParam": "R-wing-angle",
+      "uiToRaw": "raw = deg",
+      "rawToUi": "deg = raw",
+      "rawStep": 1,
+      "notes": "Keep integer degrees in export."
+    },
+    "tc": { "vsetParam": "tractionControl", "uiToRaw": "raw = level", "rawToUi": "level = raw", "rawStep": 1 },
+    "abs": { "vsetParam": "abs", "uiToRaw": "raw = level", "rawToUi": "level = raw", "rawStep": 1 }
+  },
+
+  "vsetMapping": {
+    "frontLeft": {
+      "fastBump_click": "FL-fast-bump",
+      "fastRebound_click": "FL-fast-rebound",
+      "slowBump_click": "FL-slow-bump",
+      "slowRebound_click": "FL-slow-rebound",
+      "camber_deg": "FL-camber",
+      "toe_deg": "FL-toe",
+      "kpi_deg": "FL-kpi-adjuster",
+      "bumpstopSize_mm": "FL-bumpstop-size",
+      "bumpstopStiffness_N_per_mm": "FL-bumpstop-stiffness",
+      "rideHeightAdjust_mm": "FL-spring-platform"
+    },
+    "frontRight": {
+      "fastBump_click": "FR-fast-bump",
+      "fastRebound_click": "FR-fast-rebound",
+      "slowBump_click": "FR-slow-bump",
+      "slowRebound_click": "FR-slow-rebound",
+      "camber_deg": "FR-camber",
+      "toe_deg": "FR-toe",
+      "kpi_deg": "FR-kpi-adjuster",
+      "bumpstopSize_mm": "FR-bumpstop-size",
+      "bumpstopStiffness_N_per_mm": "FR-bumpstop-stiffness",
+      "rideHeightAdjust_mm": "FR-spring-platform"
+    },
+    "rearLeft": {
+      "fastBump_click": "RL-fast-bump",
+      "fastRebound_click": "RL-fast-rebound",
+      "slowBump_click": "RL-slow-bump",
+      "slowRebound_click": "RL-slow-rebound",
+      "camber_deg": "RL-camber",
+      "toe_deg": "RL-toe",
+      "bumpstopSize_mm": "RL-bumpstop-size",
+      "bumpstopStiffness_N_per_mm": "RL-bumpstop-stiffness",
+      "rideHeightAdjust_mm": "RL-spring-platform"
+    },
+    "rearRight": {
+      "fastBump_click": "RR-fast-bump",
+      "fastRebound_click": "RR-fast-rebound",
+      "slowBump_click": "RR-slow-bump",
+      "slowRebound_click": "RR-slow-rebound",
+      "camber_deg": "RR-camber",
+      "toe_deg": "RR-toe",
+      "bumpstopSize_mm": "RR-bumpstop-size",
+      "bumpstopStiffness_N_per_mm": "RR-bumpstop-stiffness",
+      "rideHeightAdjust_mm": "RR-spring-platform"
+    },
+    "arb": { "frontARB_N_per_mm": "F-antirollbar", "rearARB_N_per_mm": "R-antirollbar" },
+    "aero": { "rearWingAngle_deg": "R-wing-angle" },
+    "diff": {
+      "preload_N": "diff-preload",
+      "clutches": "diff-clutches",
+      "powerLock_deg": "diff-ramp-power",
+      "coastLock_deg": "diff-ramp-coast"
+    },
+    "brakes": { "brakeBias_frontPct": "brake-bias", "brakePressure_pct": "brake-pressure" },
+    "electronics": { "tc": "tractionControl", "abs": "abs" },
+    "gearbox": {
+      "finalDriveIndex": "final-drive",
+      "gear1Index": "gear-install-gearbox-1",
+      "gear2Index": "gear-install-gearbox-2",
+      "gear3Index": "gear-install-gearbox-3",
+      "gear4Index": "gear-install-gearbox-4",
+      "gear5Index": "gear-install-gearbox-5",
+      "gear6Index": "gear-install-gearbox-6"
+    }
+  }
+}
