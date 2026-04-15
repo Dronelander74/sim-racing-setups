@@ -47,10 +47,14 @@
     ]
   },
   "MX-5": {
-    "expectedCount": 1,
+    "expectedCount": 5,
     "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=3",
     "cars": [
-      "Mazda MX-5 Spec"
+      "Mazda MX-5 Spec",
+      "Mazda MX-5 VTEC",
+      "Mazda MX-5 V6",
+      "Mazda MX-5 V8",
+      "Mazda MX-5 Turbo"
     ]
   },
   "GT": {

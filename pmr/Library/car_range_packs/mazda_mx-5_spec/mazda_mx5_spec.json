@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "1.0",
+  "simulator": "PMR",
+  "car": {
+    "displayName": "Mazda MX-5 Spec",
+    "class": "SPEC",
+    "year": 2017,
+    "slug": "mazda_mx5_spec"
+  },
+  "source": {
+    "type": "in_game_ui",
+    "notes": "Ranges/steps captured from PMR in-game setup UI for Mazda MX-5 Spec. Parameters not available in UI are marked as N/A."
+  },
+  "uiConstraints": {
+    "front": {
+      "steeringStiffness_N_per_mm": "N/A",
+      "slowBump_click": { "min": 1, "max": 11, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
+      "slowRebound_click": { "min": 1, "max": 11, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
+      "fastBump_click": { "min": 1, "max": 11, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
+      "fastRebound_click": { "min": 1, "max": 11, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+      "bumpstopSize_mm": { "min": 0, "max": 60, "step": 5, "unit": "mm", "uiLabel": "Lunghezza fine corsa" },
+      "bumpstopStiffness_N_per_mm": { "min": 100, "max": 900, "step": 100, "unit": "N/mm", "uiLabel": "Tasso rigidità fine corsa" },
+      "camber_deg": { "min": -4.50, "max": -0.98, "step": 0.10, "unit": "°", "uiLabel": "Campanatura" },
+      "toe_deg": { "min": -0.44, "max": 0.56, "step": 0.05, "unit": "°", "uiLabel": "Convergenza" },
+      "kpi_deg": {
+        "min": -3.0,
+        "max": 3.0,
+        "step": 0.05,
+        "unit": "°",
+        "uiLabel": "Scostamento dal perno",
+        "notes": "UI change also affects camber by ±0.02"
+      },
+      "rideHeightAdjust_mm": {
+        "min": -30,
+        "max": 30,
+        "step": 1,
+        "unit": "mm",
+        "uiLabel": "Modifica l'altezza dal suolo",
+        "notes": "UI change also affects camber by ±0.01"
+      }
+    },
+    "rear": {
+      "steeringStiffness_N_per_mm": "N/A",
+      "slowBump_click": { "min": 1, "max": 11, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
+      "slowRebound_click": { "min": 1, "max": 11, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
+      "fastBump_click": { "min": 1, "max": 11, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
+      "fastRebound_click": { "min": 1, "max": 11, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+      "bumpstopSize_mm": { "min": 0, "max": 60, "step": 5, "unit": "mm", "uiLabel": "Lunghezza fine corsa" },
+      "bumpstopStiffness_N_per_mm": { "min": 100, "max": 900, "step": 100, "unit": "N/mm", "uiLabel": "Tasso rigidità fine corsa" },
+      "camber_deg": { "min": -3.38, "max": -0.87, "step": 0.10, "unit": "°", "uiLabel": "Campanatura" },
+      "toe_deg": { "min": -0.48, "max": 0.52, "step": 0.05, "unit": "°", "uiLabel": "Convergenza" },
+      "rideHeightAdjust_mm": {
+        "min": -30,
+        "max": 30,
+        "step": 1,
+        "unit": "mm",
+        "uiLabel": "Modifica l'altezza dal suolo",
+        "notes": "UI change also affects toe slightly"
+      }
+    },
+    "antiRollBars": {
+      "frontARB_N_per_mm": { "min": 50, "max": 100, "step": 10, "unit": "N/mm", "uiLabel": "Barra stabilizzatrice anteriore" },
+      "rearARB_N_per_mm": { "min": 0, "max": 20, "step": 10, "unit": "N/mm", "uiLabel": "Barra stabilizzatrice posteriore" }
+    },
+    "aero": {
+      "rearWingAngle_deg": "N/A"
+    },
+    "differential": {
+      "preload_N": "N/A",
+      "clutches": "N/A",
+      "powerLockAngles_deg": "N/A",
+      "coastLockAngles_deg": "N/A"
+    },
+    "engineElectronics": {
+      "engineBrake": { "supported": false, "uiLabel": "Freno motore" },
+      "tc": { "supported": true, "min": 0, "max": 10, "step": 1, "unit": "level", "uiLabel": "TC" },
+      "abs": { "supported": true, "min": 0, "max": 6, "step": 1, "unit": "level", "uiLabel": "ABS" }
+    },
+    "brakes": {
+      "brakeBias_frontPct": { "min": 0.0, "max": 100.0, "step": 0.5, "unit": "%", "uiLabel": "BIAS FRENI" },
+      "brakePressure_pct": { "min": 50, "max": 120, "step": 5, "unit": "%", "uiLabel": "PRESSIONE FRENI" }
+    },
+    "gearbox": {
+      "mode": "index_only",
+      "modifiable": false,
+      "uiLabel": "CAMBIO",
+      "notes": "Gear ratios and final drive not adjustable for Mazda MX-5 Spec."
+    }
+  }
+}
