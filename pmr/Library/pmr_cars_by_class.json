@@ -151,6 +151,13 @@
       "1990 Porsche 911 Carrera Cup (964)"
     ]
   },
+  "Chally": {
+    "expectedCount": 1,
+    "sourceUrl": "internal",
+    "cars": [
+      "Tunari Chally Wally (2023)"
+    ]
+  },
   "DLC: Group 5": {
     "expectedCount": 5,
     "sourceUrl": "https://projectmotorracing.com/car-category.php?categoryIndex=13&showClass",
