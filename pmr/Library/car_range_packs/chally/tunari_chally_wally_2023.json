@@ -1,0 +1,190 @@
+{
+  "schemaVersion": "1.0",
+  "simulator": "PMR",
+  "car": {
+    "displayName": "Tunari Chally Wally",
+    "class": "TUNARI_TROPHY",
+    "year": 2023,
+    "slug": "tunari_chally_wally_2023"
+  },
+  "source": {
+    "type": "in_game_ui",
+    "notes": "Ranges and steps captured directly from PMR in-game setup UI for Tunari Chally Wally (2023). Parameters not adjustable in-game are marked as N/A."
+  },
+  "uiConstraints": {
+    "front": {
+      "steeringStiffness_N_per_mm": {
+        "min": 10,
+        "max": 80,
+        "step": 1,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità sterzo"
+      },
+      "slowBump_click": { "min": 1, "max": 9, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
+      "slowRebound_click": { "min": 1, "max": 9, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
+      "fastBump_click": { "min": 1, "max": 9, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
+      "fastRebound_click": { "min": 1, "max": 9, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+      "bumpstopSize_mm": {
+        "min": 0,
+        "max": 15,
+        "step": 5,
+        "unit": "mm",
+        "uiLabel": "Lunghezza fine corsa"
+      },
+      "bumpstopStiffness_N_per_mm": {
+        "min": 100,
+        "max": 900,
+        "step": 100,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità fine corsa"
+      },
+      "camber_deg": {
+        "min": 1.61,
+        "max": 1.61,
+        "step": 0.10,
+        "unit": "°",
+        "uiLabel": "Campanatura",
+        "notes": "Fixed value in UI"
+      },
+      "toe_deg": {
+        "min": -7.33,
+        "max": 6.33,
+        "step": 0.05,
+        "unit": "°",
+        "uiLabel": "Convergenza"
+      },
+      "kpi_deg": {
+        "min": -3.0,
+        "max": 3.0,
+        "step": 0.05,
+        "unit": "°",
+        "uiLabel": "Scostamento dal perno"
+      },
+      "rideHeightAdjust_mm": {
+        "min": 90,
+        "max": 108,
+        "step": 1,
+        "unit": "mm",
+        "uiLabel": "Modifica l'altezza dal suolo"
+      }
+    },
+    "rear": {
+      "steeringStiffness_N_per_mm": {
+        "min": 16,
+        "max": 20,
+        "step": 1,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità sterzo"
+      },
+      "slowBump_click": { "min": 1, "max": 8, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
+      "slowRebound_click": { "min": 1, "max": 8, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
+      "fastBump_click": { "min": 1, "max": 8, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
+      "fastRebound_click": { "min": 1, "max": 8, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+      "bumpstopSize_mm": {
+        "min": 0,
+        "max": 15,
+        "step": 5,
+        "unit": "mm",
+        "uiLabel": "Lunghezza fine corsa"
+      },
+      "bumpstopStiffness_N_per_mm": {
+        "min": 100,
+        "max": 100,
+        "step": 100,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità fine corsa",
+        "notes": "Fixed value in UI"
+      },
+      "camber_deg": {
+        "min": 0.13,
+        "max": 0.13,
+        "step": 0.10,
+        "unit": "°",
+        "uiLabel": "Campanatura",
+        "notes": "Fixed value in UI"
+      },
+      "toe_deg": {
+        "min": 0.01,
+        "max": 0.01,
+        "step": 0.05,
+        "unit": "°",
+        "uiLabel": "Convergenza",
+        "notes": "Fixed value in UI"
+      },
+      "rideHeightAdjust_mm": {
+        "min": 100,
+        "max": 120,
+        "step": 1,
+        "unit": "mm",
+        "uiLabel": "Modifica l'altezza dal suolo"
+      }
+    },
+    "antiRollBars": {
+      "frontARB_N_per_mm": {
+        "min": 15,
+        "max": 30,
+        "step": 1,
+        "unit": "N/mm",
+        "uiLabel": "Barra stabilizzatrice anteriore"
+      },
+      "rearARB_N_per_mm": {
+        "min": 0,
+        "max": 10,
+        "step": 1,
+        "unit": "N/mm",
+        "uiLabel": "Barra stabilizzatrice posteriore"
+      }
+    },
+    "aero": {
+      "rearWingAngle_deg": "N/A"
+    },
+    "differential": {
+      "preload_N": "N/A",
+      "clutches": "N/A",
+      "powerLockAngles_deg": "N/A",
+      "coastLockAngles_deg": "N/A"
+    },
+    "engineElectronics": {
+      "engineBrake": { "supported": false, "uiLabel": "Freno motore" },
+      "tc": {
+        "supported": true,
+        "min": 0,
+        "max": 5,
+        "step": 1,
+        "unit": "level",
+        "uiLabel": "TC"
+      },
+      "abs": {
+        "supported": true,
+        "min": 0,
+        "max": 5,
+        "step": 1,
+        "unit": "level",
+        "uiLabel": "ABS"
+      }
+    },
+    "brakes": {
+      "brakeBias_frontPct": {
+        "min": 0.0,
+        "max": 100.0,
+        "step": 0.5,
+        "unit": "%",
+        "uiLabel": "BIAS FRENI"
+      },
+      "brakePressure_pct": {
+        "min": 50,
+        "max": 120,
+        "step": 5,
+        "unit": "%",
+        "uiLabel": "PRESSIONE FRENI"
+      }
+    },
+    "gearbox": {
+      "mode": "index_only",
+      "modifiable": true,
+      "uiLabel": "CAMBIO",
+      "notes": "Final drive and individual gear ratios adjustable."
+    }
+  }
+}
+``

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "1.0",
+  "simulator": "PMR",
+  "car": {
+    "displayName": "Chevrolet Camaro ZL-1 GT4.R",
+    "class": "GT4",
+    "year": 2017,
+    "slug": "chevrolet_camaro_zl1_gt4r_2017"
+  },
+  "source": {
+    "type": "in_game_ui",
+    "notes": "Ranges and steps captured directly from PMR in-game setup UI for Chevrolet Camaro ZL-1 GT4.R (2017)."
+  },
+  "uiConstraints": {
+    "front": {
+      "steeringStiffness_N_per_mm": {
+        "min": 230,
+        "max": 270,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità sterzo"
+      },
+      "slowBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
+      "slowRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
+      "fastBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
+      "fastRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+      "bumpstopSize_mm": { "min": 0, "max": 60, "step": 5, "unit": "mm", "uiLabel": "Lunghezza fine corsa" },
+      "bumpstopStiffness_N_per_mm": { "min": 100, "max": 900, "step": 100, "unit": "N/mm", "uiLabel": "Tasso rigidità fine corsa" },
+      "camber_deg": { "min": -4.63, "max": -0.62, "step": 0.10, "unit": "°", "uiLabel": "Campanatura" },
+      "toe_deg": { "min": -0.49, "max": 0.51, "step": 0.05, "unit": "°", "uiLabel": "Convergenza" },
+      "kpi_deg": { "min": -3.0, "max": 3.0, "step": 0.05, "unit": "°", "uiLabel": "Scostamento dal perno" },
+      "rideHeightAdjust_mm": {
+        "min": -5,
+        "max": 20,
+        "step": 1,
+        "unit": "mm",
+        "uiLabel": "Modifica l'altezza dal suolo"
+      }
+    },
+    "rear": {
+      "steeringStiffness_N_per_mm": {
+        "min": 160,
+        "max": 200,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità sterzo"
+      },
+      "slowBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
+      "slowRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
+      "fastBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
+      "fastRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+      "bumpstopSize_mm": { "min": 0, "max": 60, "step": 5, "unit": "mm", "uiLabel": "Lunghezza fine corsa" },
+      "bumpstopStiffness_N_per_mm": { "min": 100, "max": 900, "step": 100, "unit": "N/mm", "uiLabel": "Tasso rigidità fine corsa" },
+      "camber_deg": { "min": -4.12, "max": -0.61, "step": 0.10, "unit": "°", "uiLabel": "Campanatura" },
+      "toe_deg": { "min": -0.51, "max": 0.49, "step": 0.05, "unit": "°", "uiLabel": "Convergenza" },
+      "rideHeightAdjust_mm": {
+        "min": -5,
+        "max": 20,
+        "step": 1,
+        "unit": "mm",
+        "uiLabel": "Modifica l'altezza dal suolo"
+      }
+    },
+    "antiRollBars": {
+      "frontARB_N_per_mm": {
+        "min": 10,
+        "max": 200,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Barra stabilizzatrice anteriore"
+      },
+      "rearARB_N_per_mm": {
+        "min": 10,
+        "max": 200,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Barra stabilizzatrice posteriore"
+      }
+    },
+    "aero": {
+      "rearWingAngle_deg": {
+        "min": 0,
+        "max": 5,
+        "step": 1,
+        "unit": "°",
+        "uiLabel": "ALA POSTERIORE"
+      }
+    },
+    "differential": {
+      "preload_N": { "min": 50, "max": 300, "step": 50, "unit": "N", "uiLabel": "Precarico" },
+      "clutches": { "min": 1, "max": 12, "step": 1, "unit": "count", "uiLabel": "Frizione" },
+      "powerLockAngles_deg": { "enum": [30, 45, 60, 75, 90], "unit": "°", "uiLabel": "Angolo bloccaggio in accelerazione" },
+      "coastLockAngles_deg": { "enum": [30, 45, 60, 75, 90], "unit": "°", "uiLabel": "Angolo bloccaggio in decelerazione" }
+    },
+    "engineElectronics": {
+      "engineBrake": { "supported": false, "uiLabel": "Freno motore" },
+      "tc": { "supported": true, "min": 0, "max": 11, "step": 1, "unit": "level", "uiLabel": "TC" },
+      "abs": { "supported": true, "min": 0, "max": 11, "step": 1, "unit": "level", "uiLabel": "ABS" }
+    },
+    "brakes": {
+      "brakeBias_frontPct": { "min": 0.0, "max": 100.0, "step": 0.5, "unit": "%", "uiLabel": "BIAS FRENI" },
+      "brakePressure_pct": { "min": 50, "max": 120, "step": 5, "unit": "%", "uiLabel": "PRESSIONE FRENI" }
+    },
+    "gearbox": {
+      "mode": "index_only",
+      "modifiable": true,
+      "uiLabel": "CAMBIO",
+      "notes": "Final drive and individual gear ratios adjustable."
+    }
+  }
+}
