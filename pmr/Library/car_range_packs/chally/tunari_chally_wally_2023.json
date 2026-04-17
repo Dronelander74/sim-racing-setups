@@ -146,38 +146,12 @@
     },
     "engineElectronics": {
       "engineBrake": { "supported": false, "uiLabel": "Freno motore" },
-      "tc": {
-        "supported": true,
-        "min": 0,
-        "max": 5,
-        "step": 1,
-        "unit": "level",
-        "uiLabel": "TC"
-      },
-      "abs": {
-        "supported": true,
-        "min": 0,
-        "max": 5,
-        "step": 1,
-        "unit": "level",
-        "uiLabel": "ABS"
-      }
+      "tc": { "supported": true, "min": 0, "max": 5, "step": 1, "unit": "level", "uiLabel": "TC" },
+      "abs": { "supported": true, "min": 0, "max": 5, "step": 1, "unit": "level", "uiLabel": "ABS" }
     },
     "brakes": {
-      "brakeBias_frontPct": {
-        "min": 0.0,
-        "max": 100.0,
-        "step": 0.5,
-        "unit": "%",
-        "uiLabel": "BIAS FRENI"
-      },
-      "brakePressure_pct": {
-        "min": 50,
-        "max": 120,
-        "step": 5,
-        "unit": "%",
-        "uiLabel": "PRESSIONE FRENI"
-      }
+      "brakeBias_frontPct": { "min": 0.0, "max": 100.0, "step": 0.5, "unit": "%", "uiLabel": "BIAS FRENI" },
+      "brakePressure_pct": { "min": 50, "max": 120, "step": 5, "unit": "%", "uiLabel": "PRESSIONE FRENI" }
     },
     "gearbox": {
       "mode": "index_only",
