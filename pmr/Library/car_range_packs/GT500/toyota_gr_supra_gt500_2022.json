@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "1.0",
+  "simulator": "PMR",
+  "car": {
+    "displayName": "Toyota GR Supra GT500",
+    "class": "GT500",
+    "year": 2022,
+    "slug": "toyota_gr_supra_gt500_2022"
+  },
+  "source": {
+    "type": "in_game_ui",
+    "notes": "Ranges and steps captured directly from PMR in-game setup UI for Toyota GR Supra GT500 (2022)."
+  },
+  "uiConstraints": {
+    "front": {
+      "steeringStiffness_N_per_mm": { "min": 150, "max": 350, "step": 10, "unit": "N/mm" },
+      "slowBump_click": { "min": 1, "max": 7, "step": 1 },
+      "slowRebound_click": { "min": 1, "max": 8, "step": 1 },
+      "fastBump_click": { "min": 1, "max": 5, "step": 1 },
+      "fastRebound_click": { "min": 1, "max": 9, "step": 1 },
+      "bumpstopSize_mm": { "min": 0, "max": 60, "step": 5, "unit": "mm" },
+      "bumpstopStiffness_N_per_mm": { "min": 600, "max": 1000, "step": 100, "unit": "N/mm" },
+      "camber_deg": { "min": -4.09, "max": -0.09, "step": 0.10 },
+      "toe_deg": { "min": -0.45, "max": 0.55, "step": 0.05 },
+      "kpi_deg": { "min": -3.0, "max": 3.0, "step": 0.05 },
+      "rideHeightAdjust_mm": { "min": -10, "max": 20, "step": 1, "unit": "mm" }
+    },
+    "rear": {
+      "steeringStiffness_N_per_mm": { "min": 150, "max": 350, "step": 10, "unit": "N/mm" },
+      "slowBump_click": { "min": 1, "max": 7, "step": 1 },
+      "slowRebound_click": { "min": 1, "max": 8, "step": 1 },
+      "fastBump_click": { "min": 1, "max": 5, "step": 1 },
+      "fastRebound_click": { "min": 1, "max": 9, "step": 1 },
+      "bumpstopSize_mm": { "min": 0, "max": 60, "step": 5, "unit": "mm" },
+      "bumpstopStiffness_N_per_mm": { "min": 600, "max": 1000, "step": 100, "unit": "N/mm" },
+      "camber_deg": { "min": -3.59, "max": -0.09, "step": 0.10 },
+      "toe_deg": { "min": -0.50, "max": 0.50, "step": 0.05 },
+      "rideHeightAdjust_mm": { "min": -20, "max": 20, "step": 1, "unit": "mm" }
+    },
+    "antiRollBars": {
+      "frontARB_N_per_mm": { "min": 140, "max": 240, "step": 10, "unit": "N/mm" },
+      "rearARB_N_per_mm": { "min": 140, "max": 240, "step": 10, "unit": "N/mm" }
+    },
+    "aero": {
+      "rearWingAngle_deg": { "min": 0, "max": 9, "step": 1, "unit": "°" }
+    },
+    "differential": {
+      "preload_N": { "min": 50, "max": 200, "step": 50, "unit": "N" },
+      "clutches": { "min": 1, "max": 12, "step": 1 },
+      "powerLockAngles_deg": { "enum": [30, 45, 60, 75, 90] },
+      "coastLockAngles_deg": { "enum": [30, 45, 60, 75, 90] }
+    },
+    "engineElectronics": {
+      "engineBrake": { "supported": false },
+      "tc": { "supported": true, "min": 0, "max": 5, "step": 1 },
+      "abs": { "supported": true, "min": 0, "max": 5, "step": 1 }
+    },
+    "brakes": {
+      "brakeBias_frontPct": { "min": 0.0, "max": 100.0, "step": 0.05 },
+      "brakePressure_pct": { "min": 50, "max": 120, "step": 5 }
+    },
+    "gearbox": {
+      "mode": "index_only",
+      "modifiable": true
+    }
+  }
+}

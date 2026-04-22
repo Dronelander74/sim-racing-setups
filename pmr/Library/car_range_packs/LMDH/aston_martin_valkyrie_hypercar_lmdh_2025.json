@@ -1,0 +1,207 @@
+{
+  "schemaVersion": "1.0",
+  "simulator": "PMR",
+  "car": {
+    "displayName": "Aston Martin Valkyrie Hypercar",
+    "class": "LMDh",
+    "year": 2025,
+    "slug": "aston_martin_valkyrie_hypercar_lmdh_2025"
+  },
+  "source": {
+    "type": "in_game_ui",
+    "notes": "Ranges and steps captured directly from PMR in-game setup UI for Aston Martin Valkyrie Hypercar LMDh (2025). Hybrid regeneration settings are not available."
+  },
+  "uiConstraints": {
+    "front": {
+      "steeringStiffness_N_per_mm": {
+        "min": 250,
+        "max": 350,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità sterzo"
+      },
+      "slowBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
+      "slowRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
+      "fastBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
+      "fastRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+      "bumpstopSize_mm": {
+        "min": 0,
+        "max": 60,
+        "step": 5,
+        "unit": "mm",
+        "uiLabel": "Lunghezza fine corsa"
+      },
+      "bumpstopStiffness_N_per_mm": {
+        "min": 100,
+        "max": 900,
+        "step": 100,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità fine corsa"
+      },
+      "camber_deg": {
+        "min": -4.28,
+        "max": -0.28,
+        "step": 0.10,
+        "unit": "°",
+        "uiLabel": "Campanatura"
+      },
+      "toe_deg": {
+        "min": -0.50,
+        "max": 0.50,
+        "step": 0.05,
+        "unit": "°",
+        "uiLabel": "Convergenza"
+      },
+      "kpi_deg": {
+        "min": -3.0,
+        "max": 3.0,
+        "step": 0.05,
+        "unit": "°",
+        "uiLabel": "Scostamento dal perno"
+      },
+      "rideHeightAdjust_mm": {
+        "min": -30,
+        "max": 30,
+        "step": 1,
+        "unit": "mm",
+        "uiLabel": "Modifica l'altezza dal suolo"
+      }
+    },
+    "rear": {
+      "steeringStiffness_N_per_mm": {
+        "min": 250,
+        "max": 350,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità sterzo"
+      },
+      "slowBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
+      "slowRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
+      "fastBump_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
+      "fastRebound_click": { "min": 1, "max": 21, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+      "bumpstopSize_mm": {
+        "min": 0,
+        "max": 60,
+        "step": 5,
+        "unit": "mm",
+        "uiLabel": "Lunghezza fine corsa"
+      },
+      "bumpstopStiffness_N_per_mm": {
+        "min": 100,
+        "max": 900,
+        "step": 100,
+        "unit": "N/mm",
+        "uiLabel": "Tasso rigidità fine corsa"
+      },
+      "camber_deg": {
+        "min": -3.63,
+        "max": -0.13,
+        "step": 0.10,
+        "unit": "°",
+        "uiLabel": "Campanatura"
+      },
+      "toe_deg": {
+        "min": -0.50,
+        "max": 0.50,
+        "step": 0.05,
+        "unit": "°",
+        "uiLabel": "Convergenza"
+      },
+      "rideHeightAdjust_mm": {
+        "min": -30,
+        "max": 30,
+        "step": 1,
+        "unit": "mm",
+        "uiLabel": "Modifica l'altezza dal suolo"
+      }
+    },
+    "antiRollBars": {
+      "frontARB_N_per_mm": {
+        "min": 10,
+        "max": 200,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Barra stabilizzatrice anteriore"
+      },
+      "rearARB_N_per_mm": {
+        "min": 10,
+        "max": 200,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Barra stabilizzatrice posteriore"
+      }
+    },
+    "aero": {
+      "rearWingAngle_deg": {
+        "min": 0,
+        "max": 10,
+        "step": 0.5,
+        "unit": "°",
+        "uiLabel": "ALA POSTERIORE"
+      }
+    },
+    "differential": {
+      "preload_N": {
+        "min": 50,
+        "max": 300,
+        "step": 50,
+        "unit": "N",
+        "uiLabel": "Precarico"
+      },
+      "clutches": {
+        "min": 1,
+        "max": 12,
+        "step": 1,
+        "unit": "count",
+        "uiLabel": "Frizione"
+      },
+      "powerLockAngles_deg": {
+        "enum": [35, 45, 55, 65, 75, 85],
+        "unit": "°",
+        "uiLabel": "Bloccaggio in accelerazione"
+      },
+      "coastLockAngles_deg": {
+        "enum": [35, 45, 55, 65, 75, 85],
+        "unit": "°",
+        "uiLabel": "Bloccaggio in decelerazione"
+      }
+    },
+    "engineElectronics": {
+      "engineBrake": {
+        "supported": true,
+        "min": -1.0,
+        "max": 1.0,
+        "step": 0.01
+      },
+      "tc": {
+        "supported": true,
+        "min": 0,
+        "max": 10,
+        "step": 1
+      },
+      "abs": {
+        "supported": true,
+        "min": 0,
+        "max": 5,
+        "step": 1
+      }
+    },
+    "brakes": {
+      "brakeBias_frontPct": {
+        "min": 0.0,
+        "max": 100.0,
+        "step": 0.5
+      },
+      "brakePressure_pct": {
+        "min": 50,
+        "max": 120,
+        "step": 5
+      }
+    },
+    "gearbox": {
+      "mode": "index_only",
+      "modifiable": true,
+      "notes": "Final drive and gears 1–6 adjustable."
+    }
+  }
+}
