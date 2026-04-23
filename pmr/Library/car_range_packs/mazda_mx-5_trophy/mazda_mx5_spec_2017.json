@@ -13,7 +13,10 @@
   },
   "uiConstraints": {
     "front": {
-      "steeringStiffness_N_per_mm": "N/A",
+      "steeringStiffness_N_per_mm": {
+        "supported": false,
+        "uiLabel": "steeringStiffness_N_per_mm"
+      },
       "slowBump_click": {
         "min": 1,
         "max": 11,
@@ -179,7 +182,10 @@
       }
     },
     "rear": {
-      "steeringStiffness_N_per_mm": "N/A",
+      "steeringStiffness_N_per_mm": {
+        "supported": false,
+        "uiLabel": "steeringStiffness_N_per_mm"
+      },
       "slowBump_click": {
         "min": 1,
         "max": 11,
@@ -358,13 +364,28 @@
       }
     },
     "aero": {
-      "rearWingAngle_deg": "N/A"
+      "rearWingAngle_deg": {
+        "supported": false,
+        "uiLabel": "rearWingAngle_deg"
+      }
     },
     "differential": {
-      "preload_N": "N/A",
-      "clutches": "N/A",
-      "powerLockAngles_deg": "N/A",
-      "coastLockAngles_deg": "N/A"
+      "preload_N": {
+        "supported": false,
+        "uiLabel": "preload_N"
+      },
+      "clutches": {
+        "supported": false,
+        "uiLabel": "clutches"
+      },
+      "powerLockAngles_deg": {
+        "supported": false,
+        "uiLabel": "powerLockAngles_deg"
+      },
+      "coastLockAngles_deg": {
+        "supported": false,
+        "uiLabel": "coastLockAngles_deg"
+      }
     },
     "engineElectronics": {
       "engineBrake": {

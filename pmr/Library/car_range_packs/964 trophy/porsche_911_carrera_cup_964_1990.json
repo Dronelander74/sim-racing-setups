@@ -13,13 +13,34 @@
   },
   "uiConstraints": {
     "front": {
-      "steeringStiffness_N_per_mm": "N/A",
-      "slowBump_click": "N/A",
-      "slowRebound_click": "N/A",
-      "fastBump_click": "N/A",
-      "fastRebound_click": "N/A",
-      "bumpstopSize_mm": "N/A",
-      "bumpstopStiffness_N_per_mm": "N/A",
+      "steeringStiffness_N_per_mm": {
+        "supported": false,
+        "uiLabel": "steeringStiffness_N_per_mm"
+      },
+      "slowBump_click": {
+        "supported": false,
+        "uiLabel": "slowBump_click"
+      },
+      "slowRebound_click": {
+        "supported": false,
+        "uiLabel": "slowRebound_click"
+      },
+      "fastBump_click": {
+        "supported": false,
+        "uiLabel": "fastBump_click"
+      },
+      "fastRebound_click": {
+        "supported": false,
+        "uiLabel": "fastRebound_click"
+      },
+      "bumpstopSize_mm": {
+        "supported": false,
+        "uiLabel": "bumpstopSize_mm"
+      },
+      "bumpstopStiffness_N_per_mm": {
+        "supported": false,
+        "uiLabel": "bumpstopStiffness_N_per_mm"
+      },
       "camber_deg": {
         "min": -4.56,
         "max": -0.56,
@@ -89,13 +110,34 @@
       }
     },
     "rear": {
-      "steeringStiffness_N_per_mm": "N/A",
-      "slowBump_click": "N/A",
-      "slowRebound_click": "N/A",
-      "fastBump_click": "N/A",
-      "fastRebound_click": "N/A",
-      "bumpstopSize_mm": "N/A",
-      "bumpstopStiffness_N_per_mm": "N/A",
+      "steeringStiffness_N_per_mm": {
+        "supported": false,
+        "uiLabel": "steeringStiffness_N_per_mm"
+      },
+      "slowBump_click": {
+        "supported": false,
+        "uiLabel": "slowBump_click"
+      },
+      "slowRebound_click": {
+        "supported": false,
+        "uiLabel": "slowRebound_click"
+      },
+      "fastBump_click": {
+        "supported": false,
+        "uiLabel": "fastBump_click"
+      },
+      "fastRebound_click": {
+        "supported": false,
+        "uiLabel": "fastRebound_click"
+      },
+      "bumpstopSize_mm": {
+        "supported": false,
+        "uiLabel": "bumpstopSize_mm"
+      },
+      "bumpstopStiffness_N_per_mm": {
+        "supported": false,
+        "uiLabel": "bumpstopStiffness_N_per_mm"
+      },
       "camber_deg": {
         "min": -4.25,
         "max": -0.74,
@@ -179,13 +221,28 @@
       }
     },
     "aero": {
-      "rearWingAngle_deg": "N/A"
+      "rearWingAngle_deg": {
+        "supported": false,
+        "uiLabel": "rearWingAngle_deg"
+      }
     },
     "differential": {
-      "preload_N": "N/A",
-      "clutches": "N/A",
-      "powerLockAngles_deg": "N/A",
-      "coastLockAngles_deg": "N/A"
+      "preload_N": {
+        "supported": false,
+        "uiLabel": "preload_N"
+      },
+      "clutches": {
+        "supported": false,
+        "uiLabel": "clutches"
+      },
+      "powerLockAngles_deg": {
+        "supported": false,
+        "uiLabel": "powerLockAngles_deg"
+      },
+      "coastLockAngles_deg": {
+        "supported": false,
+        "uiLabel": "coastLockAngles_deg"
+      }
     },
     "engineElectronics": {
       "engineBrake": {

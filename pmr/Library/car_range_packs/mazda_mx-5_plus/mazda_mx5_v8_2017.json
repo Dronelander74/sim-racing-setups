@@ -13,7 +13,10 @@
   },
   "uiConstraints": {
     "front": {
-      "steeringStiffness_N_per_mm": "N/A",
+      "steeringStiffness_N_per_mm": {
+        "supported": false,
+        "uiLabel": "steeringStiffness_N_per_mm"
+      },
       "slowBump_click": {
         "min": 1,
         "max": 11,
@@ -177,7 +180,10 @@
       }
     },
     "rear": {
-      "steeringStiffness_N_per_mm": "N/A",
+      "steeringStiffness_N_per_mm": {
+        "supported": false,
+        "uiLabel": "steeringStiffness_N_per_mm"
+      },
       "slowBump_click": {
         "min": 1,
         "max": 11,
@@ -355,7 +361,10 @@
       }
     },
     "aero": {
-      "rearWingAngle_deg": "N/A"
+      "rearWingAngle_deg": {
+        "supported": false,
+        "uiLabel": "rearWingAngle_deg"
+      }
     },
     "differential": {
       "preload_N": {

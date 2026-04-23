@@ -391,13 +391,28 @@
       }
     },
     "aero": {
-      "rearWingAngle_deg": "N/A"
+      "rearWingAngle_deg": {
+        "supported": false,
+        "uiLabel": "rearWingAngle_deg"
+      }
     },
     "differential": {
-      "preload_N": "N/A",
-      "clutches": "N/A",
-      "powerLockAngles_deg": "N/A",
-      "coastLockAngles_deg": "N/A"
+      "preload_N": {
+        "supported": false,
+        "uiLabel": "preload_N"
+      },
+      "clutches": {
+        "supported": false,
+        "uiLabel": "clutches"
+      },
+      "powerLockAngles_deg": {
+        "supported": false,
+        "uiLabel": "powerLockAngles_deg"
+      },
+      "coastLockAngles_deg": {
+        "supported": false,
+        "uiLabel": "coastLockAngles_deg"
+      }
     },
     "engineElectronics": {
       "engineBrake": {
