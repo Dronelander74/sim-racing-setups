@@ -23,30 +23,69 @@
       "camber_deg": {
         "min": -4.56,
         "max": -0.56,
-        "step": 0.10,
+        "step": 0.1,
         "unit": "°",
-        "uiLabel": "Campanatura"
+        "uiLabel": "Camber",
+        "vsetParams": [
+          "FL-camber",
+          "FR-camber"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "deg"
+        }
       },
       "toe_deg": {
         "min": -0.48,
         "max": 0.52,
         "step": 0.05,
         "unit": "°",
-        "uiLabel": "Convergenza"
+        "uiLabel": "Toe",
+        "vsetParams": [
+          "FL-toe",
+          "FR-toe"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "deg"
+        }
       },
       "kpi_deg": {
         "min": -3.0,
         "max": 3.0,
         "step": 0.05,
         "unit": "°",
-        "uiLabel": "Scostamento dal perno"
+        "uiLabel": "Caster Offset",
+        "vsetParams": [
+          "FL-kpi-adjuster",
+          "FR-kpi-adjuster"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "deg"
+        },
+        "vsetParamCandidates": [
+          "kpi-adjuster",
+          "caster-adjuster",
+          "caster"
+        ]
       },
       "rideHeightAdjust_mm": {
         "min": -20,
         "max": 20,
         "step": 1,
         "unit": "mm",
-        "uiLabel": "Modifica l'altezza dal suolo"
+        "uiLabel": "Ride Height Adjust",
+        "vsetParams": [
+          "FL-spring-platform",
+          "FR-spring-platform"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 0.001,
+          "rawToUi": 1000.0,
+          "unitHint": "mm"
+        }
       }
     },
     "rear": {
@@ -60,23 +99,49 @@
       "camber_deg": {
         "min": -4.25,
         "max": -0.74,
-        "step": 0.10,
+        "step": 0.1,
         "unit": "°",
-        "uiLabel": "Campanatura"
+        "uiLabel": "Camber",
+        "vsetParams": [
+          "RL-camber",
+          "RR-camber"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "deg"
+        }
       },
       "toe_deg": {
         "min": -0.49,
         "max": 0.51,
         "step": 0.05,
         "unit": "°",
-        "uiLabel": "Convergenza"
+        "uiLabel": "Toe",
+        "vsetParams": [
+          "RL-toe",
+          "RR-toe"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "deg"
+        }
       },
       "rideHeightAdjust_mm": {
         "min": -20,
         "max": 20,
         "step": 1,
         "unit": "mm",
-        "uiLabel": "Modifica l'altezza dal suolo"
+        "uiLabel": "Ride Height Adjust",
+        "vsetParams": [
+          "RL-spring-platform",
+          "RR-spring-platform"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 0.001,
+          "rawToUi": 1000.0,
+          "unitHint": "mm"
+        }
       }
     },
     "antiRollBars": {
@@ -85,14 +150,32 @@
         "max": 30,
         "step": 1,
         "unit": "N/mm",
-        "uiLabel": "Barra stabilizzatrice anteriore"
+        "uiLabel": "Front Anti-Roll Bar",
+        "vsetParams": [
+          "F-antirollbar"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 1000.0,
+          "rawToUi": 0.001,
+          "unitHint": "N/mm"
+        }
       },
       "rearARB_N_per_mm": {
         "min": 0,
         "max": 10,
         "step": 1,
         "unit": "N/mm",
-        "uiLabel": "Barra stabilizzatrice posteriore"
+        "uiLabel": "Rear Anti-Roll Bar",
+        "vsetParams": [
+          "R-antirollbar"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 1000.0,
+          "rawToUi": 0.001,
+          "unitHint": "N/mm"
+        }
       }
     },
     "aero": {
@@ -105,14 +188,24 @@
       "coastLockAngles_deg": "N/A"
     },
     "engineElectronics": {
-      "engineBrake": { "supported": false, "uiLabel": "Freno motore" },
+      "engineBrake": {
+        "supported": false,
+        "uiLabel": "Engine Braking"
+      },
       "tc": {
         "supported": true,
         "min": 0,
         "max": 3,
         "step": 1,
         "unit": "level",
-        "uiLabel": "TC"
+        "uiLabel": "Traction Control",
+        "vsetParams": [
+          "tractionControl"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "level"
+        }
       },
       "abs": {
         "supported": true,
@@ -120,7 +213,14 @@
         "max": 3,
         "step": 1,
         "unit": "level",
-        "uiLabel": "ABS"
+        "uiLabel": "ABS",
+        "vsetParams": [
+          "abs"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "level"
+        }
       }
     },
     "brakes": {
@@ -129,14 +229,33 @@
         "max": 100.0,
         "step": 0.5,
         "unit": "%",
-        "uiLabel": "BIAS FRENI"
+        "uiLabel": "Brake Bias",
+        "vsetParams": [
+          "brake-bias"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 0.01,
+          "rawToUi": 100.0,
+          "unitHint": "%"
+        },
+        "formatHint": "frontPercent"
       },
       "brakePressure_pct": {
         "min": 50,
         "max": 120,
         "step": 5,
         "unit": "%",
-        "uiLabel": "PRESSIONE FRENI"
+        "uiLabel": "Brake Pressure",
+        "vsetParams": [
+          "brake-pressure"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 0.01,
+          "rawToUi": 100.0,
+          "unitHint": "%"
+        }
       }
     },
     "gearbox": {

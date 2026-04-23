@@ -18,54 +18,179 @@
         "max": 80,
         "step": 1,
         "unit": "N/mm",
-        "uiLabel": "Tasso rigidità sterzo"
+        "uiLabel": "Spring Rate",
+        "vsetParams": [
+          "FL-spring-rate",
+          "FR-spring-rate"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 1000.0,
+          "rawToUi": 0.001,
+          "unitHint": "N/mm"
+        }
       },
-      "slowBump_click": { "min": 1, "max": 9, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
-      "slowRebound_click": { "min": 1, "max": 9, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
-      "fastBump_click": { "min": 1, "max": 9, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
-      "fastRebound_click": { "min": 1, "max": 9, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+      "slowBump_click": {
+        "min": 1,
+        "max": 9,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Slow Bump",
+        "vsetParams": [
+          "FL-slow-bump",
+          "FR-slow-bump"
+        ],
+        "transform": {
+          "type": "calibration_required",
+          "note": "Damper click mapping differs per class/car. Provide calibration mapping."
+        }
+      },
+      "slowRebound_click": {
+        "min": 1,
+        "max": 9,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Slow Rebound",
+        "vsetParams": [
+          "FL-slow-rebound",
+          "FR-slow-rebound"
+        ],
+        "transform": {
+          "type": "calibration_required",
+          "note": "Damper click mapping differs per class/car. Provide calibration mapping."
+        }
+      },
+      "fastBump_click": {
+        "min": 1,
+        "max": 9,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Fast Bump",
+        "vsetParams": [
+          "FL-fast-bump",
+          "FR-fast-bump"
+        ],
+        "transform": {
+          "type": "calibration_required",
+          "note": "Damper click mapping differs per class/car. Provide calibration mapping."
+        }
+      },
+      "fastRebound_click": {
+        "min": 1,
+        "max": 9,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Fast Rebound",
+        "vsetParams": [
+          "FL-fast-rebound",
+          "FR-fast-rebound"
+        ],
+        "transform": {
+          "type": "calibration_required",
+          "note": "Damper click mapping differs per class/car. Provide calibration mapping."
+        }
+      },
       "bumpstopSize_mm": {
         "min": 0,
         "max": 15,
         "step": 5,
         "unit": "mm",
-        "uiLabel": "Lunghezza fine corsa"
+        "uiLabel": "Bump Stop Length",
+        "vsetParams": [
+          "FL-bumpstop-size",
+          "FR-bumpstop-size"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 0.001,
+          "rawToUi": 1000.0,
+          "unitHint": "mm"
+        }
       },
       "bumpstopStiffness_N_per_mm": {
         "min": 100,
         "max": 900,
         "step": 100,
         "unit": "N/mm",
-        "uiLabel": "Tasso rigidità fine corsa"
+        "uiLabel": "Bump Stop Spring Rate",
+        "vsetParams": [
+          "FL-bumpstop-stiffness",
+          "FR-bumpstop-stiffness"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 1000.0,
+          "rawToUi": 0.001,
+          "unitHint": "N/mm"
+        }
       },
       "camber_deg": {
         "min": 1.61,
         "max": 1.61,
-        "step": 0.10,
+        "step": 0.1,
         "unit": "°",
-        "uiLabel": "Campanatura",
-        "notes": "Fixed value in UI"
+        "uiLabel": "Camber",
+        "notes": "Fixed value in UI",
+        "vsetParams": [
+          "FL-camber",
+          "FR-camber"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "deg"
+        }
       },
       "toe_deg": {
         "min": -7.33,
         "max": 6.33,
         "step": 0.05,
         "unit": "°",
-        "uiLabel": "Convergenza"
+        "uiLabel": "Toe",
+        "vsetParams": [
+          "FL-toe",
+          "FR-toe"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "deg"
+        }
       },
       "kpi_deg": {
         "min": -3.0,
         "max": 3.0,
         "step": 0.05,
         "unit": "°",
-        "uiLabel": "Scostamento dal perno"
+        "uiLabel": "Caster Offset",
+        "vsetParams": [
+          "FL-kpi-adjuster",
+          "FR-kpi-adjuster"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "deg"
+        },
+        "vsetParamCandidates": [
+          "kpi-adjuster",
+          "caster-adjuster",
+          "caster"
+        ]
       },
       "rideHeightAdjust_mm": {
         "min": 90,
         "max": 108,
         "step": 1,
         "unit": "mm",
-        "uiLabel": "Modifica l'altezza dal suolo"
+        "uiLabel": "Ride Height Adjust",
+        "vsetParams": [
+          "FL-spring-platform",
+          "FR-spring-platform"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 0.001,
+          "rawToUi": 1000.0,
+          "unitHint": "mm"
+        }
       }
     },
     "rear": {
@@ -74,49 +199,161 @@
         "max": 20,
         "step": 1,
         "unit": "N/mm",
-        "uiLabel": "Tasso rigidità sterzo"
+        "uiLabel": "Spring Rate",
+        "vsetParams": [
+          "RL-spring-rate",
+          "RR-spring-rate"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 1000.0,
+          "rawToUi": 0.001,
+          "unitHint": "N/mm"
+        }
       },
-      "slowBump_click": { "min": 1, "max": 8, "step": 1, "unit": "click", "uiLabel": "Sobbalzo lento" },
-      "slowRebound_click": { "min": 1, "max": 8, "step": 1, "unit": "click", "uiLabel": "Ritorno lento" },
-      "fastBump_click": { "min": 1, "max": 8, "step": 1, "unit": "click", "uiLabel": "Sobbalzo rapido" },
-      "fastRebound_click": { "min": 1, "max": 8, "step": 1, "unit": "click", "uiLabel": "Ritorno rapido" },
+      "slowBump_click": {
+        "min": 1,
+        "max": 8,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Slow Bump",
+        "vsetParams": [
+          "RL-slow-bump",
+          "RR-slow-bump"
+        ],
+        "transform": {
+          "type": "calibration_required",
+          "note": "Damper click mapping differs per class/car. Provide calibration mapping."
+        }
+      },
+      "slowRebound_click": {
+        "min": 1,
+        "max": 8,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Slow Rebound",
+        "vsetParams": [
+          "RL-slow-rebound",
+          "RR-slow-rebound"
+        ],
+        "transform": {
+          "type": "calibration_required",
+          "note": "Damper click mapping differs per class/car. Provide calibration mapping."
+        }
+      },
+      "fastBump_click": {
+        "min": 1,
+        "max": 8,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Fast Bump",
+        "vsetParams": [
+          "RL-fast-bump",
+          "RR-fast-bump"
+        ],
+        "transform": {
+          "type": "calibration_required",
+          "note": "Damper click mapping differs per class/car. Provide calibration mapping."
+        }
+      },
+      "fastRebound_click": {
+        "min": 1,
+        "max": 8,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Fast Rebound",
+        "vsetParams": [
+          "RL-fast-rebound",
+          "RR-fast-rebound"
+        ],
+        "transform": {
+          "type": "calibration_required",
+          "note": "Damper click mapping differs per class/car. Provide calibration mapping."
+        }
+      },
       "bumpstopSize_mm": {
         "min": 0,
         "max": 15,
         "step": 5,
         "unit": "mm",
-        "uiLabel": "Lunghezza fine corsa"
+        "uiLabel": "Bump Stop Length",
+        "vsetParams": [
+          "RL-bumpstop-size",
+          "RR-bumpstop-size"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 0.001,
+          "rawToUi": 1000.0,
+          "unitHint": "mm"
+        }
       },
       "bumpstopStiffness_N_per_mm": {
         "min": 100,
         "max": 100,
         "step": 100,
         "unit": "N/mm",
-        "uiLabel": "Tasso rigidità fine corsa",
-        "notes": "Fixed value in UI"
+        "uiLabel": "Bump Stop Spring Rate",
+        "notes": "Fixed value in UI",
+        "vsetParams": [
+          "RL-bumpstop-stiffness",
+          "RR-bumpstop-stiffness"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 1000.0,
+          "rawToUi": 0.001,
+          "unitHint": "N/mm"
+        }
       },
       "camber_deg": {
         "min": 0.13,
         "max": 0.13,
-        "step": 0.10,
+        "step": 0.1,
         "unit": "°",
-        "uiLabel": "Campanatura",
-        "notes": "Fixed value in UI"
+        "uiLabel": "Camber",
+        "notes": "Fixed value in UI",
+        "vsetParams": [
+          "RL-camber",
+          "RR-camber"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "deg"
+        }
       },
       "toe_deg": {
         "min": 0.01,
         "max": 0.01,
         "step": 0.05,
         "unit": "°",
-        "uiLabel": "Convergenza",
-        "notes": "Fixed value in UI"
+        "uiLabel": "Toe",
+        "notes": "Fixed value in UI",
+        "vsetParams": [
+          "RL-toe",
+          "RR-toe"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "deg"
+        }
       },
       "rideHeightAdjust_mm": {
         "min": 100,
         "max": 120,
         "step": 1,
         "unit": "mm",
-        "uiLabel": "Modifica l'altezza dal suolo"
+        "uiLabel": "Ride Height Adjust",
+        "vsetParams": [
+          "RL-spring-platform",
+          "RR-spring-platform"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 0.001,
+          "rawToUi": 1000.0,
+          "unitHint": "mm"
+        }
       }
     },
     "antiRollBars": {
@@ -125,14 +362,32 @@
         "max": 30,
         "step": 1,
         "unit": "N/mm",
-        "uiLabel": "Barra stabilizzatrice anteriore"
+        "uiLabel": "Front Anti-Roll Bar",
+        "vsetParams": [
+          "F-antirollbar"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 1000.0,
+          "rawToUi": 0.001,
+          "unitHint": "N/mm"
+        }
       },
       "rearARB_N_per_mm": {
         "min": 0,
         "max": 10,
         "step": 1,
         "unit": "N/mm",
-        "uiLabel": "Barra stabilizzatrice posteriore"
+        "uiLabel": "Rear Anti-Roll Bar",
+        "vsetParams": [
+          "R-antirollbar"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 1000.0,
+          "rawToUi": 0.001,
+          "unitHint": "N/mm"
+        }
       }
     },
     "aero": {
@@ -145,13 +400,75 @@
       "coastLockAngles_deg": "N/A"
     },
     "engineElectronics": {
-      "engineBrake": { "supported": false, "uiLabel": "Freno motore" },
-      "tc": { "supported": true, "min": 0, "max": 5, "step": 1, "unit": "level", "uiLabel": "TC" },
-      "abs": { "supported": true, "min": 0, "max": 5, "step": 1, "unit": "level", "uiLabel": "ABS" }
+      "engineBrake": {
+        "supported": false,
+        "uiLabel": "Engine Braking"
+      },
+      "tc": {
+        "supported": true,
+        "min": 0,
+        "max": 5,
+        "step": 1,
+        "unit": "level",
+        "uiLabel": "Traction Control",
+        "vsetParams": [
+          "tractionControl"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "level"
+        }
+      },
+      "abs": {
+        "supported": true,
+        "min": 0,
+        "max": 5,
+        "step": 1,
+        "unit": "level",
+        "uiLabel": "ABS",
+        "vsetParams": [
+          "abs"
+        ],
+        "transform": {
+          "type": "identity",
+          "unitHint": "level"
+        }
+      }
     },
     "brakes": {
-      "brakeBias_frontPct": { "min": 0.0, "max": 100.0, "step": 0.5, "unit": "%", "uiLabel": "BIAS FRENI" },
-      "brakePressure_pct": { "min": 50, "max": 120, "step": 5, "unit": "%", "uiLabel": "PRESSIONE FRENI" }
+      "brakeBias_frontPct": {
+        "min": 0.0,
+        "max": 100.0,
+        "step": 0.5,
+        "unit": "%",
+        "uiLabel": "Brake Bias",
+        "vsetParams": [
+          "brake-bias"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 0.01,
+          "rawToUi": 100.0,
+          "unitHint": "%"
+        },
+        "formatHint": "frontPercent"
+      },
+      "brakePressure_pct": {
+        "min": 50,
+        "max": 120,
+        "step": 5,
+        "unit": "%",
+        "uiLabel": "Brake Pressure",
+        "vsetParams": [
+          "brake-pressure"
+        ],
+        "transform": {
+          "type": "scale",
+          "uiToRaw": 0.01,
+          "rawToUi": 100.0,
+          "unitHint": "%"
+        }
+      }
     },
     "gearbox": {
       "mode": "index_only",
