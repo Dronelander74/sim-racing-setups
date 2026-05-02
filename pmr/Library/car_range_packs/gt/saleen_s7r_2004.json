@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "1.0",
+  "simulator": "PMR",
+  "car": {
+    "displayName": "SALEEN S7-R",
+    "class": "GT",
+    "year": 2004,
+    "slug": "saleen_s7r_2004"
+  },
+  "source": {
+    "type": "in_game_ui",
+    "notes": "Ranges/steps captured from PMR in-game setup UI (GT). Damper click parameters remain visible for UI but require calibration for VSET export."
+  },
+  "uiConstraints": {
+    "front": {
+      "steeringStiffness_N_per_mm": {
+        "min": 150,
+        "max": 300,
+        "step": 10,
+        "unit": "N/mm",
+        "uiLabel": "Spring Rate",
+        "vsetParams": ["FL-spring-rate", "FR-spring-rate"],
+        "transform": { "type": "scale", "uiToRaw": 1000.0, "rawToUi": 0.001, "unitHint": "N/mm" }
+      },
+      "slowBump_click": {
+        "min": 1,
+        "max": 7,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Slow Bump",
+        "vsetParams": ["FL-slow-bump", "FR-slow-bump"],
+        "transform": { "type": "calibration_required", "note": "Keep click values for UI; block VSET export until click→raw mapping is calibrated." }
+      },
+      "slowRebound_click": {
+        "min": 1,
+        "max": 6,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Slow Rebound",
+        "vsetParams": ["FL-slow-rebound", "FR-slow-rebound"],
+        "transform": { "type": "calibration_required", "note": "Keep click values for UI; block VSET export until click→raw mapping is calibrated." }
+      },
+      "fastBump_click": {
+        "min": 1,
+        "max": 5,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Fast Bump",
+        "vsetParams": ["FL-fast-bump", "FR-fast-bump"],
+        "transform": { "type": "calibration_required", "note": "Keep click values for UI; block VSET export until click→raw mapping is calibrated." }
+      },
+      "fastRebound_click": {
+        "min": 1,
+        "max": 9,
+        "step": 1,
+        "unit": "click",
+        "uiLabel": "Fast Rebound",
+        "vsetParams": ["FL-fast-rebound", "FR-fast-rebound"],
+        "transform": { "type": "calibration_required", "note": "Keep click values for UI; block VSET export until click→raw mapping is calibrated." }
+      },
+      "bumpstopSize_mm": {
+        "min": 0,
+        "max": 30,
+        "step": 5,
+        "unit": "mm",
+        "uiLabel": "Bump Stop Length",
+        "vsetParams": ["FL-bumpstop-size", "FR-bumpstop-size"],
+        "transform": { "type": "scale", "uiToRaw": 0.001, "rawToUi": 1000.0, "unitHint": "mm" }
+      },
+      "bumpstopStiffness_N_per_mm": {
+        "min": 100,
+        "max": 900,
+        "step": 100,
+        "unit": "N/mm",
+        "uiLabel": "Bump Stop Spring Rate",
+        "vsetParams": ["FL-bumpstop-stiffness", "FR-bumpstop-stiffness"],
+        "transform": { "type": "scale", "uiToRaw": 1000.0, "rawToUi": 0.001, "unitHint": "N/mm" }
+      },
+      "camber_deg": {
+        "min": -2.49,
+        "max": -1.49,
+        "step": 0.10,
+        "unit": "°",
+        "uiLabel": "Camber",
+        "vsetParams": ["FL-camber", "FR-camber"],
+        "transform": { "type": "identity", "unitHint": "deg" }
+      },
+      "toe_deg": {
+        "min": -0.19,
+        "max": 0.21,
+        "step": 0.05,
+        "unit": "°",
+        "uiLabel": "Toe",
+        "vsetParams": ["FL-toe", "FR-toe"],
+        "transform": { "type": "identity", "unitHint": "deg" }
+      },
+      "kpi_deg": {
+        "min": -3.0,
+        "max": 3.0,
+        "step": 0.05,
+        "unit": "°",
