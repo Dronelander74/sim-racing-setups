@@ -1,0 +1,1000 @@
+{
+  "schemaVersion": "acc-car-parameter-values-v1",
+  "car": "mercedes_amg_gt2",
+  "condition": "dry",
+  "deduplication": "by setup block; psi excluded",
+  "exclusions": [
+    "tyres.*.psi"
+  ],
+  "parameterCount": 54,
+  "parameters": [
+    {
+      "path": "aero.front.brake ducts",
+      "type": "int",
+      "min": 3.0,
+      "max": 6.0,
+      "distinctCount": 4,
+      "values": [
+        3.0,
+        4.0,
+        5.0,
+        6.0
+      ],
+      "sampleCounts": {
+        "5": 25,
+        "6": 23,
+        "3": 18,
+        "4": 10
+      }
+    },
+    {
+      "path": "aero.front.ride height",
+      "type": "int",
+      "min": 122.0,
+      "max": 122.0,
+      "distinctCount": 1,
+      "values": [
+        122.0
+      ],
+      "sampleCounts": {
+        "122": 76
+      }
+    },
+    {
+      "path": "aero.front.splitter",
+      "type": "int",
+      "min": 0.0,
+      "max": 0.0,
+      "distinctCount": 1,
+      "values": [
+        0.0
+      ],
+      "sampleCounts": {
+        "0": 76
+      }
+    },
+    {
+      "path": "aero.rear.brake ducts",
+      "type": "int",
+      "min": 3.0,
+      "max": 6.0,
+      "distinctCount": 4,
+      "values": [
+        3.0,
+        4.0,
+        5.0,
+        6.0
+      ],
+      "sampleCounts": {
+        "6": 56,
+        "4": 14,
+        "5": 5,
+        "3": 1
+      }
+    },
+    {
+      "path": "aero.rear.rear wing",
+      "type": "int",
+      "min": 5.0,
+      "max": 8.0,
+      "distinctCount": 4,
+      "values": [
+        5.0,
+        6.0,
+        7.0,
+        8.0
+      ],
+      "sampleCounts": {
+        "8": 67,
+        "6": 4,
+        "5": 3,
+        "7": 2
+      }
+    },
+    {
+      "path": "aero.rear.ride height",
+      "type": "int",
+      "min": 140.0,
+      "max": 150.0,
+      "distinctCount": 10,
+      "values": [
+        140.0,
+        141.0,
+        142.0,
+        143.0,
+        144.0,
+        145.0,
+        146.0,
+        147.0,
+        148.0,
+        150.0
+      ],
+      "sampleCounts": {
+        "140": 28,
+        "143": 14,
+        "144": 10,
+        "142": 7,
+        "146": 5,
+        "145": 5,
+        "147": 3,
+        "148": 2,
+        "150": 1,
+        "141": 1
+      }
+    },
+    {
+      "path": "dampers.left front.bump",
+      "type": "int",
+      "min": 0.0,
+      "max": 10.0,
+      "distinctCount": 8,
+      "values": [
+        0.0,
+        2.0,
+        3.0,
+        4.0,
+        5.0,
+        6.0,
+        8.0,
+        10.0
+      ],
+      "sampleCounts": {
+        "0": 43,
+        "8": 8,
+        "6": 6,
+        "10": 6,
+        "4": 5,
+        "3": 3,
+        "2": 3,
+        "5": 2
+      }
+    },
+    {
+      "path": "dampers.left front.fast bump",
+      "type": "int",
+      "min": 0.0,
+      "max": 0.0,
+      "distinctCount": 1,
+      "values": [
+        0.0
+      ],
+      "sampleCounts": {
+        "0": 76
+      }
+    },
+    {
+      "path": "dampers.left front.fast rebound",
+      "type": "int",
+      "min": 0.0,
+      "max": 24.0,
+      "distinctCount": 2,
+      "values": [
+        0.0,
+        24.0
+      ],
+      "sampleCounts": {
+        "24": 46,
+        "0": 30
+      }
+    },
+    {
+      "path": "dampers.left front.rebound",
+      "type": "int",
+      "min": 0.0,
+      "max": 24.0,
+      "distinctCount": 5,
+      "values": [
+        0.0,
+        18.0,
+        20.0,
+        22.0,
+        24.0
+      ],
+      "sampleCounts": {
+        "24": 36,
+        "0": 30,
+        "20": 6,
+        "18": 3,
+        "22": 1
+      }
+    },
+    {
+      "path": "dampers.left rear.bump",
+      "type": "int",
+      "min": 0.0,
+      "max": 9.0,
+      "distinctCount": 7,
+      "values": [
+        0.0,
+        1.0,
+        3.0,
+        4.0,
+        5.0,
+        8.0,
+        9.0
+      ],
+      "sampleCounts": {
+        "0": 44,
+        "8": 20,
+        "5": 8,
+        "9": 1,
+        "4": 1,
+        "1": 1,
+        "3": 1
+      }
+    },
+    {
+      "path": "dampers.left rear.fast bump",
+      "type": "int",
+      "min": 0.0,
+      "max": 0.0,
+      "distinctCount": 1,
+      "values": [
+        0.0
+      ],
+      "sampleCounts": {
+        "0": 76
+      }
+    },
+    {
+      "path": "dampers.left rear.fast rebound",
+      "type": "int",
+      "min": 0.0,
+      "max": 24.0,
+      "distinctCount": 2,
+      "values": [
+        0.0,
+        24.0
+      ],
+      "sampleCounts": {
+        "24": 46,
+        "0": 30
+      }
+    },
+    {
+      "path": "dampers.left rear.rebound",
+      "type": "int",
+      "min": 0.0,
+      "max": 24.0,
+      "distinctCount": 5,
+      "values": [
+        0.0,
+        12.0,
+        15.0,
+        17.0,
+        24.0
+      ],
+      "sampleCounts": {
+        "24": 43,
+        "0": 30,
+        "12": 1,
+        "15": 1,
+        "17": 1
+      }
+    },
+    {
+      "path": "dampers.right front.bump",
+      "type": "int",
+      "min": 0.0,
+      "max": 10.0,
+      "distinctCount": 8,
+      "values": [
+        0.0,
+        2.0,
+        3.0,
+        4.0,
+        5.0,
+        6.0,
+        8.0,
+        10.0
+      ],
+      "sampleCounts": {
+        "0": 43,
+        "8": 8,
+        "6": 6,
+        "10": 6,
+        "4": 5,
+        "3": 3,
+        "2": 3,
+        "5": 2
+      }
+    },
+    {
+      "path": "dampers.right front.fast bump",
+      "type": "int",
+      "min": 0.0,
+      "max": 0.0,
+      "distinctCount": 1,
+      "values": [
+        0.0
+      ],
+      "sampleCounts": {
+        "0": 76
+      }
+    },
+    {
+      "path": "dampers.right front.fast rebound",
+      "type": "int",
+      "min": 0.0,
+      "max": 24.0,
+      "distinctCount": 2,
+      "values": [
+        0.0,
+        24.0
+      ],
+      "sampleCounts": {
+        "24": 46,
+        "0": 30
+      }
+    },
+    {
+      "path": "dampers.right front.rebound",
+      "type": "int",
+      "min": 0.0,
+      "max": 24.0,
+      "distinctCount": 5,
+      "values": [
+        0.0,
+        18.0,
+        20.0,
+        22.0,
+        24.0
+      ],
+      "sampleCounts": {
+        "24": 36,
+        "0": 30,
+        "20": 6,
+        "18": 3,
+        "22": 1
+      }
+    },
+    {
+      "path": "dampers.right rear.bump",
+      "type": "int",
+      "min": 0.0,
+      "max": 9.0,
+      "distinctCount": 7,
+      "values": [
+        0.0,
+        1.0,
+        3.0,
+        4.0,
+        5.0,
+        8.0,
+        9.0
+      ],
+      "sampleCounts": {
+        "0": 44,
+        "8": 20,
+        "5": 8,
+        "9": 1,
+        "4": 1,
+        "1": 1,
+        "3": 1
+      }
+    },
+    {
+      "path": "dampers.right rear.fast bump",
+      "type": "int",
+      "min": 0.0,
+      "max": 0.0,
+      "distinctCount": 1,
+      "values": [
+        0.0
+      ],
+      "sampleCounts": {
+        "0": 76
+      }
+    },
+    {
+      "path": "dampers.right rear.fast rebound",
+      "type": "int",
+      "min": 0.0,
+      "max": 24.0,
+      "distinctCount": 2,
+      "values": [
+        0.0,
+        24.0
+      ],
+      "sampleCounts": {
+        "24": 46,
+        "0": 30
+      }
+    },
+    {
+      "path": "dampers.right rear.rebound",
+      "type": "int",
+      "min": 0.0,
+      "max": 24.0,
+      "distinctCount": 5,
+      "values": [
+        0.0,
+        12.0,
+        15.0,
+        17.0,
+        24.0
+      ],
+      "sampleCounts": {
+        "24": 43,
+        "0": 30,
+        "12": 1,
+        "15": 1,
+        "17": 1
+      }
+    },
+    {
+      "path": "electronics.electronic elements.abs",
+      "type": "int",
+      "min": 1.0,
+      "max": 3.0,
+      "distinctCount": 3,
+      "values": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "sampleCounts": {
+        "2": 64,
+        "1": 10,
+        "3": 2
+      }
+    },
+    {
+      "path": "electronics.electronic elements.ecu map",
+      "type": "int",
+      "min": 1.0,
+      "max": 1.0,
+      "distinctCount": 1,
+      "values": [
+        1.0
+      ],
+      "sampleCounts": {
+        "1": 76
+      }
+    },
+    {
+      "path": "electronics.electronic elements.tc",
+      "type": "int",
+      "min": 0.0,
+      "max": 1.0,
+      "distinctCount": 2,
+      "values": [
+        0.0,
+        1.0
+      ],
+      "sampleCounts": {
+        "0": 42,
+        "1": 34
+      }
+    },
+    {
+      "path": "electronics.electronic elements.tc2",
+      "type": "int",
+      "min": 0.0,
+      "max": 0.0,
+      "distinctCount": 1,
+      "values": [
+        0.0
+      ],
+      "sampleCounts": {
+        "0": 76
+      }
+    },
+    {
+      "path": "mechanical grip.front.antiroll bar",
+      "type": "int",
+      "min": 0.0,
+      "max": 2.0,
+      "distinctCount": 3,
+      "values": [
+        0.0,
+        1.0,
+        2.0
+      ],
+      "sampleCounts": {
+        "2": 39,
+        "0": 21,
+        "1": 16
+      }
+    },
+    {
+      "path": "mechanical grip.front.brake bias",
+      "type": "number",
+      "min": 55.0,
+      "max": 59.2,
+      "distinctCount": 10,
+      "values": [
+        55.0,
+        55.9,
+        56.2,
+        56.5,
+        56.8,
+        57.1,
+        57.4,
+        58.0,
+        58.6,
+        59.2
+      ],
+      "sampleCounts": {
+        "56.8": 19,
+        "55.0": 13,
+        "56.2": 11,
+        "58.0": 10,
+        "57.1": 8,
+        "58.6": 4,
+        "57.4": 4,
+        "55.9": 3,
+        "56.5": 2,
+        "59.2": 2
+      }
+    },
+    {
+      "path": "mechanical grip.front.brake power",
+      "type": "int",
+      "min": 100.0,
+      "max": 100.0,
+      "distinctCount": 1,
+      "values": [
+        100.0
+      ],
+      "sampleCounts": {
+        "100": 76
+      }
+    },
+    {
+      "path": "mechanical grip.front.steer ratio",
+      "type": "int",
+      "min": 12.0,
+      "max": 15.0,
+      "distinctCount": 4,
+      "values": [
+        12.0,
+        13.0,
+        14.0,
+        15.0
+      ],
+      "sampleCounts": {
+        "13": 33,
+        "15": 21,
+        "14": 16,
+        "12": 6
+      }
+    },
+    {
+      "path": "mechanical grip.left front.bumpstop range",
+      "type": "int",
+      "min": 0.0,
+      "max": 0.0,
+      "distinctCount": 1,
+      "values": [
+        0.0
+      ],
+      "sampleCounts": {
+        "0": 76
+      }
+    },
+    {
+      "path": "mechanical grip.left front.bumpstop rate",
+      "type": "int",
+      "min": 1000.0,
+      "max": 1000.0,
+      "distinctCount": 1,
+      "values": [
+        1000.0
+      ],
+      "sampleCounts": {
+        "1000": 76
+      }
+    },
+    {
+      "path": "mechanical grip.left front.wheel rate",
+      "type": "int",
+      "min": 78000.0,
+      "max": 104000.0,
+      "distinctCount": 2,
+      "values": [
+        78000.0,
+        104000.0
+      ],
+      "sampleCounts": {
+        "78000": 73,
+        "104000": 3
+      }
+    },
+    {
+      "path": "mechanical grip.left rear.bumpstop range",
+      "type": "int",
+      "min": 0.0,
+      "max": 0.0,
+      "distinctCount": 1,
+      "values": [
+        0.0
+      ],
+      "sampleCounts": {
+        "0": 76
+      }
+    },
+    {
+      "path": "mechanical grip.left rear.bumpstop rate",
+      "type": "int",
+      "min": 1000.0,
+      "max": 1000.0,
+      "distinctCount": 1,
+      "values": [
+        1000.0
+      ],
+      "sampleCounts": {
+        "1000": 76
+      }
+    },
+    {
+      "path": "mechanical grip.left rear.wheel rate",
+      "type": "int",
+      "min": 66000.0,
+      "max": 86000.0,
+      "distinctCount": 3,
+      "values": [
+        66000.0,
+        76000.0,
+        86000.0
+      ],
+      "sampleCounts": {
+        "86000": 48,
+        "76000": 21,
+        "66000": 7
+      }
+    },
+    {
+      "path": "mechanical grip.rear.antiroll bar",
+      "type": "int",
+      "min": 0.0,
+      "max": 2.0,
+      "distinctCount": 3,
+      "values": [
+        0.0,
+        1.0,
+        2.0
+      ],
+      "sampleCounts": {
+        "2": 31,
+        "0": 25,
+        "1": 20
+      }
+    },
+    {
+      "path": "mechanical grip.rear.preload differential",
+      "type": "int",
+      "min": 10.0,
+      "max": 80.0,
+      "distinctCount": 7,
+      "values": [
+        10.0,
+        20.0,
+        30.0,
+        40.0,
+        50.0,
+        60.0,
+        80.0
+      ],
+      "sampleCounts": {
+        "10": 40,
+        "30": 9,
+        "40": 8,
+        "50": 6,
+        "80": 6,
+        "60": 6,
+        "20": 1
+      }
+    },
+    {
+      "path": "mechanical grip.right front.bumpstop range",
+      "type": "int",
+      "min": 0.0,
+      "max": 0.0,
+      "distinctCount": 1,
+      "values": [
+        0.0
+      ],
+      "sampleCounts": {
+        "0": 76
+      }
+    },
+    {
+      "path": "mechanical grip.right front.bumpstop rate",
+      "type": "int",
+      "min": 1000.0,
+      "max": 1000.0,
+      "distinctCount": 1,
+      "values": [
+        1000.0
+      ],
+      "sampleCounts": {
+        "1000": 76
+      }
+    },
+    {
+      "path": "mechanical grip.right front.wheel rate",
+      "type": "int",
+      "min": 78000.0,
+      "max": 104000.0,
+      "distinctCount": 2,
+      "values": [
+        78000.0,
+        104000.0
+      ],
+      "sampleCounts": {
+        "78000": 73,
+        "104000": 3
+      }
+    },
+    {
+      "path": "mechanical grip.right rear.bumpstop range",
+      "type": "int",
+      "min": 0.0,
+      "max": 0.0,
+      "distinctCount": 1,
+      "values": [
+        0.0
+      ],
+      "sampleCounts": {
+        "0": 76
+      }
+    },
+    {
+      "path": "mechanical grip.right rear.bumpstop rate",
+      "type": "int",
+      "min": 1000.0,
+      "max": 1000.0,
+      "distinctCount": 1,
+      "values": [
+        1000.0
+      ],
+      "sampleCounts": {
+        "1000": 76
+      }
+    },
+    {
+      "path": "mechanical grip.right rear.wheel rate",
+      "type": "int",
+      "min": 66000.0,
+      "max": 86000.0,
+      "distinctCount": 3,
+      "values": [
+        66000.0,
+        76000.0,
+        86000.0
+      ],
+      "sampleCounts": {
+        "86000": 48,
+        "76000": 21,
+        "66000": 7
+      }
+    },
+    {
+      "path": "tyres.left front.camber",
+      "type": "number",
+      "min": -3.5,
+      "max": -3.5,
+      "distinctCount": 1,
+      "values": [
+        -3.5
+      ],
+      "sampleCounts": {
+        "-3.5": 76
+      }
+    },
+    {
+      "path": "tyres.left front.caster",
+      "type": "number",
+      "min": 13.6,
+      "max": 16.4,
+      "distinctCount": 11,
+      "values": [
+        13.6,
+        13.7,
+        13.9,
+        14.1,
+        14.3,
+        14.5,
+        14.8,
+        15.0,
+        15.4,
+        15.9,
+        16.4
+      ],
+      "sampleCounts": {
+        "14.1": 20,
+        "16.4": 16,
+        "15.0": 10,
+        "15.4": 9,
+        "14.8": 5,
+        "14.5": 5,
+        "14.3": 4,
+        "15.9": 3,
+        "13.7": 2,
+        "13.9": 1,
+        "13.6": 1
+      }
+    },
+    {
+      "path": "tyres.left front.toe",
+      "type": "number",
+      "min": -0.2,
+      "max": -0.15,
+      "distinctCount": 2,
+      "values": [
+        -0.2,
+        -0.15
+      ],
+      "sampleCounts": {
+        "-0.2": 75,
+        "-0.15": 1
+      }
+    },
+    {
+      "path": "tyres.left rear.camber",
+      "type": "int",
+      "min": -3.0,
+      "max": -3.0,
+      "distinctCount": 1,
+      "values": [
+        -3.0
+      ],
+      "sampleCounts": {
+        "-3": 76
+      }
+    },
+    {
+      "path": "tyres.left rear.toe",
+      "type": "number",
+      "min": 0.0,
+      "max": 0.31,
+      "distinctCount": 14,
+      "values": [
+        0.0,
+        0.01,
+        0.02,
+        0.03,
+        0.04,
+        0.05,
+        0.06,
+        0.07,
+        0.08,
+        0.09,
+        0.12,
+        0.15,
+        0.17,
+        0.31
+      ],
+      "sampleCounts": {
+        "0.0": 18,
+        "0.05": 11,
+        "0.04": 9,
+        "0.03": 7,
+        "0.31": 6,
+        "0.06": 6,
+        "0.15": 5,
+        "0.02": 4,
+        "0.01": 4,
+        "0.08": 2,
+        "0.17": 1,
+        "0.09": 1,
+        "0.12": 1,
+        "0.07": 1
+      }
+    },
+    {
+      "path": "tyres.right front.camber",
+      "type": "number",
+      "min": -3.5,
+      "max": -3.5,
+      "distinctCount": 1,
+      "values": [
+        -3.5
+      ],
+      "sampleCounts": {
+        "-3.5": 76
+      }
+    },
+    {
+      "path": "tyres.right front.caster",
+      "type": "number",
+      "min": 13.6,
+      "max": 16.4,
+      "distinctCount": 11,
+      "values": [
+        13.6,
+        13.7,
+        13.9,
+        14.1,
+        14.3,
+        14.5,
+        14.8,
+        15.0,
+        15.4,
+        15.9,
+        16.4
+      ],
+      "sampleCounts": {
+        "14.1": 20,
+        "16.4": 16,
+        "15.0": 10,
+        "15.4": 9,
+        "14.8": 5,
+        "14.5": 5,
+        "14.3": 4,
+        "15.9": 3,
+        "13.7": 2,
+        "13.9": 1,
+        "13.6": 1
+      }
+    },
+    {
+      "path": "tyres.right front.toe",
+      "type": "number",
+      "min": -0.2,
+      "max": -0.15,
+      "distinctCount": 2,
+      "values": [
+        -0.2,
+        -0.15
+      ],
+      "sampleCounts": {
+        "-0.2": 75,
+        "-0.15": 1
+      }
+    },
+    {
+      "path": "tyres.right rear.camber",
+      "type": "int",
+      "min": -3.0,
+      "max": -3.0,
+      "distinctCount": 1,
+      "values": [
+        -3.0
+      ],
+      "sampleCounts": {
+        "-3": 76
+      }
+    },
+    {
+      "path": "tyres.right rear.toe",
+      "type": "number",
+      "min": 0.0,
+      "max": 0.31,
+      "distinctCount": 14,
+      "values": [
+        0.0,
+        0.01,
+        0.02,
+        0.03,
+        0.04,
+        0.05,
+        0.06,
+        0.07,
+        0.08,
+        0.09,
+        0.12,
+        0.15,
+        0.17,
+        0.31
+      ],
+      "sampleCounts": {
+        "0.0": 18,
+        "0.05": 11,
+        "0.04": 9,
+        "0.03": 7,
+        "0.31": 6,
+        "0.06": 6,
+        "0.15": 5,
+        "0.02": 4,
+        "0.01": 4,
+        "0.08": 2,
+        "0.17": 1,
+        "0.09": 1,
+        "0.12": 1,
+        "0.07": 1
+      }
+    }
+  ]
+}
