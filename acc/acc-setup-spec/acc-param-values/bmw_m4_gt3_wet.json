@@ -427,18 +427,18 @@
     {
       "path": "mechanical_grip.left_front.wheel_rate",
       "type": "int",
-      "min": 105.0,
-      "max": 135.0,
+      "min": 105000.0,
+      "max": 135000.0,
       "distinctCount": 3,
       "values": [
-        105.0,
-        120.0,
-        135.0
+        105000.0,
+        120000.0,
+        135000.0
       ],
       "sampleCounts": {
-        "105": 72,
-        "135": 2,
-        "120": 1
+        "105000": 72,
+        "135000": 2,
+        "120000": 1
       }
     },
     {
@@ -460,32 +460,32 @@
     },
     {
       "path": "mechanical_grip.left_rear.bumpstop_rate",
-      "type": "number",
-      "min": 1.1,
-      "max": 200.0,
+      "type": "int",
+      "min": 200.0,
+      "max": 1200.0,
       "distinctCount": 2,
       "values": [
-        1.1,
-        200.0
+        200.0,
+        1200.0
       ],
       "sampleCounts": {
-        "1.1": 72,
-        "200.0": 3
+        "1200": 72,
+        "200": 3
       }
     },
     {
       "path": "mechanical_grip.left_rear.wheel_rate",
       "type": "int",
-      "min": 90.0,
-      "max": 105.0,
+      "min": 90000.0,
+      "max": 105000.0,
       "distinctCount": 2,
       "values": [
-        90.0,
-        105.0
+        90000.0,
+        105000.0
       ],
       "sampleCounts": {
-        "105": 72,
-        "90": 3
+        "105000": 72,
+        "90000": 3
       }
     },
     {
@@ -542,18 +542,18 @@
     {
       "path": "mechanical_grip.right_front.wheel_rate",
       "type": "int",
-      "min": 105.0,
-      "max": 135.0,
+      "min": 105000.0,
+      "max": 135000.0,
       "distinctCount": 3,
       "values": [
-        105.0,
-        120.0,
-        135.0
+        105000.0,
+        120000.0,
+        135000.0
       ],
       "sampleCounts": {
-        "105": 72,
-        "135": 2,
-        "120": 1
+        "105000": 72,
+        "135000": 2,
+        "120000": 1
       }
     },
     {
@@ -575,32 +575,32 @@
     },
     {
       "path": "mechanical_grip.right_rear.bumpstop_rate",
-      "type": "number",
-      "min": 1.1,
-      "max": 200.0,
+      "type": "int",
+      "min": 200.0,
+      "max": 1200.0,
       "distinctCount": 2,
       "values": [
-        1.1,
-        200.0
+        200.0,
+        1200.0
       ],
       "sampleCounts": {
-        "1.1": 72,
-        "200.0": 3
+        "1200": 72,
+        "200": 3
       }
     },
     {
       "path": "mechanical_grip.right_rear.wheel_rate",
       "type": "int",
-      "min": 90.0,
-      "max": 105.0,
+      "min": 90000.0,
+      "max": 105000.0,
       "distinctCount": 2,
       "values": [
-        90.0,
-        105.0
+        90000.0,
+        105000.0
       ],
       "sampleCounts": {
-        "105": 72,
-        "90": 3
+        "105000": 72,
+        "90000": 3
       }
     },
     {
