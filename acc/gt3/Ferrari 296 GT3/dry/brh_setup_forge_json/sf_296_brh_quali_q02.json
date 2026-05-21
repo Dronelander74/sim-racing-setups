@@ -1,4 +1,4 @@
-﻿{
+{
   "setupName": "sf_296_brh_quali_q02",
   "session": "quali",
   "car": "ferrari_296_gt3",
@@ -9,25 +9,25 @@
     "Tyres": {
       "Left Front": {
         "psi": "24.8",
-        "toe": "-0.15Â°",
-        "camber": "-4.0Â°",
-        "caster": "12.0Â°"
+        "toe": "-0.15",
+        "camber": "-4.0",
+        "caster": "12.0"
       },
       "Right Front": {
         "psi": "26.2",
-        "toe": "-0.15Â°",
-        "camber": "-4.0Â°",
-        "caster": "12.0Â°"
+        "toe": "-0.15",
+        "camber": "-4.0",
+        "caster": "12.0"
       },
       "Left Rear": {
         "psi": "24.3",
-        "toe": "0.00Â°",
-        "camber": "-3.5Â°"
+        "toe": "0.00",
+        "camber": "-3.5"
       },
       "Right Rear": {
         "psi": "25.5",
-        "toe": "0.00Â°",
-        "camber": "-3.5Â°"
+        "toe": "0.00",
+        "camber": "-3.5"
       }
     },
     "Electronics": {

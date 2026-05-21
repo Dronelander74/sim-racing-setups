@@ -1,4 +1,4 @@
-﻿{
+{
   "setupName": "sf_296_mon_race_r05",
   "session": "race",
   "car": "ferrari_296_gt3",
@@ -9,25 +9,25 @@
     "Tyres": {
       "Left Front": {
         "psi": "25.8",
-        "toe": "-0.12Â°",
-        "camber": "-4.0Â°",
-        "caster": "12.7Â°"
+        "toe": "-0.12",
+        "camber": "-4.0",
+        "caster": "12.7"
       },
       "Right Front": {
         "psi": "26.8",
-        "toe": "-0.12Â°",
-        "camber": "-4.0Â°",
-        "caster": "12.7Â°"
+        "toe": "-0.12",
+        "camber": "-4.0",
+        "caster": "12.7"
       },
       "Left Rear": {
         "psi": "25.0",
-        "toe": "0.04Â°",
-        "camber": "-3.5Â°"
+        "toe": "0.04",
+        "camber": "-3.5"
       },
       "Right Rear": {
         "psi": "25.7",
-        "toe": "0.04Â°",
-        "camber": "-3.5Â°"
+        "toe": "0.04",
+        "camber": "-3.5"
       }
     },
     "Electronics": {
