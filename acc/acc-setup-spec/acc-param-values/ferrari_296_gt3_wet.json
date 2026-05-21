@@ -2,13 +2,9 @@
   "schemaVersion": "acc-car-parameter-values-v1",
   "car": "ferrari_296_gt3",
   "condition": "wet",
-  "sourceFiles": [
-    "1777911102731_ferrari_296_wet_all_setups.txt"
-  ],
+  "sourceFiles": ["1777911102731_ferrari_296_wet_all_setups.txt"],
   "deduplication": "by setup block; psi excluded",
-  "exclusions": [
-    "tyres.*.psi"
-  ],
+  "exclusions": ["tyres.*.psi"],
   "parameterCount": 54,
   "parameters": [
     {
@@ -301,12 +297,12 @@
     },
     {
       "path": "mechanical grip.left front.wheel rate",
-      "type": "number",
-      "min": 163.769,
-      "max": 170.068,
+      "type": "int",
+      "min": 163769,
+      "max": 170068,
       "distinctCount": 2,
-      "values": [163.769, 170.068],
-      "sampleCounts": { "170.068": 54, "163.769": 21 }
+      "values": [163769, 170068],
+      "sampleCounts": { "170068": 54, "163769": 21 }
     },
     {
       "path": "mechanical grip.left rear.bumpstop range",
@@ -328,12 +324,12 @@
     },
     {
       "path": "mechanical grip.left rear.wheel rate",
-      "type": "number",
-      "min": 122.091,
-      "max": 129.273,
+      "type": "int",
+      "min": 122091,
+      "max": 129273,
       "distinctCount": 2,
-      "values": [122.091, 129.273],
-      "sampleCounts": { "129.273": 72, "122.091": 3 }
+      "values": [122091, 129273],
+      "sampleCounts": { "129273": 72, "122091": 3 }
     },
     {
       "path": "mechanical grip.rear.antiroll bar",
@@ -373,12 +369,12 @@
     },
     {
       "path": "mechanical grip.right front.wheel rate",
-      "type": "number",
-      "min": 163.769,
-      "max": 170.068,
+      "type": "int",
+      "min": 163769,
+      "max": 170068,
       "distinctCount": 2,
-      "values": [163.769, 170.068],
-      "sampleCounts": { "170.068": 54, "163.769": 21 }
+      "values": [163769, 170068],
+      "sampleCounts": { "170068": 54, "163769": 21 }
     },
     {
       "path": "mechanical grip.right rear.bumpstop range",
@@ -400,12 +396,12 @@
     },
     {
       "path": "mechanical grip.right rear.wheel rate",
-      "type": "number",
-      "min": 122.091,
-      "max": 129.273,
+      "type": "int",
+      "min": 122091,
+      "max": 129273,
       "distinctCount": 2,
-      "values": [122.091, 129.273],
-      "sampleCounts": { "129.273": 72, "122.091": 3 }
+      "values": [122091, 129273],
+      "sampleCounts": { "129273": 72, "122091": 3 }
     },
     {
       "path": "tyres.left front.camber",
