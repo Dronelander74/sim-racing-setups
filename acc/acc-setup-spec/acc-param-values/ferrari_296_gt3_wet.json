@@ -293,20 +293,20 @@
     {
       "path": "mechanical grip.left front.bumpstop rate",
       "type": "int",
-      "min": 300000,
-      "max": 1000000,
+      "min": 300,
+      "max": 1000,
       "distinctCount": 2,
-      "values": [300000, 1000000],
-      "sampleCounts": { "1000000": 72, "300000": 3 }
+      "values": [300, 1000],
+      "sampleCounts": { "1000": 72, "300": 3 }
     },
     {
       "path": "mechanical grip.left front.wheel rate",
-      "type": "int",
-      "min": 163769,
-      "max": 170068,
+      "type": "number",
+      "min": 163.769,
+      "max": 170.068,
       "distinctCount": 2,
-      "values": [163769, 170068],
-      "sampleCounts": { "170068": 54, "163769": 21 }
+      "values": [163.769, 170.068],
+      "sampleCounts": { "170.068": 54, "163.769": 21 }
     },
     {
       "path": "mechanical grip.left rear.bumpstop range",
@@ -320,20 +320,20 @@
     {
       "path": "mechanical grip.left rear.bumpstop rate",
       "type": "int",
-      "min": 400000,
-      "max": 2800000,
+      "min": 400,
+      "max": 2800,
       "distinctCount": 2,
-      "values": [400000, 2800000],
-      "sampleCounts": { "2800000": 72, "400000": 3 }
+      "values": [400, 2800],
+      "sampleCounts": { "2800": 72, "400": 3 }
     },
     {
       "path": "mechanical grip.left rear.wheel rate",
-      "type": "int",
-      "min": 122091,
-      "max": 129273,
+      "type": "number",
+      "min": 122.091,
+      "max": 129.273,
       "distinctCount": 2,
-      "values": [122091, 129273],
-      "sampleCounts": { "129273": 72, "122091": 3 }
+      "values": [122.091, 129.273],
+      "sampleCounts": { "129.273": 72, "122.091": 3 }
     },
     {
       "path": "mechanical grip.rear.antiroll bar",
@@ -365,20 +365,20 @@
     {
       "path": "mechanical grip.right front.bumpstop rate",
       "type": "int",
-      "min": 300000,
-      "max": 1000000,
+      "min": 300,
+      "max": 1000,
       "distinctCount": 2,
-      "values": [300000, 1000000],
-      "sampleCounts": { "1000000": 72, "300000": 3 }
+      "values": [300, 1000],
+      "sampleCounts": { "1000": 72, "300": 3 }
     },
     {
       "path": "mechanical grip.right front.wheel rate",
-      "type": "int",
-      "min": 163769,
-      "max": 170068,
+      "type": "number",
+      "min": 163.769,
+      "max": 170.068,
       "distinctCount": 2,
-      "values": [163769, 170068],
-      "sampleCounts": { "170068": 54, "163769": 21 }
+      "values": [163.769, 170.068],
+      "sampleCounts": { "170.068": 54, "163.769": 21 }
     },
     {
       "path": "mechanical grip.right rear.bumpstop range",
@@ -392,20 +392,20 @@
     {
       "path": "mechanical grip.right rear.bumpstop rate",
       "type": "int",
-      "min": 400000,
-      "max": 2800000,
+      "min": 400,
+      "max": 2800,
       "distinctCount": 2,
-      "values": [400000, 2800000],
-      "sampleCounts": { "2800000": 72, "400000": 3 }
+      "values": [400, 2800],
+      "sampleCounts": { "2800": 72, "400": 3 }
     },
     {
       "path": "mechanical grip.right rear.wheel rate",
-      "type": "int",
-      "min": 122091,
-      "max": 129273,
+      "type": "number",
+      "min": 122.091,
+      "max": 129.273,
       "distinctCount": 2,
-      "values": [122091, 129273],
-      "sampleCounts": { "129273": 72, "122091": 3 }
+      "values": [122.091, 129.273],
+      "sampleCounts": { "129.273": 72, "122.091": 3 }
     },
     {
       "path": "tyres.left front.camber",
