@@ -9,7 +9,7 @@
   },
   "source": {
     "type": "in_game_ui",
-    "notes": "Ranges/steps captured from PMR in-game setup UI for Aston Martin Valkyrie Hypercar LMDh (2025). Hybrid regeneration settings are not available."
+    "notes": "Ranges/steps updated from PMR in-game setup UI for Aston Martin Valkyrie Hypercar LMDh (2025). Hybrid regeneration settings are not available."
   },
   "uiConstraints": {
     "front": {
@@ -60,7 +60,7 @@
       },
       "bumpstopSize_mm": {
         "min": 0,
-        "max": 60,
+        "max": 80,
         "step": 5,
         "unit": "mm",
         "uiLabel": "Bump Stop Length",
@@ -77,9 +77,9 @@
         "transform": { "type": "scale", "uiToRaw": 1000.0, "rawToUi": 0.001, "unitHint": "N/mm" }
       },
       "camber_deg": {
-        "min": -4.28,
-        "max": -0.28,
-        "step": 0.10,
+        "min": -4.58,
+        "max": -0.57,
+        "step": 0.1,
         "unit": "°",
         "uiLabel": "Camber",
         "vsetParams": ["FL-camber", "FR-camber"],
@@ -131,7 +131,7 @@
         "unit": "click",
         "uiLabel": "Slow Bump",
         "vsetParams": ["RL-slow-bump", "RR-slow-bump"],
-        "transform": { "type": "calibration_required", "note": "Keep click values for UI; block VSET export until click→raw mapping is calibrated." }
+        "transform": { "type": "calibration_required" }
       },
       "slowRebound_click": {
         "min": 1,
@@ -140,7 +140,7 @@
         "unit": "click",
         "uiLabel": "Slow Rebound",
         "vsetParams": ["RL-slow-rebound", "RR-slow-rebound"],
-        "transform": { "type": "calibration_required", "note": "Keep click values for UI; block VSET export until click→raw mapping is calibrated." }
+        "transform": { "type": "calibration_required" }
       },
       "fastBump_click": {
         "min": 1,
@@ -149,7 +149,7 @@
         "unit": "click",
         "uiLabel": "Fast Bump",
         "vsetParams": ["RL-fast-bump", "RR-fast-bump"],
-        "transform": { "type": "calibration_required", "note": "Keep click values for UI; block VSET export until click→raw mapping is calibrated." }
+        "transform": { "type": "calibration_required" }
       },
       "fastRebound_click": {
         "min": 1,
@@ -158,7 +158,7 @@
         "unit": "click",
         "uiLabel": "Fast Rebound",
         "vsetParams": ["RL-fast-rebound", "RR-fast-rebound"],
-        "transform": { "type": "calibration_required", "note": "Keep click values for UI; block VSET export until click→raw mapping is calibrated." }
+        "transform": { "type": "calibration_required" }
       },
       "bumpstopSize_mm": {
         "min": 0,
@@ -167,7 +167,7 @@
         "unit": "mm",
         "uiLabel": "Bump Stop Length",
         "vsetParams": ["RL-bumpstop-size", "RR-bumpstop-size"],
-        "transform": { "type": "scale", "uiToRaw": 0.001, "rawToUi": 1000.0, "unitHint": "mm" }
+        "transform": { "type": "scale", "uiToRaw": 0.001, "rawToUi": 1000.0 }
       },
       "bumpstopStiffness_N_per_mm": {
         "min": 100,
@@ -176,16 +176,15 @@
         "unit": "N/mm",
         "uiLabel": "Bump Stop Spring Rate",
         "vsetParams": ["RL-bumpstop-stiffness", "RR-bumpstop-stiffness"],
-        "transform": { "type": "scale", "uiToRaw": 1000.0, "rawToUi": 0.001, "unitHint": "N/mm" }
+        "transform": { "type": "scale", "uiToRaw": 1000.0, "rawToUi": 0.001 }
       },
       "camber_deg": {
-        "min": -3.63,
-        "max": -0.13,
-        "step": 0.10,
+        "min": -3.26,
+        "max": -0.24,
+        "step": 0.1,
         "unit": "°",
         "uiLabel": "Camber",
-        "vsetParams": ["RL-camber", "RR-camber"],
-        "transform": { "type": "identity", "unitHint": "deg" }
+        "vsetParams": ["RL-camber", "RR-camber"]
       },
       "toe_deg": {
         "min": -0.50,
@@ -193,8 +192,7 @@
         "step": 0.05,
         "unit": "°",
         "uiLabel": "Toe",
-        "vsetParams": ["RL-toe", "RR-toe"],
-        "transform": { "type": "identity", "unitHint": "deg" }
+        "vsetParams": ["RL-toe", "RR-toe"]
       },
       "rideHeightAdjust_mm": {
         "min": -30,
@@ -202,29 +200,26 @@
         "step": 1,
         "unit": "mm",
         "uiLabel": "Ride Height Adjust",
-        "vsetParams": ["RL-spring-platform", "RR-spring-platform"],
-        "transform": { "type": "scale", "uiToRaw": 0.001, "rawToUi": 1000.0, "unitHint": "mm" }
+        "vsetParams": ["RL-spring-platform", "RR-spring-platform"]
       }
     },
 
     "antiRollBars": {
       "frontARB_N_per_mm": {
-        "min": 10,
-        "max": 200,
-        "step": 10,
+        "min": 0,
+        "max": 1000,
+        "step": 20,
         "unit": "N/mm",
         "uiLabel": "Front Anti-Roll Bar",
-        "vsetParams": ["F-antirollbar"],
-        "transform": { "type": "scale", "uiToRaw": 1000.0, "rawToUi": 0.001, "unitHint": "N/mm" }
+        "vsetParams": ["F-antirollbar"]
       },
       "rearARB_N_per_mm": {
-        "min": 10,
-        "max": 200,
-        "step": 10,
+        "min": 0,
+        "max": 1000,
+        "step": 20,
         "unit": "N/mm",
         "uiLabel": "Rear Anti-Roll Bar",
-        "vsetParams": ["R-antirollbar"],
-        "transform": { "type": "scale", "uiToRaw": 1000.0, "rawToUi": 0.001, "unitHint": "N/mm" }
+        "vsetParams": ["R-antirollbar"]
       }
     },
 
@@ -235,89 +230,25 @@
         "step": 0.5,
         "unit": "°",
         "uiLabel": "Rear Wing Angle",
-        "vsetParams": ["R-wing-angle"],
-        "transform": { "type": "identity", "unitHint": "deg" }
+        "vsetParams": ["R-wing-angle"]
       }
     },
 
     "differential": {
-      "preload_N": {
-        "min": 50,
-        "max": 300,
-        "step": 50,
-        "unit": "N",
-        "uiLabel": "Preload",
-        "vsetParams": ["diff-preload"],
-        "transform": { "type": "identity", "unitHint": "N" }
-      },
-      "clutches": {
-        "min": 1,
-        "max": 12,
-        "step": 1,
-        "unit": "count",
-        "uiLabel": "Clutches",
-        "vsetParams": ["diff-clutches"],
-        "transform": { "type": "identity", "unitHint": "count" }
-      },
-      "powerLockAngles_deg": {
-        "enum": [35, 45, 55, 65, 75, 85],
-        "unit": "°",
-        "uiLabel": "Power Ramp Angle",
-        "vsetParams": ["diff-ramp-power"],
-        "transform": { "type": "identity", "unitHint": "deg" }
-      },
-      "coastLockAngles_deg": {
-        "enum": [35, 45, 55, 65, 75, 85],
-        "unit": "°",
-        "uiLabel": "Coast Ramp Angle",
-        "vsetParams": ["diff-ramp-coast"],
-        "transform": { "type": "identity", "unitHint": "deg" }
-      }
+      "preload_N": { "min": 50, "max": 300, "step": 50, "unit": "N", "vsetParams": ["diff-preload"] },
+      "clutches": { "min": 1, "max": 12, "step": 1, "vsetParams": ["diff-clutches"] },
+      "powerLockAngles_deg": { "enum": [35, 45, 55, 65, 75, 85], "vsetParams": ["diff-ramp-power"] },
+      "coastLockAngles_deg": { "enum": [35, 45, 55, 65, 75, 85], "vsetParams": ["diff-ramp-coast"] }
     },
 
     "engineElectronics": {
-      "engineBrake": {
-        "supported": true,
-        "min": -1.0,
-        "max": 1.0,
-        "step": 0.01,
-        "uiLabel": "Engine Braking"
-      },
-      "tc": {
-        "supported": true,
-        "min": 0,
-        "max": 10,
-        "step": 1,
-        "unit": "level",
-        "uiLabel": "Traction Control",
-        "vsetParams": ["tractionControl"],
-        "transform": { "type": "identity", "unitHint": "level" }
-      },
-      "abs": {
-        "supported": true,
-        "min": 0,
-        "max": 5,
-        "step": 1,
-        "unit": "level",
-        "uiLabel": "ABS",
-        "vsetParams": ["abs"],
-        "transform": { "type": "identity", "unitHint": "level" }
-      },
-      "regenMode": {
-        "supported": false,
-        "uiLabel": "Regen Mode",
-        "vsetParams": ["ecu-regen-mode"]
-      },
-      "regenLimit_kw": {
-        "supported": false,
-        "uiLabel": "Regen Limit",
-        "vsetParams": ["ecu-regen-limit"]
-      },
-      "deployLimit_kw": {
-        "supported": false,
-        "uiLabel": "Deploy Limit",
-        "vsetParams": ["ecu-deploy-limit"]
-      }
+      "engineBrake": { "supported": true, "min": -1.0, "max": 1.0, "step": 0.01 },
+      "tc": { "supported": true, "min": 0, "max": 10, "step": 1, "vsetParams": ["tractionControl"] },
+      "abs": { "supported": true, "min": 0, "max": 5, "step": 1, "vsetParams": ["abs"] },
+
+      "regenMode": { "supported": false },
+      "regenLimit_kw": { "supported": false },
+      "deployLimit_kw": { "supported": false }
     },
 
     "brakes": {
@@ -325,27 +256,21 @@
         "min": 0.0,
         "max": 100.0,
         "step": 0.5,
-        "unit": "%",
-        "uiLabel": "Brake Bias",
         "vsetParams": ["brake-bias"],
-        "transform": { "type": "scale", "uiToRaw": 0.01, "rawToUi": 100.0, "unitHint": "%" }
+        "transform": { "type": "scale", "uiToRaw": 0.01, "rawToUi": 100.0 }
       },
       "brakePressure_pct": {
         "min": 50,
         "max": 120,
         "step": 5,
-        "unit": "%",
-        "uiLabel": "Brake Pressure",
         "vsetParams": ["brake-pressure"],
-        "transform": { "type": "scale", "uiToRaw": 0.01, "rawToUi": 100.0, "unitHint": "%" }
+        "transform": { "type": "scale", "uiToRaw": 0.01, "rawToUi": 100.0 }
       }
     },
 
     "gearbox": {
       "mode": "index_only",
       "modifiable": true,
-      "uiLabel": "GEARBOX / TRANSMISSION",
-      "notes": "Final drive and gears 1–6 adjustable.",
       "vsetParams": [
         "final-drive",
         "gear-install-gearbox-1",
