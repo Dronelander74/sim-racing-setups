@@ -1,0 +1,772 @@
+{
+  "_schema": "preset-resolver-v2",
+  "mclaren_720s_gt3_evo": {
+    "dry": {
+      "bar": {
+        "FAST": [
+          "sf_720s_bar_quali_q01",
+          "sf_720s_bar_quali_q02",
+          "sf_720s_bar_quali_q03",
+          "sf_720s_bar_race_r02",
+          "sf_720s_bar_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_bar_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_bar_race_r04",
+          "sf_720s_bar_race_r05"
+        ]
+      },
+      "brh": {
+        "FAST": [
+          "sf_720s_brh_quali_q01",
+          "sf_720s_brh_quali_q02",
+          "sf_720s_brh_quali_q03",
+          "sf_720s_brh_race_r02",
+          "sf_720s_brh_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_brh_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_brh_race_r04",
+          "sf_720s_brh_race_r05"
+        ]
+      },
+      "cota": {
+        "FAST": [
+          "sf_720s_cota_quali_q01",
+          "sf_720s_cota_quali_q02",
+          "sf_720s_cota_quali_q03",
+          "sf_720s_cota_race_r02",
+          "sf_720s_cota_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_cota_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_cota_race_r04",
+          "sf_720s_cota_race_r05"
+        ]
+      },
+      "don": {
+        "FAST": [
+          "sf_720s_don_quali_q01",
+          "sf_720s_don_quali_q02",
+          "sf_720s_don_quali_q03",
+          "sf_720s_don_race_r02",
+          "sf_720s_don_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_don_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_don_race_r04",
+          "sf_720s_don_race_r05"
+        ]
+      },
+      "hun": {
+        "FAST": [
+          "sf_720s_hun_quali_q01",
+          "sf_720s_hun_quali_q02",
+          "sf_720s_hun_quali_q03",
+          "sf_720s_hun_quali_q04",
+          "sf_720s_hun_race_r03",
+          "sf_720s_hun_race_r04"
+        ],
+        "BALANCED": [
+          "sf_720s_hun_race_r01",
+          "sf_720s_hun_race_r02"
+        ],
+        "SAFE": [
+          "sf_720s_hun_race_r05",
+          "sf_720s_hun_race_r06"
+        ]
+      },
+      "imo": {
+        "FAST": [
+          "sf_720s_imo_quali_q01",
+          "sf_720s_imo_quali_q02",
+          "sf_720s_imo_quali_q03",
+          "sf_720s_imo_race_r02",
+          "sf_720s_imo_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_imo_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_imo_race_r04",
+          "sf_720s_imo_race_r05"
+        ]
+      },
+      "indy": {
+        "FAST": [
+          "sf_720s_indy_quali_q01",
+          "sf_720s_indy_quali_q02",
+          "sf_720s_indy_race_r01",
+          "sf_720s_indy_race_r02"
+        ],
+        "BALANCED": [
+          "sf_720s_indy_quali_q01",
+          "sf_720s_indy_quali_q02",
+          "sf_720s_indy_race_r01",
+          "sf_720s_indy_race_r02"
+        ],
+        "SAFE": [
+          "sf_720s_indy_race_r03",
+          "sf_720s_indy_race_r04"
+        ]
+      },
+      "kya": {
+        "FAST": [
+          "sf_720s_kya_quali_q01",
+          "sf_720s_kya_quali_q02",
+          "sf_720s_kya_quali_q03",
+          "sf_720s_kya_quali_q04",
+          "sf_720s_kya_race_r03",
+          "sf_720s_kya_race_r04"
+        ],
+        "BALANCED": [
+          "sf_720s_kya_race_r01",
+          "sf_720s_kya_race_r02"
+        ],
+        "SAFE": [
+          "sf_720s_kya_race_r05",
+          "sf_720s_kya_race_r06"
+        ]
+      },
+      "lag": {
+        "FAST": [
+          "sf_720s_lag_quali_q01",
+          "sf_720s_lag_quali_q02",
+          "sf_720s_lag_race_r01",
+          "sf_720s_lag_race_r02"
+        ],
+        "BALANCED": [
+          "sf_720s_lag_quali_q01",
+          "sf_720s_lag_quali_q02",
+          "sf_720s_lag_race_r01",
+          "sf_720s_lag_race_r02"
+        ],
+        "SAFE": [
+          "sf_720s_lag_race_r03",
+          "sf_720s_lag_race_r04"
+        ]
+      },
+      "mis": {
+        "FAST": [
+          "sf_720s_mis_quali_q01",
+          "sf_720s_mis_quali_q02",
+          "sf_720s_mis_quali_q03",
+          "sf_720s_mis_quali_q04",
+          "sf_720s_mis_race_r03",
+          "sf_720s_mis_race_r04"
+        ],
+        "BALANCED": [
+          "sf_720s_mis_race_r01",
+          "sf_720s_mis_race_r02"
+        ],
+        "SAFE": [
+          "sf_720s_mis_race_r05",
+          "sf_720s_mis_race_r06"
+        ]
+      },
+      "mon": {
+        "FAST": [
+          "sf_720s_mon_quali_q01",
+          "sf_720s_mon_quali_q02",
+          "sf_720s_mon_quali_q03",
+          "sf_720s_mon_quali_q04",
+          "sf_720s_mon_race_r03",
+          "sf_720s_mon_race_r04"
+        ],
+        "BALANCED": [
+          "sf_720s_mon_race_r01",
+          "sf_720s_mon_race_r02"
+        ],
+        "SAFE": [
+          "sf_720s_mon_race_r05",
+          "sf_720s_mon_race_r06"
+        ]
+      },
+      "nur24": {
+        "FAST": [
+          "sf_720s_nur24_quali_q01",
+          "sf_720s_nur24_quali_q02"
+        ],
+        "BALANCED": [
+          "sf_720s_nur24_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_nur24_race_r02"
+        ]
+      },
+      "nur": {
+        "FAST": [
+          "sf_720s_nur_quali_q01",
+          "sf_720s_nur_quali_q02",
+          "sf_720s_nur_quali_q03",
+          "sf_720s_nur_race_r02",
+          "sf_720s_nur_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_nur_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_nur_race_r04",
+          "sf_720s_nur_race_r05"
+        ]
+      },
+      "otp": {
+        "FAST": [
+          "sf_720s_otp_quali_q01",
+          "sf_720s_otp_quali_q02",
+          "sf_720s_otp_quali_q03",
+          "sf_720s_otp_race_r02",
+          "sf_720s_otp_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_otp_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_otp_race_r04",
+          "sf_720s_otp_race_r05"
+        ]
+      },
+      "pan": {
+        "FAST": [
+          "sf_720s_pan_quali_q01",
+          "sf_720s_pan_quali_q02",
+          "sf_720s_pan_quali_q03",
+          "sf_720s_pan_race_r02",
+          "sf_720s_pan_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_pan_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_pan_race_r04",
+          "sf_720s_pan_race_r05"
+        ]
+      },
+      "par": {
+        "FAST": [
+          "sf_720s_par_quali_q01",
+          "sf_720s_par_quali_q02",
+          "sf_720s_par_quali_q03",
+          "sf_720s_par_race_r02"
+        ],
+        "BALANCED": [
+          "sf_720s_par_race_r01",
+          "sf_720s_par_race_r04",
+          "sf_720s_par_race_r05"
+        ],
+        "SAFE": [
+          "sf_720s_par_race_r03"
+        ]
+      },
+      "rbr": {
+        "FAST": [
+          "sf_720s_rbr_quali_q01",
+          "sf_720s_rbr_quali_q02"
+        ],
+        "BALANCED": [
+          "sf_720s_rbr_race_r01",
+          "sf_720s_rbr_race_r02"
+        ],
+        "SAFE": [
+          "sf_720s_rbr_race_r03"
+        ]
+      },
+      "sil": {
+        "FAST": [
+          "sf_720s_sil_quali_q01",
+          "sf_720s_sil_quali_q02",
+          "sf_720s_sil_quali_q03",
+          "sf_720s_sil_race_r02",
+          "sf_720s_sil_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_sil_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_sil_race_r04",
+          "sf_720s_sil_race_r05"
+        ]
+      },
+      "snt": {
+        "FAST": [
+          "sf_720s_snt_quali_q01",
+          "sf_720s_snt_quali_q02",
+          "sf_720s_snt_quali_q03",
+          "sf_720s_snt_race_r01",
+          "sf_720s_snt_race_r02"
+        ],
+        "BALANCED": [
+          "sf_720s_snt_quali_q01",
+          "sf_720s_snt_quali_q02",
+          "sf_720s_snt_quali_q03",
+          "sf_720s_snt_race_r01",
+          "sf_720s_snt_race_r02"
+        ],
+        "SAFE": [
+          "sf_720s_snt_race_r03",
+          "sf_720s_snt_race_r04"
+        ]
+      },
+      "spa": {
+        "FAST": [
+          "sf_720s_spa_quali_q01",
+          "sf_720s_spa_quali_q02",
+          "sf_720s_spa_quali_q03",
+          "sf_720s_spa_race_r02",
+          "sf_720s_spa_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_spa_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_spa_race_r04",
+          "sf_720s_spa_race_r05"
+        ]
+      },
+      "suz": {
+        "FAST": [
+          "sf_720s_suz_quali_q01",
+          "sf_720s_suz_quali_q02",
+          "sf_720s_suz_quali_q03",
+          "sf_720s_suz_quali_q04",
+          "sf_720s_suz_race_r03",
+          "sf_720s_suz_race_r04"
+        ],
+        "BALANCED": [
+          "sf_720s_suz_race_r01",
+          "sf_720s_suz_race_r02"
+        ],
+        "SAFE": [
+          "sf_720s_suz_race_r05",
+          "sf_720s_suz_race_r06"
+        ]
+      },
+      "val": {
+        "FAST": [
+          "sf_720s_val_quali_q01",
+          "sf_720s_val_quali_q02",
+          "sf_720s_val_quali_q03",
+          "sf_720s_val_race_r02",
+          "sf_720s_val_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_val_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_val_race_r04",
+          "sf_720s_val_race_r05"
+        ]
+      },
+      "wkg": {
+        "FAST": [
+          "sf_720s_wkg_quali_q01",
+          "sf_720s_wkg_quali_q02",
+          "sf_720s_wkg_quali_q03",
+          "sf_720s_wkg_race_r02",
+          "sf_720s_wkg_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_wkg_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_wkg_race_r04",
+          "sf_720s_wkg_race_r05"
+        ]
+      },
+      "zan": {
+        "FAST": [
+          "sf_720s_zan_quali_q01",
+          "sf_720s_zan_quali_q02",
+          "sf_720s_zan_quali_q03",
+          "sf_720s_zan_race_r02",
+          "sf_720s_zan_race_r03"
+        ],
+        "BALANCED": [
+          "sf_720s_zan_race_r01"
+        ],
+        "SAFE": [
+          "sf_720s_zan_race_r04",
+          "sf_720s_zan_race_r05"
+        ]
+      },
+      "zol": {
+        "FAST": [
+          "sf_720s_zol_quali_q01",
+          "sf_720s_zol_quali_q02",
+          "sf_720s_zol_quali_q03",
+          "sf_720s_zol_quali_q04",
+          "sf_720s_zol_race_r03",
+          "sf_720s_zol_race_r04"
+        ],
+        "BALANCED": [
+          "sf_720s_zol_race_r01",
+          "sf_720s_zol_race_r02"
+        ],
+        "SAFE": [
+          "sf_720s_zol_race_r05",
+          "sf_720s_zol_race_r06"
+        ]
+      }
+    },
+    "wet": {
+      "bar": {
+        "FAST": [
+          "sf_720s_bar_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_bar_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_bar_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_bar_race_wet_hvy"
+        ]
+      },
+      "brh": {
+        "FAST": [
+          "sf_720s_brh_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_brh_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_brh_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_brh_race_wet_hvy"
+        ]
+      },
+      "cota": {
+        "FAST": [
+          "sf_720s_cota_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_cota_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_cota_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_cota_race_wet_hvy"
+        ]
+      },
+      "don": {
+        "FAST": [
+          "sf_720s_don_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_don_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_don_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_don_race_wet_hvy"
+        ]
+      },
+      "hun": {
+        "FAST": [
+          "sf_720s_hun_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_hun_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_hun_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_hun_race_wet_hvy"
+        ]
+      },
+      "imo": {
+        "FAST": [
+          "sf_720s_imo_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_imo_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_imo_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_imo_race_wet_hvy"
+        ]
+      },
+      "indy": {
+        "FAST": [
+          "sf_720s_indy_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_indy_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_indy_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_indy_race_wet_hvy"
+        ]
+      },
+      "kya": {
+        "FAST": [
+          "sf_720s_kya_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_kya_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_kya_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_kya_race_wet_hvy"
+        ]
+      },
+      "lag": {
+        "FAST": [
+          "sf_720s_lag_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_lag_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_lag_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_lag_race_wet_hvy"
+        ]
+      },
+      "mis": {
+        "FAST": [
+          "sf_720s_mis_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_mis_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_mis_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_mis_race_wet_hvy"
+        ]
+      },
+      "mon": {
+        "FAST": [
+          "sf_720s_mon_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_mon_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_mon_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_mon_race_wet_hvy"
+        ]
+      },
+      "nur24": {
+        "FAST": [
+          "sf_720s_nur24_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_nur24_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_nur24_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_nur24_race_wet_hvy"
+        ]
+      },
+      "nur": {
+        "FAST": [
+          "sf_720s_nur_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_nur_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_nur_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_nur_race_wet_hvy"
+        ]
+      },
+      "otp": {
+        "FAST": [
+          "sf_720s_otp_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_otp_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_otp_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_otp_race_wet_hvy"
+        ]
+      },
+      "pan": {
+        "FAST": [
+          "sf_720s_pan_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_pan_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_pan_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_pan_race_wet_hvy"
+        ]
+      },
+      "par": {
+        "FAST": [
+          "sf_720s_par_race_wet_med"
+        ],
+        "BALANCED": [
+          "sf_720s_par_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_par_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_par_race_wet_hvy"
+        ]
+      },
+      "rbr": {
+        "FAST": [
+          "sf_720s_rbr_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_rbr_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_rbr_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_rbr_race_wet_hvy"
+        ]
+      },
+      "sil": {
+        "FAST": [
+          "sf_720s_sil_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_sil_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_sil_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_sil_race_wet_hvy"
+        ]
+      },
+      "snt": {
+        "FAST": [
+          "sf_720s_snt_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_snt_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_snt_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_snt_race_wet_hvy"
+        ]
+      },
+      "spa": {
+        "FAST": [
+          "sf_720s_spa_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_spa_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_spa_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_spa_race_wet_hvy"
+        ]
+      },
+      "suz": {
+        "FAST": [
+          "sf_720s_suz_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_suz_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_suz_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_suz_race_wet_hvy"
+        ]
+      },
+      "val": {
+        "FAST": [
+          "sf_720s_val_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_val_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_val_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_val_race_wet_hvy"
+        ]
+      },
+      "wkg": {
+        "FAST": [
+          "sf_720s_wkg_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_wkg_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_wkg_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_wkg_race_wet_hvy"
+        ]
+      },
+      "zan": {
+        "FAST": [
+          "sf_720s_zan_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_zan_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_zan_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_zan_race_wet_hvy"
+        ]
+      },
+      "zol": {
+        "FAST": [
+          "sf_720s_zol_quali_wet_med_q"
+        ],
+        "BALANCED": [
+          "sf_720s_zol_race_wet_med"
+        ],
+        "SAFE": [
+          "sf_720s_zol_race_wet_med"
+        ],
+        "HEAVY": [
+          "sf_720s_zol_race_wet_hvy"
+        ]
+      }
+    }
+  }
+}

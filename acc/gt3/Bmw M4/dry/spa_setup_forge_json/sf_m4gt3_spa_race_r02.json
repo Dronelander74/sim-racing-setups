@@ -1,31 +1,35 @@
 {
   "setupName": "sf_m4gt3_spa_race_r02",
   "session": "race",
-  "raceStyle": "safe",
+  "raceStyle": "fast",
   "car": "bmw_m4_gt3",
-  "track": "spa_francorchamps",
+  "track": "spa",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
   "tyres": {
-    "left_front": {
-      "psi": 25.3,
-      "toe": -0.1,
-      "camber": -4.0,
-      "caster": 12.2
-    },
-    "right_front": {
-      "psi": 25.4,
-      "toe": -0.1,
-      "camber": -4.0,
-      "caster": 12.2
+    "right_rear": {
+      "psi": 24.8,
+      "toe": 0.02,
+      "camber": -3.4
     },
     "left_rear": {
       "psi": 24.7,
       "toe": 0.02,
       "camber": -3.4
     },
-    "right_rear": {
-      "psi": 24.8,
-      "toe": 0.02,
-      "camber": -3.4
+    "left_front": {
+      "psi": 25.3,
+      "toe": -0.1,
+      "camber": -4,
+      "caster": 12.2
+    },
+    "right_front": {
+      "psi": 25.4,
+      "toe": -0.1,
+      "camber": -4,
+      "caster": 12.2
     }
   },
   "electronics": {
@@ -35,11 +39,26 @@
     "tc2": 0
   },
   "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 600,
+      "bumpstop_range": 20
+    },
     "front": {
       "antiroll_bar": 4,
       "brake_power": 100,
-      "brake_bias": 53.0,
+      "brake_bias": 53,
       "steer_ratio": 14
+    },
+    "right_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 1200,
+      "bumpstop_range": 15
+    },
+    "right_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 600,
+      "bumpstop_range": 20
     },
     "rear": {
       "antiroll_bar": 6,
@@ -49,24 +68,21 @@
       "wheel_rate": 105000,
       "bumpstop_rate": 1200,
       "bumpstop_range": 15
-    },
-    "right_front": {
-      "wheel_rate": 105000,
-      "bumpstop_rate": 1200,
-      "bumpstop_range": 15
-    },
-    "left_rear": {
-      "wheel_rate": 105000,
-      "bumpstop_rate": 600,
-      "bumpstop_range": 20
-    },
-    "right_rear": {
-      "wheel_rate": 105000,
-      "bumpstop_rate": 600,
-      "bumpstop_range": 20
     }
   },
   "dampers": {
+    "right_rear": {
+      "bump": 13,
+      "fast_bump": 32,
+      "rebound": 26,
+      "fast_rebound": 38
+    },
+    "left_rear": {
+      "bump": 13,
+      "fast_bump": 32,
+      "rebound": 26,
+      "fast_rebound": 38
+    },
     "left_front": {
       "bump": 12,
       "fast_bump": 35,
@@ -78,30 +94,24 @@
       "fast_bump": 35,
       "rebound": 32,
       "fast_rebound": 37
-    },
-    "left_rear": {
-      "bump": 13,
-      "fast_bump": 32,
-      "rebound": 26,
-      "fast_rebound": 38
-    },
-    "right_rear": {
-      "bump": 13,
-      "fast_bump": 32,
-      "rebound": 26,
-      "fast_rebound": 38
     }
   },
   "aero": {
-    "front": {
-      "ride_height": 51,
-      "splitter": 0,
-      "brake_ducts": 4
-    },
     "rear": {
-      "ride_height": 51,
+      "ride_height": 50,
       "rear_wing": 4,
       "brake_ducts": 3
+    },
+    "front": {
+      "ride_height": 52,
+      "splitter": 0,
+      "brake_ducts": 4
     }
+  },
+  "provenance": {
+    "sourceDocument": "Spa_Francorchamps.docx",
+    "sourceMarker": "BMW M4 GT3 - spa - SF",
+    "sourceHeaderLine": "SF M M4 GT3 SPA Q LFM.jsonSF M M4 GT3 SPA R LFM.jsonSF M4 GT3 SPA Q01.jsonSF M4 GT3 SPA RF01.jsonSF M4 GT3 SPA RS01.json",
+    "originalLabel": "RF01"
   }
 }

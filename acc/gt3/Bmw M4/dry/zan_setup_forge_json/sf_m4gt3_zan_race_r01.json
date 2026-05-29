@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_m4gt3_zan_race_r01",
+  "session": "race",
+  "raceStyle": null,
+  "car": "bmw_m4_gt3",
+  "track": "zan",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "right_rear": {
+      "psi": 25.4,
+      "toe": 0,
+      "camber": -3.5
+    },
+    "left_rear": {
+      "psi": 24,
+      "toe": 0,
+      "camber": -3.5
+    },
+    "left_front": {
+      "psi": 24.4,
+      "toe": -0.15,
+      "camber": -4,
+      "caster": 12.4
+    },
+    "right_front": {
+      "psi": 26,
+      "toe": -0.15,
+      "camber": -4,
+      "caster": 12.4
+    }
+  },
+  "electronics": {
+    "tc": 1,
+    "abs": 2,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 12
+    },
+    "front": {
+      "antiroll_bar": 7,
+      "brake_power": 100,
+      "brake_bias": 50,
+      "steer_ratio": 13
+    },
+    "right_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 24
+    },
+    "right_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 12
+    },
+    "rear": {
+      "antiroll_bar": 1,
+      "preload_differential": 20
+    },
+    "left_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 24
+    }
+  },
+  "dampers": {
+    "right_rear": {
+      "bump": 0,
+      "fast_bump": 3,
+      "rebound": 36,
+      "fast_rebound": 49
+    },
+    "left_rear": {
+      "bump": 0,
+      "fast_bump": 3,
+      "rebound": 36,
+      "fast_rebound": 49
+    },
+    "left_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 38,
+      "fast_rebound": 47
+    },
+    "right_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 38,
+      "fast_rebound": 47
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 72,
+      "rear_wing": 8,
+      "brake_ducts": 3
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 4
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Zandvoort.docx",
+    "sourceMarker": "BMW M4 GT3 - zan - SF",
+    "sourceHeaderLine": "SF M M4 GT3 ZAN Q.jsonSF M M4 GT3 ZAN R.jsonSF M4 GT3 ZAN Q01.jsonSF M4 GT3 ZAN RF01.jsonSF M4 GT3 ZAN RS01.json",
+    "originalLabel": "R"
+  }
+}

@@ -1,107 +1,117 @@
 {
   "setupName": "sf_m4gt3_wkg_race_r04",
   "session": "race",
-  "raceStyle": null,
+  "raceStyle": "safe",
   "car": "bmw_m4_gt3",
-  "track": "watkins_glen",
+  "track": "wkg",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
   "tyres": {
-    "left_front": {
+    "right_rear": {
       "psi": 24.8,
-      "toe": -0.2,
-      "camber": -4.0,
+      "toe": 0.05,
+      "camber": -3.3
+    },
+    "left_rear": {
+      "psi": 24.1,
+      "toe": 0.05,
+      "camber": -3.3
+    },
+    "left_front": {
+      "psi": 24.6,
+      "toe": -0.05,
+      "camber": -3.7,
       "caster": 13.9
     },
     "right_front": {
-      "psi": 25.7,
-      "toe": -0.2,
-      "camber": -4.0,
-      "caster": 13.9
-    },
-    "left_rear": {
-      "psi": 24.7,
-      "toe": 0.0,
-      "camber": -3.5
-    },
-    "right_rear": {
       "psi": 25.5,
-      "toe": 0.0,
-      "camber": -3.5
+      "toe": -0.05,
+      "camber": -3.7,
+      "caster": 13.9
     }
   },
   "electronics": {
-    "tc": 2,
-    "abs": 2,
+    "tc": 4,
+    "abs": 4,
     "ecu_map": 1,
     "tc2": 0
   },
   "mechanical_grip": {
-    "front": {
-      "antiroll_bar": 8,
-      "brake_power": 100,
-      "brake_bias": 52.1,
-      "steer_ratio": 11
-    },
-    "rear": {
-      "antiroll_bar": 9,
-      "preload_differential": 20
-    },
-    "left_front": {
+    "left_rear": {
       "wheel_rate": 105000,
-      "bumpstop_rate": 200,
-      "bumpstop_range": 15
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 50
+    },
+    "front": {
+      "antiroll_bar": 4,
+      "brake_power": 100,
+      "brake_bias": 53,
+      "steer_ratio": 13
     },
     "right_front": {
-      "wheel_rate": 105000,
-      "bumpstop_rate": 200,
-      "bumpstop_range": 15
-    },
-    "left_rear": {
-      "wheel_rate": 90000,
-      "bumpstop_rate": 200,
-      "bumpstop_range": 60
+      "wheel_rate": 135000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 18
     },
     "right_rear": {
-      "wheel_rate": 90000,
-      "bumpstop_rate": 200,
-      "bumpstop_range": 60
+      "wheel_rate": 105000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 50
+    },
+    "rear": {
+      "antiroll_bar": 0,
+      "preload_differential": 70
+    },
+    "left_front": {
+      "wheel_rate": 135000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 18
     }
   },
   "dampers": {
-    "left_front": {
-      "bump": 0,
-      "fast_bump": 0,
-      "rebound": 40,
-      "fast_rebound": 49
-    },
-    "right_front": {
-      "bump": 0,
-      "fast_bump": 0,
-      "rebound": 40,
-      "fast_rebound": 49
+    "right_rear": {
+      "bump": 13,
+      "fast_bump": 40,
+      "rebound": 30,
+      "fast_rebound": 45
     },
     "left_rear": {
-      "bump": 0,
-      "fast_bump": 0,
+      "bump": 13,
+      "fast_bump": 40,
       "rebound": 30,
-      "fast_rebound": 49
+      "fast_rebound": 45
     },
-    "right_rear": {
-      "bump": 0,
-      "fast_bump": 0,
-      "rebound": 30,
-      "fast_rebound": 49
+    "left_front": {
+      "bump": 18,
+      "fast_bump": 40,
+      "rebound": 25,
+      "fast_rebound": 45
+    },
+    "right_front": {
+      "bump": 18,
+      "fast_bump": 40,
+      "rebound": 25,
+      "fast_rebound": 45
     }
   },
   "aero": {
+    "rear": {
+      "ride_height": 57,
+      "rear_wing": 8,
+      "brake_ducts": 4
+    },
     "front": {
       "ride_height": 50,
       "splitter": 0,
-      "brake_ducts": 3
-    },
-    "rear": {
-      "ride_height": 66,
-      "rear_wing": 8,
       "brake_ducts": 4
     }
+  },
+  "provenance": {
+    "sourceDocument": "Watkins_Glen.docx",
+    "sourceMarker": "BMW M4 GT3 - wkg - SF",
+    "sourceHeaderLine": "SF M M4 GT3 WKG Q LFM.jsonSF M M4 GT3 WKG Q.jsonSF M M4 GT3 WKG R LFM.jsonSF M M4 GT3 WKG R.jsonSF M4 GT3 WKG Q01.jsonSF M4 GT3 WKG RF01.jsonSF M4 GT3 WKG RS01.json",
+    "originalLabel": "RS01"
   }
 }

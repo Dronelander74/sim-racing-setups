@@ -1,117 +1,117 @@
 {
   "setupName": "sf_296_par_race_r01",
   "session": "race",
+  "raceStyle": "fast",
   "car": "ferrari_296_gt3",
   "track": "par",
-  "source": "sf",
-  "originalFileName": "CDA4.296 PAR RF01.json",
-  "parameters": {
-    "Tyres": {
-      "Left Front": {
-        "psi": "24.5",
-        "toe": "-0.05",
-        "camber": "-3.7",
-        "caster": "12.0"
-      },
-      "Right Front": {
-        "psi": "25.8",
-        "toe": "-0.05",
-        "camber": "-3.7",
-        "caster": "12.0"
-      },
-      "Left Rear": {
-        "psi": "24.3",
-        "toe": "0.00",
-        "camber": "-3.4"
-      },
-      "Right Rear": {
-        "psi": "25.4",
-        "toe": "0.00",
-        "camber": "-3.4"
-      }
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "right_front": {
+      "psi": 25.8,
+      "toe": -0.05,
+      "camber": -3.7,
+      "caster": 12
     },
-    "Electronics": {
-      "Electronic Elements": {
-        "TC": "20",
-        "ABS": "5",
-        "ECU Map": "1"
-      }
+    "right_rear": {
+      "psi": 25.4,
+      "toe": 0,
+      "camber": -3.4
     },
-    "Mechanical Grip": {
-      "Front": {
-        "antiroll bar": "3",
-        "brake power": "100%",
-        "brake bias": "58.6%",
-        "steer ratio": "14"
-      },
-      "Left Front": {
-        "wheel rate": "182.666",
-        "bumpstop rate": "800",
-        "bumpstop range": "3"
-      },
-      "Right Front": {
-        "wheel rate": "182.666",
-        "bumpstop rate": "800",
-        "bumpstop range": "3"
-      },
-      "Left Rear": {
-        "wheel rate": "122.091",
-        "bumpstop rate": "800",
-        "bumpstop range": "8"
-      },
-      "Right Rear": {
-        "wheel rate": "122.091",
-        "bumpstop rate": "800",
-        "bumpstop range": "8"
-      },
-      "Rear": {
-        "antiroll bar": "2",
-        "preload differential": "90 Nm"
-      }
+    "left_rear": {
+      "psi": 24.3,
+      "toe": 0,
+      "camber": -3.4
     },
-    "Dampers": {
-      "Left Front": {
-        "bump": "9",
-        "fast bump": "8",
-        "rebound": "10",
-        "fast rebound": "11"
-      },
-      "Right Front": {
-        "bump": "9",
-        "fast bump": "8",
-        "rebound": "10",
-        "fast rebound": "11"
-      },
-      "Left Rear": {
-        "bump": "6",
-        "fast bump": "8",
-        "rebound": "10",
-        "fast rebound": "10"
-      },
-      "Right Rear": {
-        "bump": "6",
-        "fast bump": "8",
-        "rebound": "10",
-        "fast rebound": "10"
-      }
+    "left_front": {
+      "psi": 24.5,
+      "toe": -0.05,
+      "camber": -3.7,
+      "caster": 12
+    }
+  },
+  "electronics": {
+    "tc": 7,
+    "abs": 5,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 122091,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 8
     },
-    "Aero": {
-      "Rear": {
-        "ride height": "50 mm",
-        "rear wing": "4",
-        "brake ducts": "3"
-      },
-      "Front": {
-        "ride height": "52 mm",
-        "splitter": "0",
-        "brake ducts": "3"
-      }
+    "left_front": {
+      "wheel_rate": 182666,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 3
+    },
+    "rear": {
+      "antiroll_bar": 2,
+      "preload_differential": 90
+    },
+    "right_front": {
+      "wheel_rate": 182666,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 3
+    },
+    "front": {
+      "antiroll_bar": 3,
+      "brake_power": 100,
+      "brake_bias": 58.6,
+      "steer_ratio": 14
+    },
+    "right_rear": {
+      "wheel_rate": 122091,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 8
+    }
+  },
+  "dampers": {
+    "right_front": {
+      "bump": 9,
+      "fast_bump": 8,
+      "rebound": 10,
+      "fast_rebound": 11
+    },
+    "right_rear": {
+      "bump": 6,
+      "fast_bump": 8,
+      "rebound": 10,
+      "fast_rebound": 10
+    },
+    "left_rear": {
+      "bump": 6,
+      "fast_bump": 8,
+      "rebound": 10,
+      "fast_rebound": 10
+    },
+    "left_front": {
+      "bump": 9,
+      "fast_bump": 8,
+      "rebound": 10,
+      "fast_rebound": 11
+    }
+  },
+  "aero": {
+    "front": {
+      "ride_height": 52,
+      "splitter": 0,
+      "brake_ducts": 3
+    },
+    "rear": {
+      "ride_height": 50,
+      "rear_wing": 4,
+      "brake_ducts": 3
     }
   },
   "provenance": {
-    "sourceDocument": "Paul Ricard.docx",
-    "sourceMarker": "Ferrari 296 GT3 - Paul Ricard - CDA4",
-    "sourceHeaderLine": "CDA M 296 PAR Q.jsonCDA M 296 PAR R.jsonCDA4.296 PAR Q01.jsonCDA4.296 PAR Q02.jsonCDA4.296 PAR RF01.jsonCDA4.296 PAR RF02.jsonCDA4.296 PAR RS01.jsonCDA4.296 PAR RS02.json"
-  },
-  "raceStyle": "fast"
+    "sourceDocument": "PAR.docx",
+    "sourceMarker": "Ferrari 296 GT3 - par - SF",
+    "sourceHeaderLine": "CDA M 296 PAR Q.jsonCDA M 296 PAR R.jsonCDA4.296 PAR Q01.jsonCDA4.296 PAR Q02.jsonCDA4.296 PAR RF01.jsonCDA4.296 PAR RF02.jsonCDA4.296 PAR RS01.jsonCDA4.296 PAR RS02.json",
+    "originalFileName": "CDA4.296 PAR RF01"
+  }
 }

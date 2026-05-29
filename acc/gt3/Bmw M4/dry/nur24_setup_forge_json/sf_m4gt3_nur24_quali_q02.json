@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_m4gt3_nur24_quali_q02",
+  "session": "quali",
+  "raceStyle": null,
+  "car": "bmw_m4_gt3",
+  "track": "nur24",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "right_rear": {
+      "psi": 24.4,
+      "toe": 0,
+      "camber": -3.5
+    },
+    "left_rear": {
+      "psi": 24.3,
+      "toe": 0,
+      "camber": -3.5
+    },
+    "left_front": {
+      "psi": 24.7,
+      "toe": -0.2,
+      "camber": -4,
+      "caster": 13.9
+    },
+    "right_front": {
+      "psi": 24.9,
+      "toe": -0.2,
+      "camber": -4,
+      "caster": 13.9
+    }
+  },
+  "electronics": {
+    "tc": 0,
+    "abs": 2,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 90000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 20
+    },
+    "front": {
+      "antiroll_bar": 5,
+      "brake_power": 100,
+      "brake_bias": 50,
+      "steer_ratio": 13
+    },
+    "right_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 10
+    },
+    "right_rear": {
+      "wheel_rate": 90000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 20
+    },
+    "rear": {
+      "antiroll_bar": 2,
+      "preload_differential": 20
+    },
+    "left_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 10
+    }
+  },
+  "dampers": {
+    "right_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    },
+    "left_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    },
+    "left_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    },
+    "right_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 95,
+      "rear_wing": 8,
+      "brake_ducts": 2
+    },
+    "front": {
+      "ride_height": 70,
+      "splitter": 0,
+      "brake_ducts": 2
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Nurburgring_H24.docx",
+    "sourceMarker": "BMW M4 GT3 - nur24 - SF",
+    "sourceHeaderLine": "SF M M4 GT3 NORD Q.jsonSF M M4 GT3 NORD R.jsonSF M4 GT3 NORD Q01.jsonSF M4 GT3 NORD RS01.json",
+    "originalLabel": "Q01"
+  }
+}

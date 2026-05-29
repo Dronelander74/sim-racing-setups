@@ -1,10 +1,24 @@
 {
   "setupName": "sf_m4gt3_snt_race_r03",
   "session": "race",
-  "raceStyle": "fast",
+  "raceStyle": "safe",
   "car": "bmw_m4_gt3",
-  "track": "snetterton",
+  "track": "snt",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
   "tyres": {
+    "right_rear": {
+      "psi": 25.3,
+      "toe": 0.03,
+      "camber": -3.3
+    },
+    "left_rear": {
+      "psi": 24.4,
+      "toe": 0.03,
+      "camber": -3.3
+    },
     "left_front": {
       "psi": 24.9,
       "toe": -0.12,
@@ -16,16 +30,6 @@
       "toe": -0.12,
       "camber": -3.7,
       "caster": 13.9
-    },
-    "left_rear": {
-      "psi": 24.4,
-      "toe": 0.03,
-      "camber": -3.3
-    },
-    "right_rear": {
-      "psi": 25.3,
-      "toe": 0.03,
-      "camber": -3.3
     }
   },
   "electronics": {
@@ -35,11 +39,26 @@
     "tc2": 0
   },
   "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 500,
+      "bumpstop_range": 50
+    },
     "front": {
       "antiroll_bar": 3,
       "brake_power": 100,
       "brake_bias": 51.5,
       "steer_ratio": 13
+    },
+    "right_front": {
+      "wheel_rate": 120000,
+      "bumpstop_rate": 600,
+      "bumpstop_range": 20
+    },
+    "right_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 500,
+      "bumpstop_range": 50
     },
     "rear": {
       "antiroll_bar": 0,
@@ -49,24 +68,21 @@
       "wheel_rate": 120000,
       "bumpstop_rate": 600,
       "bumpstop_range": 20
-    },
-    "right_front": {
-      "wheel_rate": 120000,
-      "bumpstop_rate": 600,
-      "bumpstop_range": 20
-    },
-    "left_rear": {
-      "wheel_rate": 105000,
-      "bumpstop_rate": 500,
-      "bumpstop_range": 50
-    },
-    "right_rear": {
-      "wheel_rate": 105000,
-      "bumpstop_rate": 500,
-      "bumpstop_range": 50
     }
   },
   "dampers": {
+    "right_rear": {
+      "bump": 15,
+      "fast_bump": 35,
+      "rebound": 24,
+      "fast_rebound": 40
+    },
+    "left_rear": {
+      "bump": 15,
+      "fast_bump": 35,
+      "rebound": 24,
+      "fast_rebound": 40
+    },
     "left_front": {
       "bump": 13,
       "fast_bump": 35,
@@ -78,30 +94,24 @@
       "fast_bump": 35,
       "rebound": 26,
       "fast_rebound": 40
-    },
-    "left_rear": {
-      "bump": 15,
-      "fast_bump": 35,
-      "rebound": 24,
-      "fast_rebound": 40
-    },
-    "right_rear": {
-      "bump": 15,
-      "fast_bump": 35,
-      "rebound": 24,
-      "fast_rebound": 40
     }
   },
   "aero": {
-    "front": {
-      "ride_height": 50,
-      "splitter": 0,
-      "brake_ducts": 5
-    },
     "rear": {
       "ride_height": 58,
       "rear_wing": 8,
       "brake_ducts": 5
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 5
     }
+  },
+  "provenance": {
+    "sourceDocument": "Snetterton.docx",
+    "sourceMarker": "BMW M4 GT3 - snt - SF",
+    "sourceHeaderLine": "SF M M4 GT3 SNT Q.jsonSF M M4 GT3 SNT R.jsonSF M4 GT3 SNT Q01.jsonSF M4 GT3 SNT RF01.jsonSF M4 GT3 SNT RS01.json",
+    "originalLabel": "RS01"
   }
 }

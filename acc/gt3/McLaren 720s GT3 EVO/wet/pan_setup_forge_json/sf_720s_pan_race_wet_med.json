@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_720s_pan_race_wet_med",
+  "session": "race",
+  "raceStyle": null,
+  "car": "mclaren_720s_gt3_evo",
+  "track": "pan",
+  "conditions": {
+    "weather": "wet",
+    "intensity": "medium"
+  },
+  "tyres": {
+    "right_rear": {
+      "psi": 26.9,
+      "toe": 0.15,
+      "camber": -3.1
+    },
+    "left_front": {
+      "psi": 27.4,
+      "toe": -0.15,
+      "camber": -3.4,
+      "caster": 15.6
+    },
+    "left_rear": {
+      "psi": 27.2,
+      "toe": 0.15,
+      "camber": -3.1
+    },
+    "right_front": {
+      "psi": 27.2,
+      "toe": -0.15,
+      "camber": -3.4,
+      "caster": 15.6
+    }
+  },
+  "electronics": {
+    "tc": 3,
+    "abs": 3,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_front": {
+      "wheel_rate": 134000,
+      "bumpstop_rate": 1500,
+      "bumpstop_range": 9
+    },
+    "right_front": {
+      "wheel_rate": 134000,
+      "bumpstop_rate": 1500,
+      "bumpstop_range": 9
+    },
+    "front": {
+      "antiroll_bar": 4,
+      "brake_power": 100,
+      "brake_bias": 47,
+      "steer_ratio": 12
+    },
+    "rear": {
+      "antiroll_bar": 3,
+      "preload_differential": 40
+    },
+    "right_rear": {
+      "wheel_rate": 97000,
+      "bumpstop_rate": 900,
+      "bumpstop_range": 27
+    },
+    "left_rear": {
+      "wheel_rate": 97000,
+      "bumpstop_rate": 900,
+      "bumpstop_range": 27
+    }
+  },
+  "dampers": {
+    "right_rear": {
+      "bump": 6,
+      "fast_bump": 15,
+      "rebound": 23,
+      "fast_rebound": 18
+    },
+    "left_front": {
+      "bump": 12,
+      "fast_bump": 25,
+      "rebound": 21,
+      "fast_rebound": 29
+    },
+    "left_rear": {
+      "bump": 6,
+      "fast_bump": 15,
+      "rebound": 23,
+      "fast_rebound": 18
+    },
+    "right_front": {
+      "bump": 12,
+      "fast_bump": 25,
+      "rebound": 21,
+      "fast_rebound": 29
+    }
+  },
+  "aero": {
+    "front": {
+      "ride_height": 51,
+      "splitter": 1,
+      "brake_ducts": 3
+    },
+    "rear": {
+      "ride_height": 78,
+      "rear_wing": 12,
+      "brake_ducts": 4
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Kya-Otp.docx",
+    "sourceMarker": "McLaren 720S GT3 EVO - pan - SF",
+    "sourceHeaderLine": ".SF 720S EVO KYA HVY WET.jsonSF 720S EVO KYA MED WET Q.jsonSF 720S EVO KYA MED WET.jsonSF 720S EVO LAG HVY WET.jsonSF 720S EVO LAG MED WET Q.jsonSF 720S EVO LAG MED WET.jsonSF 720S EVO MIS HVY WET.jsonSF 720S EVO MIS MED WET Q.jsonSF 720S EVO MIS MED WET.jsonSF 720S EVO MON HVY WET.jsonSF 720S EVO MON MED WET Q.jsonSF 720S EVO MON MED WET.jsonSF 720S EVO PAN HVY WET.jsonSF 720S EVO PAN MED WET Q.jsonSF 720S EVO PAN MED WET.jsonSF 720S EVO NUR HVY WET.jsonSF 720S EVO NUR MED WET Q.jsonSF 720S EVO NUR MED WET.jsonSF 720S EVO NORD HVY WET.jsonSF 720S EVO NORD MED WET Q.jsonSF 720S EVO NORD MED WET.jsonSF 720S EVO OTP HVY WET.jsonSF 720S EVO OTP MED WET Q.jsonSF 720S EVO OTP MED WET.json.",
+    "originalLabel": "MED WET"
+  }
+}

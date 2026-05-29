@@ -1,107 +1,117 @@
 {
   "setupName": "sf_m4gt3_brh_race_r03",
   "session": "race",
-  "raceStyle": "fast",
+  "raceStyle": "safe",
   "car": "bmw_m4_gt3",
-  "track": "brands_hatch",
+  "track": "brh",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
   "tyres": {
-    "left_front": {
-      "psi": 24.8,
-      "toe": -0.15,
-      "camber": -3.7,
-      "caster": 13.9
-    },
-    "right_front": {
-      "psi": 26.3,
-      "toe": -0.15,
-      "camber": -3.7,
-      "caster": 13.9
+    "right_rear": {
+      "psi": 25.5,
+      "toe": 0.03,
+      "camber": -3.3
     },
     "left_rear": {
       "psi": 24.3,
       "toe": 0.03,
       "camber": -3.3
     },
-    "right_rear": {
-      "psi": 25.5,
-      "toe": 0.03,
-      "camber": -3.3
+    "left_front": {
+      "psi": 24.8,
+      "toe": -0.1,
+      "camber": -3.7,
+      "caster": 13.9
+    },
+    "right_front": {
+      "psi": 26.3,
+      "toe": -0.1,
+      "camber": -3.7,
+      "caster": 13.9
     }
   },
   "electronics": {
-    "tc": 2.0,
-    "abs": 4.0,
-    "ecu_map": 1.0,
-    "tc2": 0.0
+    "tc": 4,
+    "abs": 4,
+    "ecu_map": 1,
+    "tc2": 0
   },
   "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 700,
+      "bumpstop_range": 40
+    },
     "front": {
-      "antiroll_bar": 1.0,
-      "brake_power": 100.0,
+      "antiroll_bar": 1,
+      "brake_power": 100,
       "brake_bias": 51.8,
-      "steer_ratio": 13.0
-    },
-    "rear": {
-      "antiroll_bar": 0.0,
-      "preload_differential": 50.0
-    },
-    "left_front": {
-      "wheel_rate": 135000.0,
-      "bumpstop_rate": 600.0,
-      "bumpstop_range": 20.0
+      "steer_ratio": 13
     },
     "right_front": {
-      "wheel_rate": 135000.0,
-      "bumpstop_rate": 600.0,
-      "bumpstop_range": 20.0
-    },
-    "left_rear": {
-      "wheel_rate": 120000.0,
-      "bumpstop_rate": 700.0,
-      "bumpstop_range": 40.0
+      "wheel_rate": 135000,
+      "bumpstop_rate": 600,
+      "bumpstop_range": 20
     },
     "right_rear": {
-      "wheel_rate": 120000.0,
-      "bumpstop_rate": 700.0,
-      "bumpstop_range": 40.0
+      "wheel_rate": 105000,
+      "bumpstop_rate": 700,
+      "bumpstop_range": 40
+    },
+    "rear": {
+      "antiroll_bar": 0,
+      "preload_differential": 40
+    },
+    "left_front": {
+      "wheel_rate": 135000,
+      "bumpstop_rate": 600,
+      "bumpstop_range": 20
     }
   },
   "dampers": {
-    "left_front": {
-      "bump": 20.0,
-      "fast_bump": 35.0,
-      "rebound": 28.0,
-      "fast_rebound": 40.0
-    },
-    "right_front": {
-      "bump": 20.0,
-      "fast_bump": 35.0,
-      "rebound": 28.0,
-      "fast_rebound": 40.0
+    "right_rear": {
+      "bump": 10,
+      "fast_bump": 35,
+      "rebound": 25,
+      "fast_rebound": 40
     },
     "left_rear": {
-      "bump": 15.0,
-      "fast_bump": 35.0,
-      "rebound": 22.0,
-      "fast_rebound": 40.0
+      "bump": 10,
+      "fast_bump": 35,
+      "rebound": 25,
+      "fast_rebound": 40
     },
-    "right_rear": {
-      "bump": 15.0,
-      "fast_bump": 35.0,
-      "rebound": 22.0,
-      "fast_rebound": 40.0
+    "left_front": {
+      "bump": 16,
+      "fast_bump": 35,
+      "rebound": 28,
+      "fast_rebound": 40
+    },
+    "right_front": {
+      "bump": 16,
+      "fast_bump": 35,
+      "rebound": 28,
+      "fast_rebound": 40
     }
   },
   "aero": {
-    "front": {
-      "ride_height": 50.0,
-      "splitter": 0.0,
-      "brake_ducts": 5.0
-    },
     "rear": {
-      "ride_height": 59.0,
-      "rear_wing": 8.0,
-      "brake_ducts": 5.0
+      "ride_height": 59,
+      "rear_wing": 8,
+      "brake_ducts": 5
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 5
     }
+  },
+  "provenance": {
+    "sourceDocument": "Brands_Hatch.docx",
+    "sourceMarker": "BMW M4 GT3 - brh - SF",
+    "sourceHeaderLine": "SF M M4 GT3 BRH Q LFM.jsonSF M M4 GT3 BRH R LFM.jsonSF M4 GT3 BRH Q01.jsonSF M4 GT3 BRH RF01.jsonSF M4 GT3 BRH RS01.json",
+    "originalLabel": "RS01"
   }
 }

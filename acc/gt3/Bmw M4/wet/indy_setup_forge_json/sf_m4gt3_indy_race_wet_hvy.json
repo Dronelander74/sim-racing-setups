@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_m4gt3_indy_race_wet_hvy",
+  "session": "race",
+  "raceStyle": null,
+  "car": "bmw_m4_gt3",
+  "track": "indy",
+  "conditions": {
+    "weather": "wet",
+    "intensity": "heavy"
+  },
+  "tyres": {
+    "right_rear": {
+      "psi": 29,
+      "toe": 0.12,
+      "camber": -3.3
+    },
+    "left_rear": {
+      "psi": 28.6,
+      "toe": 0.12,
+      "camber": -3.3
+    },
+    "left_front": {
+      "psi": 28.7,
+      "toe": -0.14,
+      "camber": -3.7,
+      "caster": 12.6
+    },
+    "right_front": {
+      "psi": 29.1,
+      "toe": -0.14,
+      "camber": -3.7,
+      "caster": 12.6
+    }
+  },
+  "electronics": {
+    "tc": 5,
+    "abs": 1,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 1100,
+      "bumpstop_range": 26
+    },
+    "front": {
+      "antiroll_bar": 2,
+      "brake_power": 100,
+      "brake_bias": 48.5,
+      "steer_ratio": 15
+    },
+    "right_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 12
+    },
+    "right_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 1100,
+      "bumpstop_range": 26
+    },
+    "rear": {
+      "antiroll_bar": 3,
+      "preload_differential": 40
+    },
+    "left_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 12
+    }
+  },
+  "dampers": {
+    "right_rear": {
+      "bump": 11,
+      "fast_bump": 32,
+      "rebound": 21,
+      "fast_rebound": 42
+    },
+    "left_rear": {
+      "bump": 11,
+      "fast_bump": 32,
+      "rebound": 21,
+      "fast_rebound": 42
+    },
+    "left_front": {
+      "bump": 22,
+      "fast_bump": 34,
+      "rebound": 37,
+      "fast_rebound": 45
+    },
+    "right_front": {
+      "bump": 22,
+      "fast_bump": 34,
+      "rebound": 37,
+      "fast_rebound": 45
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 62,
+      "rear_wing": 8,
+      "brake_ducts": 3
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 3
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Bar-Ind.docx",
+    "sourceMarker": "BMW M4 GT3 - indy - SF",
+    "sourceHeaderLine": "SF M4 GT3 BAR HVY WET.jsonSF M4 GT3 BAR MED WET Q.jsonSF M4 GT3 BAR MED WET.jsonSF M4 GT3 BRH HVY WET.jsonSF M4 GT3 BRH MED WET Q.jsonSF M4 GT3 BRH MED WET.jsonSF M4 GT3 COTA HVY WET.jsonSF M4 GT3 COTA MED WET Q.jsonSF M4 GT3 COTA MED WET.jsonSF M4 GT3 DNP HVY WET.jsonSF M4 GT3 DNP MED WET Q.jsonSF M4 GT3 DNP MED WET.jsonSF M4 GT3 HUN HVY WET.jsonSF M4 GT3 HUN MED WET Q.jsonSF M4 GT3 HUN MED WET.jsonSF M4 GT3 IMO HVY WET.jsonSF M4 GT3 IMO MED WET Q.jsonSF M4 GT3 IMO MED WET.jsonSF M4 GT3 INDY HVY WET.jsonSF M4 GT3 INDY MED WET Q.jsonSF M4 GT3 INDY MED WET.json.",
+    "originalLabel": "HVY WET"
+  }
+}

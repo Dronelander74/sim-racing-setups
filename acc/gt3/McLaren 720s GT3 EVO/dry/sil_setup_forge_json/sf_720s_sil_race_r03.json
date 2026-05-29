@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_720s_sil_race_r03",
+  "session": "race",
+  "raceStyle": "fast",
+  "car": "mclaren_720s_gt3_evo",
+  "track": "sil",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "right_rear": {
+      "psi": 25.5,
+      "toe": 0.08,
+      "camber": -3.5
+    },
+    "left_front": {
+      "psi": 24.9,
+      "toe": -0.2,
+      "camber": -4,
+      "caster": 16.3
+    },
+    "left_rear": {
+      "psi": 24.5,
+      "toe": 0.08,
+      "camber": -3.5
+    },
+    "right_front": {
+      "psi": 25.7,
+      "toe": -0.2,
+      "camber": -4,
+      "caster": 16.3
+    }
+  },
+  "electronics": {
+    "tc": 3,
+    "abs": 3,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_front": {
+      "wheel_rate": 134000,
+      "bumpstop_rate": 400,
+      "bumpstop_range": 14
+    },
+    "right_front": {
+      "wheel_rate": 134000,
+      "bumpstop_rate": 400,
+      "bumpstop_range": 14
+    },
+    "front": {
+      "antiroll_bar": 10,
+      "brake_power": 100,
+      "brake_bias": 49.6,
+      "steer_ratio": 11
+    },
+    "rear": {
+      "antiroll_bar": 0,
+      "preload_differential": 20
+    },
+    "right_rear": {
+      "wheel_rate": 83000,
+      "bumpstop_rate": 500,
+      "bumpstop_range": 12
+    },
+    "left_rear": {
+      "wheel_rate": 83000,
+      "bumpstop_rate": 500,
+      "bumpstop_range": 12
+    }
+  },
+  "dampers": {
+    "right_rear": {
+      "bump": 15,
+      "fast_bump": 16,
+      "rebound": 30,
+      "fast_rebound": 32
+    },
+    "left_front": {
+      "bump": 14,
+      "fast_bump": 16,
+      "rebound": 30,
+      "fast_rebound": 30
+    },
+    "left_rear": {
+      "bump": 15,
+      "fast_bump": 16,
+      "rebound": 30,
+      "fast_rebound": 32
+    },
+    "right_front": {
+      "bump": 14,
+      "fast_bump": 16,
+      "rebound": 30,
+      "fast_rebound": 30
+    }
+  },
+  "aero": {
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 4
+    },
+    "rear": {
+      "ride_height": 67,
+      "rear_wing": 4,
+      "brake_ducts": 4
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Silverstone.docx",
+    "sourceMarker": "McLaren 720S GT3 EVO - sil - SF",
+    "sourceHeaderLine": "SF M 720S EVO SIL LFM Q.jsonSF M 720S EVO SIL LFM R.jsonSF4 720s EVO SIL Q01.jsonSF4 720S EVO SIL Q02.jsonSF4 720s EVO SIL RF01.jsonSF4 720S EVO SIL RF02.jsonSF4 720s EVO SIL RS01.jsonSF4 720S EVO SIL RS02.json",
+    "originalLabel": "RF02"
+  }
+}

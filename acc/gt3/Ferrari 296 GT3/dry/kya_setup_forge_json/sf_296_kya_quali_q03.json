@@ -1,116 +1,117 @@
 {
   "setupName": "sf_296_kya_quali_q03",
   "session": "quali",
+  "raceStyle": null,
   "car": "ferrari_296_gt3",
   "track": "kya",
-  "source": "sf",
-  "originalFileName": "SF 296 KYA Q03.json",
-  "parameters": {
-    "Tyres": {
-      "Left Front": {
-        "psi": "25.7",
-        "toe": "-0.15",
-        "camber": "-3.7",
-        "caster": "11.0"
-      },
-      "Right Front": {
-        "psi": "25.7",
-        "toe": "-0.15",
-        "camber": "-3.7",
-        "caster": "11.0"
-      },
-      "Left Rear": {
-        "psi": "25.4",
-        "toe": "-0.02",
-        "camber": "-3.4"
-      },
-      "Right Rear": {
-        "psi": "25.4",
-        "toe": "-0.02",
-        "camber": "-3.4"
-      }
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "right_front": {
+      "psi": 25.7,
+      "toe": -0.15,
+      "camber": -3.7,
+      "caster": 11
     },
-    "Electronics": {
-      "Electronic Elements": {
-        "TC": "20",
-        "ABS": "5",
-        "ECU Map": "1"
-      }
+    "right_rear": {
+      "psi": 25.4,
+      "toe": -0.02,
+      "camber": -3.4
     },
-    "Mechanical Grip": {
-      "Front": {
-        "antiroll bar": "2",
-        "brake power": "100%",
-        "brake bias": "58.2%",
-        "steer ratio": "14"
-      },
-      "Left Front": {
-        "wheel rate": "163.769",
-        "bumpstop rate": "300",
-        "bumpstop range": "10"
-      },
-      "Right Front": {
-        "wheel rate": "163.769",
-        "bumpstop rate": "300",
-        "bumpstop range": "10"
-      },
-      "Left Rear": {
-        "wheel rate": "143.637",
-        "bumpstop rate": "1.200",
-        "bumpstop range": "17"
-      },
-      "Right Rear": {
-        "wheel rate": "143.637",
-        "bumpstop rate": "1.200",
-        "bumpstop range": "17"
-      },
-      "Rear": {
-        "antiroll bar": "4",
-        "preload differential": "120 Nm"
-      }
+    "left_rear": {
+      "psi": 25.4,
+      "toe": -0.02,
+      "camber": -3.4
     },
-    "Dampers": {
-      "Left Front": {
-        "bump": "9",
-        "fast bump": "5",
-        "rebound": "10",
-        "fast rebound": "10"
-      },
-      "Right Front": {
-        "bump": "9",
-        "fast bump": "5",
-        "rebound": "10",
-        "fast rebound": "10"
-      },
-      "Left Rear": {
-        "bump": "9",
-        "fast bump": "3",
-        "rebound": "5",
-        "fast rebound": "11"
-      },
-      "Right Rear": {
-        "bump": "9",
-        "fast bump": "3",
-        "rebound": "5",
-        "fast rebound": "11"
-      }
+    "left_front": {
+      "psi": 25.7,
+      "toe": -0.15,
+      "camber": -3.7,
+      "caster": 11
+    }
+  },
+  "electronics": {
+    "tc": 7,
+    "abs": 5,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 143637,
+      "bumpstop_rate": 1200,
+      "bumpstop_range": 17
     },
-    "Aero": {
-      "Rear": {
-        "ride height": "60 mm",
-        "rear wing": "12",
-        "brake ducts": "3"
-      },
-      "Front": {
-        "ride height": "50 mm",
-        "splitter": "0",
-        "brake ducts": "3"
-      }
+    "left_front": {
+      "wheel_rate": 163769,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 10
+    },
+    "rear": {
+      "antiroll_bar": 4,
+      "preload_differential": 120
+    },
+    "right_front": {
+      "wheel_rate": 163769,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 10
+    },
+    "front": {
+      "antiroll_bar": 2,
+      "brake_power": 100,
+      "brake_bias": 58.2,
+      "steer_ratio": 14
+    },
+    "right_rear": {
+      "wheel_rate": 143637,
+      "bumpstop_rate": 1200,
+      "bumpstop_range": 17
+    }
+  },
+  "dampers": {
+    "right_front": {
+      "bump": 9,
+      "fast_bump": 5,
+      "rebound": 10,
+      "fast_rebound": 10
+    },
+    "right_rear": {
+      "bump": 9,
+      "fast_bump": 3,
+      "rebound": 5,
+      "fast_rebound": 11
+    },
+    "left_rear": {
+      "bump": 9,
+      "fast_bump": 3,
+      "rebound": 5,
+      "fast_rebound": 11
+    },
+    "left_front": {
+      "bump": 9,
+      "fast_bump": 5,
+      "rebound": 10,
+      "fast_rebound": 10
+    }
+  },
+  "aero": {
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 3
+    },
+    "rear": {
+      "ride_height": 60,
+      "rear_wing": 12,
+      "brake_ducts": 3
     }
   },
   "provenance": {
-    "sourceDocument": "Kyalami.docx",
-    "sourceMarker": "Ferrari 296 GT3 - Kyalami - SF",
-    "sourceHeaderLine": "SF 296 KYA Q03.json"
+    "sourceDocument": "KYA.docx",
+    "sourceMarker": "Ferrari 296 GT3 - kya - SF",
+    "sourceHeaderLine": "SF 296 KYA Q03.json",
+    "originalFileName": "SF 296 KYA Q03"
   }
 }

@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_m4gt3_nur24_race_wet_hvy",
+  "session": "race",
+  "raceStyle": null,
+  "car": "bmw_m4_gt3",
+  "track": "nur24",
+  "conditions": {
+    "weather": "wet",
+    "intensity": "heavy"
+  },
+  "tyres": {
+    "right_rear": {
+      "psi": 27.5,
+      "toe": 0.06,
+      "camber": -3.5
+    },
+    "left_rear": {
+      "psi": 27.5,
+      "toe": 0.06,
+      "camber": -3.5
+    },
+    "left_front": {
+      "psi": 28.5,
+      "toe": -0.2,
+      "camber": -4,
+      "caster": 13.9
+    },
+    "right_front": {
+      "psi": 28.5,
+      "toe": -0.2,
+      "camber": -4,
+      "caster": 13.9
+    }
+  },
+  "electronics": {
+    "tc": 3,
+    "abs": 2,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 90000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 42
+    },
+    "front": {
+      "antiroll_bar": 7,
+      "brake_power": 100,
+      "brake_bias": 48.5,
+      "steer_ratio": 13
+    },
+    "right_front": {
+      "wheel_rate": 135000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 12
+    },
+    "right_rear": {
+      "wheel_rate": 90000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 42
+    },
+    "rear": {
+      "antiroll_bar": 0,
+      "preload_differential": 140
+    },
+    "left_front": {
+      "wheel_rate": 135000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 12
+    }
+  },
+  "dampers": {
+    "right_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    },
+    "left_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    },
+    "left_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    },
+    "right_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 86,
+      "rear_wing": 8,
+      "brake_ducts": 2
+    },
+    "front": {
+      "ride_height": 70,
+      "splitter": 0,
+      "brake_ducts": 2
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Nur-Rbr.docx",
+    "sourceMarker": "BMW M4 GT3 - nur24 - SF",
+    "sourceHeaderLine": ".M4 GT3 NUR HVY WET.jsonSF M4 GT3 NUR MED WET Q.jsonSF M4 GT3 NUR MED WET.jsonSF M4 GT3 NORD HVY WET.jsonSF M4 GT3 NORD MED WET Q.jsonSF M4 GT3 NORD MED WET.jsonSF M4 GT3 OTP HVY WET.jsonSF M4 GT3 OTP MED WET Q.jsonSF M4 GT3 OTP MED WET.jsonSF M4 GT3 PAR HVY WET.jsonSF M4 GT3 PAR MED WET Q.jsonSF M4 GT3 PAR MED WET.jsonSF M4 GT3 RBR HVY WET.jsonSF M4 GT3 RBR MED WET Q.jsonSF M4 GT3 RBR MED WET.json.",
+    "originalLabel": "HVY WET"
+  }
+}

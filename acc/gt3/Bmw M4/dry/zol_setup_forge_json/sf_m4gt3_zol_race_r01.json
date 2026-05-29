@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_m4gt3_zol_race_r01",
+  "session": "race",
+  "raceStyle": null,
+  "car": "bmw_m4_gt3",
+  "track": "zol",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "right_rear": {
+      "psi": 25.4,
+      "toe": 0.02,
+      "camber": -3.5
+    },
+    "left_rear": {
+      "psi": 24.8,
+      "toe": 0.02,
+      "camber": -3.5
+    },
+    "left_front": {
+      "psi": 25.1,
+      "toe": -0.2,
+      "camber": -4,
+      "caster": 13.9
+    },
+    "right_front": {
+      "psi": 26.1,
+      "toe": -0.2,
+      "camber": -4,
+      "caster": 13.9
+    }
+  },
+  "electronics": {
+    "tc": 1,
+    "abs": 2,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 90000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 30
+    },
+    "front": {
+      "antiroll_bar": 8,
+      "brake_power": 100,
+      "brake_bias": 49.1,
+      "steer_ratio": 12
+    },
+    "right_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 26
+    },
+    "right_rear": {
+      "wheel_rate": 90000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 30
+    },
+    "rear": {
+      "antiroll_bar": 5,
+      "preload_differential": 20
+    },
+    "left_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 26
+    }
+  },
+  "dampers": {
+    "right_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    },
+    "left_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    },
+    "left_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    },
+    "right_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 49
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 68,
+      "rear_wing": 8,
+      "brake_ducts": 3
+    },
+    "front": {
+      "ride_height": 52,
+      "splitter": 0,
+      "brake_ducts": 3
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Zolder.docx",
+    "sourceMarker": "BMW M4 GT3 - zol - SF",
+    "sourceHeaderLine": "SF M M4 GT3 ZOL Q LFM.jsonSF M M4 GT3 ZOL Q.jsonSF M M4 GT3 ZOL R LFM.jsonSF M M4 GT3 ZOL R.jsonSF M4 GT3 ZOL Q01.jsonSF M4 GT3 ZOL RF01.jsonSF M4 GT3 ZOL RS01.json",
+    "originalLabel": "R LFM"
+  }
+}

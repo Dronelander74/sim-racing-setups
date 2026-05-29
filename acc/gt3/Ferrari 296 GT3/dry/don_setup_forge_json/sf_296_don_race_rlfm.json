@@ -1,0 +1,111 @@
+{
+  "setupName": "sf_296_don_race_rlfm",
+  "session": "race",
+  "raceStyle": null,
+  "car": "ferrari_296_gt3",
+  "track": "don",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "left_front": {
+      "psi": 25.1,
+      "toe": -0.3,
+      "camber": -4,
+      "caster": 13.8
+    },
+    "right_front": {
+      "psi": 25.8,
+      "toe": -0.3,
+      "camber": -4,
+      "caster": 13.8
+    },
+    "left_rear": {
+      "psi": 25,
+      "toe": 0.04,
+      "camber": -3.5
+    },
+    "right_rear": {
+      "psi": 25.6,
+      "toe": 0.04,
+      "camber": -3.5
+    }
+  },
+  "electronics": {
+    "tc": 5,
+    "abs": 2,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "front": {
+      "antiroll_bar": 4,
+      "brake_power": 100,
+      "brake_bias": 56.6,
+      "steer_ratio": 15
+    },
+    "left_front": {
+      "wheel_rate": 163769,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 12
+    },
+    "right_front": {
+      "wheel_rate": 163769,
+      "bumpstop_rate": 300,
+      "bumpstop_range": 12
+    },
+    "left_rear": {
+      "wheel_rate": 122091,
+      "bumpstop_rate": 400,
+      "bumpstop_range": 30
+    },
+    "right_rear": {
+      "wheel_rate": 122091,
+      "bumpstop_rate": 400,
+      "bumpstop_range": 30
+    },
+    "rear": {
+      "antiroll_bar": 2,
+      "preload_differential": 20
+    }
+  },
+  "dampers": {
+    "left_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 11,
+      "fast_rebound": 11
+    },
+    "right_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 11,
+      "fast_rebound": 11
+    },
+    "left_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 11,
+      "fast_rebound": 11
+    },
+    "right_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 11,
+      "fast_rebound": 11
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 68,
+      "rear_wing": 12,
+      "brake_ducts": 3
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 2
+    }
+  }
+}

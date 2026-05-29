@@ -3,8 +3,22 @@
   "session": "race",
   "raceStyle": "fast",
   "car": "bmw_m4_gt3",
-  "track": "suzuka",
+  "track": "suz",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
   "tyres": {
+    "right_rear": {
+      "psi": 24.7,
+      "toe": 0,
+      "camber": -3.3
+    },
+    "left_rear": {
+      "psi": 24.7,
+      "toe": 0,
+      "camber": -3.3
+    },
     "left_front": {
       "psi": 25.3,
       "toe": -0.08,
@@ -16,16 +30,6 @@
       "toe": -0.08,
       "camber": -3.8,
       "caster": 13.9
-    },
-    "left_rear": {
-      "psi": 24.7,
-      "toe": 0.0,
-      "camber": -3.3
-    },
-    "right_rear": {
-      "psi": 24.7,
-      "toe": 0.0,
-      "camber": -3.3
     }
   },
   "electronics": {
@@ -35,11 +39,26 @@
     "tc2": 0
   },
   "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 120000,
+      "bumpstop_rate": 500,
+      "bumpstop_range": 25
+    },
     "front": {
       "antiroll_bar": 4,
       "brake_power": 100,
       "brake_bias": 52.7,
       "steer_ratio": 14
+    },
+    "right_front": {
+      "wheel_rate": 135000,
+      "bumpstop_rate": 400,
+      "bumpstop_range": 12
+    },
+    "right_rear": {
+      "wheel_rate": 120000,
+      "bumpstop_rate": 500,
+      "bumpstop_range": 25
     },
     "rear": {
       "antiroll_bar": 1,
@@ -49,24 +68,21 @@
       "wheel_rate": 135000,
       "bumpstop_rate": 400,
       "bumpstop_range": 12
-    },
-    "right_front": {
-      "wheel_rate": 135000,
-      "bumpstop_rate": 400,
-      "bumpstop_range": 12
-    },
-    "left_rear": {
-      "wheel_rate": 120000,
-      "bumpstop_rate": 500,
-      "bumpstop_range": 25
-    },
-    "right_rear": {
-      "wheel_rate": 120000,
-      "bumpstop_rate": 500,
-      "bumpstop_range": 25
     }
   },
   "dampers": {
+    "right_rear": {
+      "bump": 10,
+      "fast_bump": 38,
+      "rebound": 27,
+      "fast_rebound": 39
+    },
+    "left_rear": {
+      "bump": 10,
+      "fast_bump": 38,
+      "rebound": 27,
+      "fast_rebound": 39
+    },
     "left_front": {
       "bump": 12,
       "fast_bump": 30,
@@ -78,30 +94,24 @@
       "fast_bump": 30,
       "rebound": 20,
       "fast_rebound": 32
-    },
-    "left_rear": {
-      "bump": 10,
-      "fast_bump": 38,
-      "rebound": 27,
-      "fast_rebound": 39
-    },
-    "right_rear": {
-      "bump": 10,
-      "fast_bump": 38,
-      "rebound": 27,
-      "fast_rebound": 39
     }
   },
   "aero": {
-    "front": {
-      "ride_height": 50,
-      "splitter": 0,
-      "brake_ducts": 4
-    },
     "rear": {
       "ride_height": 65,
       "rear_wing": 8,
       "brake_ducts": 3
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 4
     }
+  },
+  "provenance": {
+    "sourceDocument": "Suzuka.docx",
+    "sourceMarker": "BMW M4 GT3 - suz - SF",
+    "sourceHeaderLine": "SF M M4 GT3 SUZ Q LFM.jsonSF M M4 GT3 SUZ Q.jsonSF M M4 GT3 SUZ R LFM.jsonSF M M4 GT3 SUZ R.jsonSF3 M4 GT3 SUZ Q01.jsonSF3 M4 GT3 SUZ RF01.jsonSF M4 GT3 SUZ RS01.json",
+    "originalLabel": "RF01"
   }
 }

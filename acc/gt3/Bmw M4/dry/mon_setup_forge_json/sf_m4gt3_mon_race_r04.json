@@ -1,107 +1,117 @@
 {
   "setupName": "sf_m4gt3_mon_race_r04",
   "session": "race",
-  "raceStyle": null,
+  "raceStyle": "safe",
   "car": "bmw_m4_gt3",
-  "track": "monza",
+  "track": "mon",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
   "tyres": {
-    "left_front": {
-      "psi": 25.5,
-      "toe": -0.2,
-      "camber": -4.0,
-      "caster": 12.6
-    },
-    "right_front": {
-      "psi": 26.3,
-      "toe": -0.2,
-      "camber": -4.0,
-      "caster": 12.6
+    "right_rear": {
+      "psi": 25.4,
+      "toe": 0.03,
+      "camber": -3.3
     },
     "left_rear": {
-      "psi": 25.0,
-      "toe": 0.02,
-      "camber": -3.5
+      "psi": 24.7,
+      "toe": 0.03,
+      "camber": -3.3
     },
-    "right_rear": {
-      "psi": 25.8,
-      "toe": 0.02,
-      "camber": -3.5
+    "left_front": {
+      "psi": 25.2,
+      "toe": -0.05,
+      "camber": -3.7,
+      "caster": 13.9
+    },
+    "right_front": {
+      "psi": 26.2,
+      "toe": -0.05,
+      "camber": -3.7,
+      "caster": 13.9
     }
   },
   "electronics": {
-    "tc": 2.0,
-    "abs": 2.0,
-    "ecu_map": 1.0,
-    "tc2": 0.0
+    "tc": 3,
+    "abs": 4,
+    "ecu_map": 1,
+    "tc2": 0
   },
   "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 60
+    },
     "front": {
-      "antiroll_bar": 4.0,
-      "brake_power": 100.0,
-      "brake_bias": 50.6,
-      "steer_ratio": 13.0
-    },
-    "rear": {
-      "antiroll_bar": 2.0,
-      "preload_differential": 50.0
-    },
-    "left_front": {
-      "wheel_rate": 120000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 19.0
+      "antiroll_bar": 6,
+      "brake_power": 100,
+      "brake_bias": 51.5,
+      "steer_ratio": 13
     },
     "right_front": {
-      "wheel_rate": 120000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 19.0
-    },
-    "left_rear": {
-      "wheel_rate": 90000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 45.0
+      "wheel_rate": 150000,
+      "bumpstop_rate": 1250,
+      "bumpstop_range": 10
     },
     "right_rear": {
-      "wheel_rate": 90000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 45.0
+      "wheel_rate": 105000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 60
+    },
+    "rear": {
+      "antiroll_bar": 0,
+      "preload_differential": 50
+    },
+    "left_front": {
+      "wheel_rate": 150000,
+      "bumpstop_rate": 1250,
+      "bumpstop_range": 10
     }
   },
   "dampers": {
-    "left_front": {
-      "bump": 0.0,
-      "fast_bump": 0.0,
-      "rebound": 40.0,
-      "fast_rebound": 45.0
-    },
-    "right_front": {
-      "bump": 0.0,
-      "fast_bump": 0.0,
-      "rebound": 40.0,
-      "fast_rebound": 45.0
+    "right_rear": {
+      "bump": 5,
+      "fast_bump": 40,
+      "rebound": 35,
+      "fast_rebound": 49
     },
     "left_rear": {
-      "bump": 0.0,
-      "fast_bump": 0.0,
-      "rebound": 40.0,
-      "fast_rebound": 49.0
+      "bump": 5,
+      "fast_bump": 40,
+      "rebound": 35,
+      "fast_rebound": 49
     },
-    "right_rear": {
-      "bump": 0.0,
-      "fast_bump": 0.0,
-      "rebound": 40.0,
-      "fast_rebound": 49.0
+    "left_front": {
+      "bump": 20,
+      "fast_bump": 40,
+      "rebound": 26,
+      "fast_rebound": 40
+    },
+    "right_front": {
+      "bump": 20,
+      "fast_bump": 40,
+      "rebound": 26,
+      "fast_rebound": 40
     }
   },
   "aero": {
-    "front": {
-      "ride_height": 51.0,
-      "splitter": 0.0,
-      "brake_ducts": 3.0
-    },
     "rear": {
-      "ride_height": 55.0,
-      "rear_wing": 2.0,
-      "brake_ducts": 3.0
+      "ride_height": 50,
+      "rear_wing": 1,
+      "brake_ducts": 3
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 3
     }
+  },
+  "provenance": {
+    "sourceDocument": "Monza.docx",
+    "sourceMarker": "BMW M4 GT3 - mon - SF",
+    "sourceHeaderLine": "SF M M4 GT3 MON Q LFM.jsonSF M M4 GT3 MON Q.jsonSF M M4 GT3 MON R LFM.jsonSF M M4 GT3 MON R.jsonSF M4 GT3 MON Q01.jsonSF M4 GT3 MON RF01.jsonSF M4 GT3 MON RS01.json",
+    "originalLabel": "RS01"
   }
 }

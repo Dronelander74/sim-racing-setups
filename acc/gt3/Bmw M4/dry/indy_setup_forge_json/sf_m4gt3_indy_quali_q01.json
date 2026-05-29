@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_m4gt3_indy_quali_q01",
+  "session": "quali",
+  "raceStyle": null,
+  "car": "bmw_m4_gt3",
+  "track": "indy",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "right_rear": {
+      "psi": 25.5,
+      "toe": 0,
+      "camber": -3.5
+    },
+    "left_rear": {
+      "psi": 24.3,
+      "toe": 0,
+      "camber": -3.5
+    },
+    "left_front": {
+      "psi": 24.7,
+      "toe": -0.15,
+      "camber": -4,
+      "caster": 12.4
+    },
+    "right_front": {
+      "psi": 26.1,
+      "toe": -0.15,
+      "camber": -4,
+      "caster": 12.4
+    }
+  },
+  "electronics": {
+    "tc": 4,
+    "abs": 3,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 500,
+      "bumpstop_range": 20
+    },
+    "front": {
+      "antiroll_bar": 4,
+      "brake_power": 100,
+      "brake_bias": 51.5,
+      "steer_ratio": 12
+    },
+    "right_front": {
+      "wheel_rate": 120000,
+      "bumpstop_rate": 700,
+      "bumpstop_range": 17
+    },
+    "right_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 500,
+      "bumpstop_range": 20
+    },
+    "rear": {
+      "antiroll_bar": 3,
+      "preload_differential": 80
+    },
+    "left_front": {
+      "wheel_rate": 120000,
+      "bumpstop_rate": 700,
+      "bumpstop_range": 17
+    }
+  },
+  "dampers": {
+    "right_rear": {
+      "bump": 8,
+      "fast_bump": 28,
+      "rebound": 28,
+      "fast_rebound": 30
+    },
+    "left_rear": {
+      "bump": 8,
+      "fast_bump": 28,
+      "rebound": 28,
+      "fast_rebound": 30
+    },
+    "left_front": {
+      "bump": 13,
+      "fast_bump": 28,
+      "rebound": 22,
+      "fast_rebound": 30
+    },
+    "right_front": {
+      "bump": 13,
+      "fast_bump": 28,
+      "rebound": 22,
+      "fast_rebound": 30
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 68,
+      "rear_wing": 8,
+      "brake_ducts": 3
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 3
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Indianapolis.docx",
+    "sourceMarker": "BMW M4 GT3 - indy - SF",
+    "sourceHeaderLine": "SF M4 GT3 INDY Q01.jsonSF M4 GT3 INDY RF01.jsonSF M4 GT3 INDY RS01.json",
+    "originalLabel": "Q01"
+  }
+}

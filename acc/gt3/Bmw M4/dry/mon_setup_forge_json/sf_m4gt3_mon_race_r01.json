@@ -3,105 +3,115 @@
   "session": "race",
   "raceStyle": null,
   "car": "bmw_m4_gt3",
-  "track": "monza",
+  "track": "mon",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
   "tyres": {
+    "right_rear": {
+      "psi": 25.7,
+      "toe": 0.02,
+      "camber": -3.5
+    },
+    "left_rear": {
+      "psi": 25,
+      "toe": 0.02,
+      "camber": -3.5
+    },
     "left_front": {
       "psi": 25.4,
       "toe": -0.1,
-      "camber": -4.0,
+      "camber": -4,
       "caster": 13.9
     },
     "right_front": {
       "psi": 26.2,
       "toe": -0.1,
-      "camber": -4.0,
+      "camber": -4,
       "caster": 13.9
-    },
-    "left_rear": {
-      "psi": 25.0,
-      "toe": 0.02,
-      "camber": -3.5
-    },
-    "right_rear": {
-      "psi": 25.7,
-      "toe": 0.02,
-      "camber": -3.5
     }
   },
   "electronics": {
-    "tc": 2.0,
-    "abs": 2.0,
-    "ecu_map": 1.0,
-    "tc2": 0.0
+    "tc": 1,
+    "abs": 2,
+    "ecu_map": 1,
+    "tc2": 0
   },
   "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 90000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 24
+    },
     "front": {
-      "antiroll_bar": 4.0,
-      "brake_power": 100.0,
+      "antiroll_bar": 4,
+      "brake_power": 100,
       "brake_bias": 48.5,
-      "steer_ratio": 12.0
-    },
-    "rear": {
-      "antiroll_bar": 0.0,
-      "preload_differential": 60.0
-    },
-    "left_front": {
-      "wheel_rate": 105000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 32.0
+      "steer_ratio": 12
     },
     "right_front": {
-      "wheel_rate": 105000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 32.0
-    },
-    "left_rear": {
-      "wheel_rate": 90000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 24.0
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 32
     },
     "right_rear": {
-      "wheel_rate": 90000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 24.0
+      "wheel_rate": 90000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 24
+    },
+    "rear": {
+      "antiroll_bar": 0,
+      "preload_differential": 60
+    },
+    "left_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 32
     }
   },
   "dampers": {
-    "left_front": {
-      "bump": 0.0,
-      "fast_bump": 0.0,
-      "rebound": 40.0,
-      "fast_rebound": 0.0
-    },
-    "right_front": {
-      "bump": 0.0,
-      "fast_bump": 0.0,
-      "rebound": 40.0,
-      "fast_rebound": 0.0
+    "right_rear": {
+      "bump": 0,
+      "fast_bump": 49,
+      "rebound": 40,
+      "fast_rebound": 49
     },
     "left_rear": {
-      "bump": 0.0,
-      "fast_bump": 49.0,
-      "rebound": 40.0,
-      "fast_rebound": 49.0
+      "bump": 0,
+      "fast_bump": 49,
+      "rebound": 40,
+      "fast_rebound": 49
     },
-    "right_rear": {
-      "bump": 0.0,
-      "fast_bump": 49.0,
-      "rebound": 40.0,
-      "fast_rebound": 49.0
+    "left_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 0
+    },
+    "right_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 0
     }
   },
   "aero": {
-    "front": {
-      "ride_height": 50.0,
-      "splitter": 0.0,
-      "brake_ducts": 2.0
-    },
     "rear": {
-      "ride_height": 59.0,
-      "rear_wing": 6.0,
-      "brake_ducts": 2.0
+      "ride_height": 59,
+      "rear_wing": 6,
+      "brake_ducts": 2
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 2
     }
+  },
+  "provenance": {
+    "sourceDocument": "Monza.docx",
+    "sourceMarker": "BMW M4 GT3 - mon - SF",
+    "sourceHeaderLine": "SF M M4 GT3 MON Q LFM.jsonSF M M4 GT3 MON Q.jsonSF M M4 GT3 MON R LFM.jsonSF M M4 GT3 MON R.jsonSF M4 GT3 MON Q01.jsonSF M4 GT3 MON RF01.jsonSF M4 GT3 MON RS01.json",
+    "originalLabel": "R LFM"
   }
 }

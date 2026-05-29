@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_720s_indy_race_r04",
+  "session": "race",
+  "raceStyle": "safe",
+  "car": "mclaren_720s_gt3_evo",
+  "track": "indy",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "right_rear": {
+      "psi": 25.4,
+      "toe": 0,
+      "camber": -3.5
+    },
+    "left_front": {
+      "psi": 24.7,
+      "toe": -0.18,
+      "camber": -4,
+      "caster": 12.8
+    },
+    "left_rear": {
+      "psi": 24.3,
+      "toe": 0,
+      "camber": -3.5
+    },
+    "right_front": {
+      "psi": 25.9,
+      "toe": -0.18,
+      "camber": -4,
+      "caster": 12.8
+    }
+  },
+  "electronics": {
+    "tc": 2,
+    "abs": 3,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_front": {
+      "wheel_rate": 150000,
+      "bumpstop_rate": 1400,
+      "bumpstop_range": 10
+    },
+    "right_front": {
+      "wheel_rate": 150000,
+      "bumpstop_rate": 1400,
+      "bumpstop_range": 10
+    },
+    "front": {
+      "antiroll_bar": 9,
+      "brake_power": 100,
+      "brake_bias": 51.4,
+      "steer_ratio": 12
+    },
+    "rear": {
+      "antiroll_bar": 8,
+      "preload_differential": 70
+    },
+    "right_rear": {
+      "wheel_rate": 97000,
+      "bumpstop_rate": 900,
+      "bumpstop_range": 10
+    },
+    "left_rear": {
+      "wheel_rate": 97000,
+      "bumpstop_rate": 900,
+      "bumpstop_range": 10
+    }
+  },
+  "dampers": {
+    "right_rear": {
+      "bump": 10,
+      "fast_bump": 31,
+      "rebound": 36,
+      "fast_rebound": 29
+    },
+    "left_front": {
+      "bump": 21,
+      "fast_bump": 35,
+      "rebound": 36,
+      "fast_rebound": 37
+    },
+    "left_rear": {
+      "bump": 10,
+      "fast_bump": 31,
+      "rebound": 36,
+      "fast_rebound": 29
+    },
+    "right_front": {
+      "bump": 21,
+      "fast_bump": 35,
+      "rebound": 36,
+      "fast_rebound": 37
+    }
+  },
+  "aero": {
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 4
+    },
+    "rear": {
+      "ride_height": 64,
+      "rear_wing": 10,
+      "brake_ducts": 4
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Indianapolis.docx",
+    "sourceMarker": "McLaren 720S GT3 EVO - indy - SF",
+    "sourceHeaderLine": "SF 720S EVO INDY Q01.jsonSF 720S EVO INDY Q02.jsonSF 720S EVO INDY RF01.jsonSF 720S EVO INDY RF02.jsonSF 720S EVO INDY RS01.jsonSF 720S EVO INDY RS02.json",
+    "originalLabel": "RS02"
+  }
+}

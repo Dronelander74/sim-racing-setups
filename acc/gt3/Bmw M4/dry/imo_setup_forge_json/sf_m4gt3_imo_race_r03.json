@@ -1,107 +1,117 @@
 {
   "setupName": "sf_m4gt3_imo_race_r03",
   "session": "race",
-  "raceStyle": "fast",
+  "raceStyle": null,
   "car": "bmw_m4_gt3",
-  "track": "imola",
+  "track": "imo",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
   "tyres": {
-    "left_front": {
-      "psi": 25.8,
-      "toe": -0.2,
-      "camber": -4.0,
-      "caster": 13.0
-    },
-    "right_front": {
-      "psi": 25.3,
-      "toe": -0.2,
-      "camber": -4.0,
-      "caster": 13.0
+    "right_rear": {
+      "psi": 24.4,
+      "toe": 0.03,
+      "camber": -3.5
     },
     "left_rear": {
       "psi": 24.8,
       "toe": 0.03,
       "camber": -3.5
     },
-    "right_rear": {
-      "psi": 24.4,
-      "toe": 0.03,
-      "camber": -3.5
+    "left_front": {
+      "psi": 25.8,
+      "toe": -0.2,
+      "camber": -4,
+      "caster": 13
+    },
+    "right_front": {
+      "psi": 25.3,
+      "toe": -0.2,
+      "camber": -4,
+      "caster": 13
     }
   },
   "electronics": {
-    "tc": 2.0,
-    "abs": 2.0,
-    "ecu_map": 1.0,
-    "tc2": 0.0
+    "tc": 1,
+    "abs": 2,
+    "ecu_map": 1,
+    "tc2": 0
   },
   "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 90000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 25
+    },
     "front": {
-      "antiroll_bar": 5.0,
-      "brake_power": 100.0,
+      "antiroll_bar": 5,
+      "brake_power": 100,
       "brake_bias": 50.9,
-      "steer_ratio": 12.0
-    },
-    "rear": {
-      "antiroll_bar": 1.0,
-      "preload_differential": 50.0
-    },
-    "left_front": {
-      "wheel_rate": 105000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 14.0
+      "steer_ratio": 12
     },
     "right_front": {
-      "wheel_rate": 105000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 14.0
-    },
-    "left_rear": {
-      "wheel_rate": 90000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 25.0
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 14
     },
     "right_rear": {
-      "wheel_rate": 90000.0,
-      "bumpstop_rate": 200.0,
-      "bumpstop_range": 25.0
+      "wheel_rate": 90000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 25
+    },
+    "rear": {
+      "antiroll_bar": 1,
+      "preload_differential": 50
+    },
+    "left_front": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 200,
+      "bumpstop_range": 14
     }
   },
   "dampers": {
-    "left_front": {
-      "bump": 0.0,
-      "fast_bump": 0.0,
-      "rebound": 40.0,
-      "fast_rebound": 45.0
-    },
-    "right_front": {
-      "bump": 0.0,
-      "fast_bump": 0.0,
-      "rebound": 40.0,
-      "fast_rebound": 45.0
+    "right_rear": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 45
     },
     "left_rear": {
-      "bump": 0.0,
-      "fast_bump": 0.0,
-      "rebound": 40.0,
-      "fast_rebound": 45.0
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 45
     },
-    "right_rear": {
-      "bump": 0.0,
-      "fast_bump": 0.0,
-      "rebound": 40.0,
-      "fast_rebound": 45.0
+    "left_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 45
+    },
+    "right_front": {
+      "bump": 0,
+      "fast_bump": 0,
+      "rebound": 40,
+      "fast_rebound": 45
     }
   },
   "aero": {
-    "front": {
-      "ride_height": 50.0,
-      "splitter": 0.0,
-      "brake_ducts": 3.0
-    },
     "rear": {
-      "ride_height": 65.0,
-      "rear_wing": 8.0,
-      "brake_ducts": 2.0
+      "ride_height": 65,
+      "rear_wing": 8,
+      "brake_ducts": 2
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 3
     }
+  },
+  "provenance": {
+    "sourceDocument": "Imola.docx",
+    "sourceMarker": "BMW M4 GT3 - imo - SF",
+    "sourceHeaderLine": "SF M M4 GT3 IMO LFM Q02.jsonSF M M4 GT3 IMO LFM R02.jsonSF M M4 GT3 IMO Q LFM.jsonSF M M4 GT3 IMO Q.jsonSF M M4 GT3 IMO R LFM.jsonSF M M4 GT3 IMO R.jsonSF M4 GT3 IMO Q01.jsonSF M4 GT3 IMO RF01.jsonSF M4 GT3 IMO RS01.json",
+    "originalLabel": "R"
   }
 }

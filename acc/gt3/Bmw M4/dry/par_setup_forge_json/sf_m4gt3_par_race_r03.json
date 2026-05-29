@@ -3,29 +3,33 @@
   "session": "race",
   "raceStyle": "fast",
   "car": "bmw_m4_gt3",
-  "track": "paul_ricard",
+  "track": "par",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
   "tyres": {
+    "right_rear": {
+      "psi": 25.3,
+      "toe": 0.02,
+      "camber": -3.3
+    },
+    "left_rear": {
+      "psi": 24.3,
+      "toe": 0.02,
+      "camber": -3.3
+    },
     "left_front": {
       "psi": 24.6,
-      "toe": -0.12,
+      "toe": -0.07,
       "camber": -3.8,
       "caster": 12.2
     },
     "right_front": {
       "psi": 25.7,
-      "toe": -0.12,
+      "toe": -0.07,
       "camber": -3.8,
       "caster": 12.2
-    },
-    "left_rear": {
-      "psi": 24.3,
-      "toe": 0.02,
-      "camber": -3.1
-    },
-    "right_rear": {
-      "psi": 25.3,
-      "toe": 0.02,
-      "camber": -3.1
     }
   },
   "electronics": {
@@ -35,38 +39,50 @@
     "tc2": 0
   },
   "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 105000,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 20
+    },
     "front": {
       "antiroll_bar": 1,
       "brake_power": 100,
       "brake_bias": 54.5,
       "steer_ratio": 14
     },
-    "rear": {
-      "antiroll_bar": 3,
-      "preload_differential": 90
-    },
-    "left_front": {
-      "wheel_rate": 120000,
-      "bumpstop_rate": 1000,
-      "bumpstop_range": 25
-    },
     "right_front": {
       "wheel_rate": 120000,
       "bumpstop_rate": 1000,
       "bumpstop_range": 25
     },
-    "left_rear": {
-      "wheel_rate": 105000,
-      "bumpstop_rate": 800,
-      "bumpstop_range": 29
-    },
     "right_rear": {
       "wheel_rate": 105000,
       "bumpstop_rate": 800,
-      "bumpstop_range": 29
+      "bumpstop_range": 20
+    },
+    "rear": {
+      "antiroll_bar": 2,
+      "preload_differential": 120
+    },
+    "left_front": {
+      "wheel_rate": 120000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 25
     }
   },
   "dampers": {
+    "right_rear": {
+      "bump": 10,
+      "fast_bump": 32,
+      "rebound": 29,
+      "fast_rebound": 34
+    },
+    "left_rear": {
+      "bump": 10,
+      "fast_bump": 32,
+      "rebound": 29,
+      "fast_rebound": 34
+    },
     "left_front": {
       "bump": 12,
       "fast_bump": 30,
@@ -78,30 +94,24 @@
       "fast_bump": 30,
       "rebound": 32,
       "fast_rebound": 32
-    },
-    "left_rear": {
-      "bump": 10,
-      "fast_bump": 35,
-      "rebound": 29,
-      "fast_rebound": 37
-    },
-    "right_rear": {
-      "bump": 10,
-      "fast_bump": 35,
-      "rebound": 29,
-      "fast_rebound": 37
     }
   },
   "aero": {
+    "rear": {
+      "ride_height": 50,
+      "rear_wing": 3,
+      "brake_ducts": 3
+    },
     "front": {
       "ride_height": 54,
       "splitter": 0,
       "brake_ducts": 4
-    },
-    "rear": {
-      "ride_height": 54,
-      "rear_wing": 4,
-      "brake_ducts": 3
     }
+  },
+  "provenance": {
+    "sourceDocument": "Paul_Ricard.docx",
+    "sourceMarker": "BMW M4 GT3 - par - SF",
+    "sourceHeaderLine": "SF M M4 GT3 PAR Q LFM.jsonSF M M4 GT3 PAR R LFM.jsonSF M M4 GT3 PAR Q.jsonSF M M4 GT3 PAR R.jsonSF M4 GT3 PAR Q01.jsonSF M4 GT3 PAR RF01.jsonSF M4 GT3 PAR RS01.json",
+    "originalLabel": "RF01"
   }
 }

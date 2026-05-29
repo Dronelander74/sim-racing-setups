@@ -1,0 +1,117 @@
+{
+  "setupName": "sf_m4gt3_pan_quali_q02",
+  "session": "quali",
+  "raceStyle": null,
+  "car": "bmw_m4_gt3",
+  "track": "pan",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "right_rear": {
+      "psi": 24.7,
+      "toe": 0.02,
+      "camber": -3.1
+    },
+    "left_rear": {
+      "psi": 25.2,
+      "toe": 0.02,
+      "camber": -3.1
+    },
+    "left_front": {
+      "psi": 25.5,
+      "toe": -0.15,
+      "camber": -4,
+      "caster": 12.2
+    },
+    "right_front": {
+      "psi": 24.9,
+      "toe": -0.15,
+      "camber": -4,
+      "caster": 12.2
+    }
+  },
+  "electronics": {
+    "tc": 4,
+    "abs": 4,
+    "ecu_map": 1,
+    "tc2": 0
+  },
+  "mechanical_grip": {
+    "left_rear": {
+      "wheel_rate": 90000,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 50
+    },
+    "front": {
+      "antiroll_bar": 3,
+      "brake_power": 100,
+      "brake_bias": 53,
+      "steer_ratio": 12
+    },
+    "right_front": {
+      "wheel_rate": 135000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 18
+    },
+    "right_rear": {
+      "wheel_rate": 90000,
+      "bumpstop_rate": 800,
+      "bumpstop_range": 50
+    },
+    "rear": {
+      "antiroll_bar": 4,
+      "preload_differential": 90
+    },
+    "left_front": {
+      "wheel_rate": 135000,
+      "bumpstop_rate": 1000,
+      "bumpstop_range": 18
+    }
+  },
+  "dampers": {
+    "right_rear": {
+      "bump": 10,
+      "fast_bump": 32,
+      "rebound": 29,
+      "fast_rebound": 34
+    },
+    "left_rear": {
+      "bump": 10,
+      "fast_bump": 32,
+      "rebound": 29,
+      "fast_rebound": 34
+    },
+    "left_front": {
+      "bump": 12,
+      "fast_bump": 30,
+      "rebound": 32,
+      "fast_rebound": 32
+    },
+    "right_front": {
+      "bump": 12,
+      "fast_bump": 30,
+      "rebound": 32,
+      "fast_rebound": 32
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 60,
+      "rear_wing": 4,
+      "brake_ducts": 3
+    },
+    "front": {
+      "ride_height": 50,
+      "splitter": 0,
+      "brake_ducts": 3
+    }
+  },
+  "provenance": {
+    "sourceDocument": "Mount_Panorama.docx",
+    "sourceMarker": "BMW M4 GT3 - pan - SF",
+    "sourceHeaderLine": "SF M M4 GT3 PAN Q.jsonSF M M4 GT3 PAN R.jsonSF M4 GT3 PAN Q01.jsonSF M4 GT3 PAN RF01.jsonSF M4 GT3 PAN RS01.json",
+    "originalLabel": "Q01"
+  }
+}
