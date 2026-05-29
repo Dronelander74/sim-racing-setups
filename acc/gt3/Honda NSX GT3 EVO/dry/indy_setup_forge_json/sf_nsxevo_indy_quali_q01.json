@@ -1,115 +1,111 @@
-﻿{
-    "setupName":  "sf_nsxevo_indy_quali_q01",
-    "session":  "quali",
-    "raceStyle":  null,
-    "car":  "honda_nsx_gt3_evo",
-    "track":  "indy",
-    "conditions":  {
-                       "weather":  "dry",
-                       "intensity":  null
-                   },
-    "values":  {
-                   "Tyres":  {
-                                 "Left Front":  {
-                                                    "psi":  24.7,
-                                                    "toe":  -0.06,
-                                                    "camber":  -4,
-                                                    "caster":  8.4
-                                                },
-                                 "Right Front":  {
-                                                     "psi":  26.4,
-                                                     "toe":  -0.06,
-                                                     "camber":  -4,
-                                                     "caster":  8.4
-                                                 },
-                                 "Left Rear":  {
-                                                   "psi":  24,
-                                                   "toe":  -0.02,
-                                                   "camber":  -3.5
-                                               },
-                                 "Right Rear":  {
-                                                    "psi":  25.3,
-                                                    "toe":  -0.02,
-                                                    "camber":  -3.5
-                                                }
-                             },
-                   "Electronics":  {
-                                       "Electronic Elements":  {
-                                                                   "TC":  1,
-                                                                   "ABS":  4,
-                                                                   "ECU Map":  1,
-                                                                   "TC2":  10
-                                                               }
-                                   },
-                   "Mechanical Grip":  {
-                                           "Front":  {
-                                                         "antiroll bar":  4,
-                                                         "brake power":  100,
-                                                         "brake bias":  51,
-                                                         "steer ratio":  12
-                                                     },
-                                           "Left Front":  {
-                                                              "wheel rate":  103400,
-                                                              "bumpstop rate":  400,
-                                                              "bumpstop range":  12
-                                                          },
-                                           "Right Front":  {
-                                                               "wheel rate":  103400,
-                                                               "bumpstop rate":  400,
-                                                               "bumpstop range":  12
-                                                           },
-                                           "Left Rear":  {
-                                                             "wheel rate":  182100,
-                                                             "bumpstop rate":  350,
-                                                             "bumpstop range":  19
-                                                         },
-                                           "Right Rear":  {
-                                                              "wheel rate":  182100,
-                                                              "bumpstop rate":  350,
-                                                              "bumpstop range":  19
-                                                          },
-                                           "Rear":  {
-                                                        "antiroll bar":  3,
-                                                        "preload differential":  100
-                                                    }
-                                       },
-                   "Dampers":  {
-                                   "Left Front":  {
-                                                      "bump":  9,
-                                                      "fast bump":  13,
-                                                      "rebound":  11,
-                                                      "fast rebound":  13
-                                                  },
-                                   "Right Front":  {
-                                                       "bump":  9,
-                                                       "fast bump":  13,
-                                                       "rebound":  11,
-                                                       "fast rebound":  13
-                                                   },
-                                   "Left Rear":  {
-                                                     "bump":  11,
-                                                     "fast bump":  7,
-                                                     "rebound":  13,
-                                                     "fast rebound":  11
-                                                 },
-                                   "Right Rear":  {
-                                                      "bump":  11,
-                                                      "fast bump":  7,
-                                                      "rebound":  13,
-                                                      "fast rebound":  11
-                                                  }
-                               },
-                   "Aero":  {
-                                "Rear":  {
-                                             "ride height":  69,
-                                             "rear wing":  12,
-                                             "brake ducts":  3
-                                         },
-                                "Front":  {
-                                              "ride height":  55,
-                                              "splitter":  0,
-                                              "brake ducts":  4
-                                          }
-                            }
-               }
+{
+  "setupName": "sf_nsxevo_indy_quali_q01",
+  "session": "quali",
+  "raceStyle": null,
+  "car": "honda_nsx_gt3_evo",
+  "track": "indy",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "left_front": {
+      "psi": 24.7,
+      "toe": -0.06,
+      "camber": -4,
+      "caster": 8.4
+    },
+    "right_front": {
+      "psi": 26.4,
+      "toe": -0.06,
+      "camber": -4,
+      "caster": 8.4
+    },
+    "left_rear": {
+      "psi": 24,
+      "toe": -0.02,
+      "camber": -3.5
+    },
+    "right_rear": {
+      "psi": 25.3,
+      "toe": -0.02,
+      "camber": -3.5
+    }
+  },
+  "electronics": {
+    "tc": 1,
+    "abs": 4,
+    "ecu_map": 1,
+    "tc2": 10
+  },
+  "mechanical_grip": {
+    "front": {
+      "antiroll_bar": 4,
+      "brake_power": 100,
+      "brake_bias": 51,
+      "steer_ratio": 12
+    },
+    "left_front": {
+      "wheel_rate": 103400,
+      "bumpstop_rate": 400,
+      "bumpstop_range": 12
+    },
+    "right_front": {
+      "wheel_rate": 103400,
+      "bumpstop_rate": 400,
+      "bumpstop_range": 12
+    },
+    "left_rear": {
+      "wheel_rate": 182100,
+      "bumpstop_rate": 350,
+      "bumpstop_range": 19
+    },
+    "right_rear": {
+      "wheel_rate": 182100,
+      "bumpstop_rate": 350,
+      "bumpstop_range": 19
+    },
+    "rear": {
+      "antiroll_bar": 3,
+      "preload_differential": 100
+    }
+  },
+  "dampers": {
+    "left_front": {
+      "bump": 9,
+      "fast_bump": 13,
+      "rebound": 11,
+      "fast_rebound": 13
+    },
+    "right_front": {
+      "bump": 9,
+      "fast_bump": 13,
+      "rebound": 11,
+      "fast_rebound": 13
+    },
+    "left_rear": {
+      "bump": 11,
+      "fast_bump": 7,
+      "rebound": 13,
+      "fast_rebound": 11
+    },
+    "right_rear": {
+      "bump": 11,
+      "fast_bump": 7,
+      "rebound": 13,
+      "fast_rebound": 11
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 69,
+      "rear_wing": 12,
+      "brake_ducts": 3
+    },
+    "front": {
+      "ride_height": 55,
+      "splitter": 0,
+      "brake_ducts": 4
+    }
+  }
 }

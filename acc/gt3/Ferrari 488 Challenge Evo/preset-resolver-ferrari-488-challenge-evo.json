@@ -1,0 +1,283 @@
+{
+  "_schema": "preset-resolver-v2",
+  "ferrari_488_challenge_evo": {
+    "dry": {
+      "bar": {
+        "FAST": [
+          "sf_ferrari488_bar_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_bar_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_bar_race_r01"
+        ]
+      },
+      "brh": {
+        "FAST": [
+          "sf_ferrari488_brh_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_brh_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_brh_race_r01"
+        ]
+      },
+      "cota": {
+        "FAST": [
+          "sf_ferrari488_cota_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_cota_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_cota_race_r01"
+        ]
+      },
+      "dnp": {
+        "FAST": [
+          "sf_ferrari488_dnp_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_dnp_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_dnp_race_r01"
+        ]
+      },
+      "hun": {
+        "FAST": [
+          "sf_ferrari488_hun_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_hun_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_hun_race_r01"
+        ]
+      },
+      "imo": {
+        "FAST": [
+          "sf_ferrari488_imo_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_imo_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_imo_race_r01"
+        ]
+      },
+      "indy": {
+        "FAST": [
+          "sf_ferrari488_indy_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_indy_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_indy_race_r01"
+        ]
+      },
+      "kya": {
+        "FAST": [
+          "sf_ferrari488_kya_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_kya_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_kya_race_r01"
+        ]
+      },
+      "lag": {
+        "FAST": [
+          "sf_ferrari488_lag_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_lag_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_lag_race_r01"
+        ]
+      },
+      "mis": {
+        "FAST": [
+          "sf_ferrari488_mis_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_mis_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_mis_race_r01"
+        ]
+      },
+      "mon": {
+        "FAST": [
+          "sf_ferrari488_mon_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_mon_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_mon_race_r01"
+        ]
+      },
+      "nord": {
+        "FAST": [
+          "sf_ferrari488_nord_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_nord_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_nord_race_rs01"
+        ]
+      },
+      "nur": {
+        "FAST": [
+          "sf_ferrari488_nur_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_nur_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_nur_race_r01"
+        ]
+      },
+      "otp": {
+        "FAST": [
+          "sf_ferrari488_otp_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_otp_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_otp_race_r01"
+        ]
+      },
+      "pan": {
+        "FAST": [
+          "sf_ferrari488_pan_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_pan_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_pan_race_r01"
+        ]
+      },
+      "par": {
+        "FAST": [
+          "sf_ferrari488_par_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_par_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_par_race_r01"
+        ]
+      },
+      "rbr": {
+        "FAST": [
+          "sf_ferrari488_rbr_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_rbr_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_rbr_race_r01"
+        ]
+      },
+      "sil": {
+        "FAST": [
+          "sf_ferrari488_sil_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_sil_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_sil_race_r01"
+        ]
+      },
+      "snt": {
+        "FAST": [
+          "sf_ferrari488_snt_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_snt_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_snt_race_r01"
+        ]
+      },
+      "spa": {
+        "FAST": [
+          "sf_ferrari488_spa_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_spa_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_spa_race_r01"
+        ]
+      },
+      "suz": {
+        "FAST": [
+          "sf_ferrari488_suz_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_suz_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_suz_race_r01"
+        ]
+      },
+      "val": {
+        "FAST": [
+          "sf_ferrari488_val_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_val_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_val_race_r01"
+        ]
+      },
+      "wkg": {
+        "FAST": [
+          "sf_ferrari488_wkg_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_wkg_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_wkg_race_r01"
+        ]
+      },
+      "zan": {
+        "FAST": [
+          "sf_ferrari488_zan_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_zan_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_zan_race_r01"
+        ]
+      },
+      "zol": {
+        "FAST": [
+          "sf_ferrari488_zol_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_ferrari488_zol_race_r01"
+        ],
+        "SAFE": [
+          "sf_ferrari488_zol_race_r01"
+        ]
+      }
+    },
+    "wet": {}
+  }
+}

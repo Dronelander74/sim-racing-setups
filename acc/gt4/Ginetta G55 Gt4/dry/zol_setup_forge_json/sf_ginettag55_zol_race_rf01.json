@@ -1,115 +1,111 @@
-﻿{
-    "setupName":  "sf_ginettag55_zol_race_rf01",
-    "session":  "race",
-    "raceStyle":  "fast",
-    "car":  "ginetta_g55_gt4",
-    "track":  "zol",
-    "conditions":  {
-                       "weather":  "dry",
-                       "intensity":  null
-                   },
-    "values":  {
-                   "Tyres":  {
-                                 "Left Front":  {
-                                                    "psi":  21.2,
-                                                    "toe":  -0.1,
-                                                    "camber":  -4,
-                                                    "caster":  11.1
-                                                },
-                                 "Right Front":  {
-                                                     "psi":  22.2,
-                                                     "toe":  -0.1,
-                                                     "camber":  -4,
-                                                     "caster":  11.1
-                                                 },
-                                 "Left Rear":  {
-                                                   "psi":  20.8,
-                                                   "toe":  0.07,
-                                                   "camber":  -3.5
-                                               },
-                                 "Right Rear":  {
-                                                    "psi":  21.6,
-                                                    "toe":  0.07,
-                                                    "camber":  -3.5
-                                                }
-                             },
-                   "Electronics":  {
-                                       "Electronic Elements":  {
-                                                                   "TC":  1,
-                                                                   "ABS":  1,
-                                                                   "ECU Map":  1,
-                                                                   "TC2":  1
-                                                               }
-                                   },
-                   "Mechanical Grip":  {
-                                           "Front":  {
-                                                         "antiroll bar":  3,
-                                                         "brake power":  100,
-                                                         "brake bias":  51,
-                                                         "steer ratio":  15
-                                                     },
-                                           "Left Front":  {
-                                                              "wheel rate":  100000,
-                                                              "bumpstop rate":  1900,
-                                                              "bumpstop range":  20
-                                                          },
-                                           "Right Front":  {
-                                                               "wheel rate":  100000,
-                                                               "bumpstop rate":  1900,
-                                                               "bumpstop range":  20
-                                                           },
-                                           "Left Rear":  {
-                                                             "wheel rate":  100000,
-                                                             "bumpstop rate":  1600,
-                                                             "bumpstop range":  40
-                                                         },
-                                           "Right Rear":  {
-                                                              "wheel rate":  100000,
-                                                              "bumpstop rate":  1600,
-                                                              "bumpstop range":  40
-                                                          },
-                                           "Rear":  {
-                                                        "antiroll bar":  1,
-                                                        "preload differential":  90
-                                                    }
-                                       },
-                   "Dampers":  {
-                                   "Left Front":  {
-                                                      "bump":  15,
-                                                      "fast bump":  0,
-                                                      "rebound":  15,
-                                                      "fast rebound":  0
-                                                  },
-                                   "Right Front":  {
-                                                       "bump":  15,
-                                                       "fast bump":  0,
-                                                       "rebound":  15,
-                                                       "fast rebound":  0
-                                                   },
-                                   "Left Rear":  {
-                                                     "bump":  9,
-                                                     "fast bump":  0,
-                                                     "rebound":  18,
-                                                     "fast rebound":  0
-                                                 },
-                                   "Right Rear":  {
-                                                      "bump":  9,
-                                                      "fast bump":  0,
-                                                      "rebound":  18,
-                                                      "fast rebound":  0
-                                                  }
-                               },
-                   "Aero":  {
-                                "Rear":  {
-                                             "ride height":  80,
-                                             "rear wing":  2,
-                                             "brake ducts":  5
-                                         },
-                                "Front":  {
-                                              "ride height":  80,
-                                              "splitter":  0,
-                                              "brake ducts":  2
-                                          }
-                            }
-               }
+{
+  "setupName": "sf_ginettag55_zol_race_rf01",
+  "session": "race",
+  "raceStyle": null,
+  "car": "ginetta_g55_gt4",
+  "track": "zol",
+  "conditions": {
+    "weather": "dry",
+    "intensity": null
+  },
+  "tyres": {
+    "left_front": {
+      "psi": 21.2,
+      "toe": -0.1,
+      "camber": -4,
+      "caster": 11.1
+    },
+    "right_front": {
+      "psi": 22.2,
+      "toe": -0.1,
+      "camber": -4,
+      "caster": 11.1
+    },
+    "left_rear": {
+      "psi": 20.8,
+      "toe": 0.07,
+      "camber": -3.5
+    },
+    "right_rear": {
+      "psi": 21.6,
+      "toe": 0.07,
+      "camber": -3.5
+    }
+  },
+  "electronics": {
+    "tc": 1,
+    "abs": 1,
+    "ecu_map": 1,
+    "tc2": 1
+  },
+  "mechanical_grip": {
+    "front": {
+      "antiroll_bar": 3,
+      "brake_power": 100,
+      "brake_bias": 51,
+      "steer_ratio": 15
+    },
+    "left_front": {
+      "wheel_rate": 100000,
+      "bumpstop_rate": 1900,
+      "bumpstop_range": 20
+    },
+    "right_front": {
+      "wheel_rate": 100000,
+      "bumpstop_rate": 1900,
+      "bumpstop_range": 20
+    },
+    "left_rear": {
+      "wheel_rate": 100000,
+      "bumpstop_rate": 1600,
+      "bumpstop_range": 40
+    },
+    "right_rear": {
+      "wheel_rate": 100000,
+      "bumpstop_rate": 1600,
+      "bumpstop_range": 40
+    },
+    "rear": {
+      "antiroll_bar": 1,
+      "preload_differential": 90
+    }
+  },
+  "dampers": {
+    "left_front": {
+      "bump": 15,
+      "fast_bump": 0,
+      "rebound": 15,
+      "fast_rebound": 0
+    },
+    "right_front": {
+      "bump": 15,
+      "fast_bump": 0,
+      "rebound": 15,
+      "fast_rebound": 0
+    },
+    "left_rear": {
+      "bump": 9,
+      "fast_bump": 0,
+      "rebound": 18,
+      "fast_rebound": 0
+    },
+    "right_rear": {
+      "bump": 9,
+      "fast_bump": 0,
+      "rebound": 18,
+      "fast_rebound": 0
+    }
+  },
+  "aero": {
+    "rear": {
+      "ride_height": 80,
+      "rear_wing": 2,
+      "brake_ducts": 5
+    },
+    "front": {
+      "ride_height": 80,
+      "splitter": 0,
+      "brake_ducts": 2
+    }
+  }
 }

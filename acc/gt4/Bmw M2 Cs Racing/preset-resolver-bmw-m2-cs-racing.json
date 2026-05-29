@@ -1,0 +1,283 @@
+{
+  "_schema": "preset-resolver-v2",
+  "bmw_m2_cs_racing": {
+    "dry": {
+      "bar": {
+        "FAST": [
+          "sf_bmwm2csrac_bar_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_bar_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_bar_race_r01"
+        ]
+      },
+      "brh": {
+        "FAST": [
+          "sf_bmwm2csrac_brh_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_brh_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_brh_race_r01"
+        ]
+      },
+      "cota": {
+        "FAST": [
+          "sf_bmwm2csrac_cota_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_cota_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_cota_race_r01"
+        ]
+      },
+      "dnp": {
+        "FAST": [
+          "sf_bmwm2csrac_dnp_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_dnp_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_dnp_race_r01"
+        ]
+      },
+      "hun": {
+        "FAST": [
+          "sf_bmwm2csrac_hun_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_hun_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_hun_race_r01"
+        ]
+      },
+      "imo": {
+        "FAST": [
+          "sf_bmwm2csrac_imo_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_imo_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_imo_race_r01"
+        ]
+      },
+      "indy": {
+        "FAST": [
+          "sf_bmwm2csrac_indy_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_indy_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_indy_race_r01"
+        ]
+      },
+      "kya": {
+        "FAST": [
+          "sf_bmwm2csrac_kya_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_kya_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_kya_race_r01"
+        ]
+      },
+      "lag": {
+        "FAST": [
+          "sf_bmwm2csrac_lag_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_lag_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_lag_race_r01"
+        ]
+      },
+      "mis": {
+        "FAST": [
+          "sf_bmwm2csrac_mis_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_mis_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_mis_race_r01"
+        ]
+      },
+      "mon": {
+        "FAST": [
+          "sf_bmwm2csrac_mon_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_mon_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_mon_race_r01"
+        ]
+      },
+      "nord": {
+        "FAST": [
+          "sf_bmwm2csrac_nord_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_nord_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_nord_race_rs01"
+        ]
+      },
+      "nur": {
+        "FAST": [
+          "sf_bmwm2csrac_nur_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_nur_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_nur_race_r01"
+        ]
+      },
+      "otp": {
+        "FAST": [
+          "sf_bmwm2csrac_otp_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_otp_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_otp_race_r01"
+        ]
+      },
+      "pan": {
+        "FAST": [
+          "sf_bmwm2csrac_pan_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_pan_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_pan_race_r01"
+        ]
+      },
+      "par": {
+        "FAST": [
+          "sf_bmwm2csrac_par_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_par_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_par_race_r01"
+        ]
+      },
+      "rbr": {
+        "FAST": [
+          "sf_bmwm2csrac_rbr_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_rbr_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_rbr_race_r01"
+        ]
+      },
+      "sil": {
+        "FAST": [
+          "sf_bmwm2csrac_sil_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_sil_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_sil_race_r01"
+        ]
+      },
+      "snt": {
+        "FAST": [
+          "sf_bmwm2csrac_snt_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_snt_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_snt_race_r01"
+        ]
+      },
+      "spa": {
+        "FAST": [
+          "sf_bmwm2csrac_spa_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_spa_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_spa_race_r01"
+        ]
+      },
+      "suz": {
+        "FAST": [
+          "sf_bmwm2csrac_suz_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_suz_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_suz_race_r01"
+        ]
+      },
+      "val": {
+        "FAST": [
+          "sf_bmwm2csrac_val_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_val_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_val_race_r01"
+        ]
+      },
+      "wkg": {
+        "FAST": [
+          "sf_bmwm2csrac_wkg_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_wkg_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_wkg_race_r01"
+        ]
+      },
+      "zan": {
+        "FAST": [
+          "sf_bmwm2csrac_zan_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_zan_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_zan_race_r01"
+        ]
+      },
+      "zol": {
+        "FAST": [
+          "sf_bmwm2csrac_zol_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_bmwm2csrac_zol_race_r01"
+        ],
+        "SAFE": [
+          "sf_bmwm2csrac_zol_race_r01"
+        ]
+      }
+    },
+    "wet": {}
+  }
+}

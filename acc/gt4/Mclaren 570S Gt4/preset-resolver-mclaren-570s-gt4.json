@@ -1,0 +1,306 @@
+{
+  "_schema": "preset-resolver-v2",
+  "mclaren_570s_gt4": {
+    "dry": {
+      "bar": {
+        "FAST": [
+          "sf_mclaren570_bar_quali_q01",
+          "sf_mclaren570_bar_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_bar_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_bar_race_rs01"
+        ]
+      },
+      "brh": {
+        "FAST": [
+          "sf_mclaren570_brh_quali_q01",
+          "sf_mclaren570_brh_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_brh_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_brh_race_rs01"
+        ]
+      },
+      "cota": {
+        "FAST": [
+          "sf_mclaren570_cota_quali_q01",
+          "sf_mclaren570_cota_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_cota_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_cota_race_rs01"
+        ]
+      },
+      "dnp": {
+        "FAST": [
+          "sf_mclaren570_dnp_quali_q01",
+          "sf_mclaren570_dnp_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_dnp_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_dnp_race_rs01"
+        ]
+      },
+      "hun": {
+        "FAST": [
+          "sf_mclaren570_hun_quali_q01",
+          "sf_mclaren570_hun_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_hun_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_hun_race_rs01"
+        ]
+      },
+      "imo": {
+        "FAST": [
+          "sf_mclaren570_imo_quali_q01",
+          "sf_mclaren570_imo_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_imo_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_imo_race_rs01"
+        ]
+      },
+      "indy": {
+        "FAST": [
+          "sf_mclaren570_indy_quali_q01",
+          "sf_mclaren570_indy_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_indy_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_indy_race_rs01"
+        ]
+      },
+      "kya": {
+        "FAST": [
+          "sf_mclaren570_kya_quali_q01",
+          "sf_mclaren570_kya_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_kya_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_kya_race_rs01"
+        ]
+      },
+      "lag": {
+        "FAST": [
+          "sf_mclaren570_lag_quali_q01",
+          "sf_mclaren570_lag_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_lag_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_lag_race_rs01"
+        ]
+      },
+      "mis": {
+        "FAST": [
+          "sf_mclaren570_mis_quali_q01",
+          "sf_mclaren570_mis_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_mis_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_mis_race_rs01"
+        ]
+      },
+      "mon": {
+        "FAST": [
+          "sf_mclaren570_mon_quali_q01",
+          "sf_mclaren570_mon_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_mon_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_mon_race_rs01"
+        ]
+      },
+      "nord": {
+        "FAST": [
+          "sf_mclaren570_nord_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_nord_race_r01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_nord_race_rs01"
+        ]
+      },
+      "nur": {
+        "FAST": [
+          "sf_mclaren570_nur_quali_q01",
+          "sf_mclaren570_nur_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_nur_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_nur_race_rs01"
+        ]
+      },
+      "otp": {
+        "FAST": [
+          "sf_mclaren570_otp_quali_q01",
+          "sf_mclaren570_otp_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_otp_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_otp_race_rs01"
+        ]
+      },
+      "pan": {
+        "FAST": [
+          "sf_mclaren570_pan_quali_q01",
+          "sf_mclaren570_pan_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_pan_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_pan_race_rs01"
+        ]
+      },
+      "par": {
+        "FAST": [
+          "sf_mclaren570_par_quali_q01",
+          "sf_mclaren570_par_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_par_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_par_race_rs01"
+        ]
+      },
+      "rbr": {
+        "FAST": [
+          "sf_mclaren570_rbr_quali_q01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_rbr_race_r01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_rbr_race_rs01"
+        ]
+      },
+      "sil": {
+        "FAST": [
+          "sf_mclaren570_sil_quali_q01",
+          "sf_mclaren570_sil_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_sil_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_sil_race_rs01"
+        ]
+      },
+      "snt": {
+        "FAST": [
+          "sf_mclaren570_snt_quali_q01",
+          "sf_mclaren570_snt_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_snt_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_snt_race_rs01"
+        ]
+      },
+      "spa": {
+        "FAST": [
+          "sf_mclaren570_spa_quali_q01",
+          "sf_mclaren570_spa_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_spa_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_spa_race_rs01"
+        ]
+      },
+      "suz": {
+        "FAST": [
+          "sf_mclaren570_suz_quali_q01",
+          "sf_mclaren570_suz_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_suz_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_suz_race_rs01"
+        ]
+      },
+      "val": {
+        "FAST": [
+          "sf_mclaren570_val_quali_q01",
+          "sf_mclaren570_val_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_val_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_val_race_rs01"
+        ]
+      },
+      "wkg": {
+        "FAST": [
+          "sf_mclaren570_wkg_quali_q01",
+          "sf_mclaren570_wkg_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_wkg_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_wkg_race_rs01"
+        ]
+      },
+      "zan": {
+        "FAST": [
+          "sf_mclaren570_zan_quali_q01",
+          "sf_mclaren570_zan_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_zan_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_zan_race_rs01"
+        ]
+      },
+      "zol": {
+        "FAST": [
+          "sf_mclaren570_zol_quali_q01",
+          "sf_mclaren570_zol_race_rf01"
+        ],
+        "BALANCED": [
+          "sf_mclaren570_zol_race_rs01"
+        ],
+        "SAFE": [
+          "sf_mclaren570_zol_race_rs01"
+        ]
+      }
+    },
+    "wet": {}
+  }
+}
